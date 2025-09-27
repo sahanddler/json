@@ -1,5 +1,4 @@
 [
-
   {
     "id": "1",
     "category": "aburi", 
@@ -12,15 +11,5 @@
     "narrator": "د. نەهرۆ عەلی",
     "year": 2024,
     "chapters": ["بەشی یەکەم"]
-  },
-  
-  {
-    "id": "1",
-    "category": "فەلسەفی",
-    "author": "بەرزان ئەبوبەکر",
-    "name": "ژیان فێری کردم",
-    "image": "https://github.com/sahanddler/rsm/raw/main/falsafa_2.png",
-    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163192.mp3",
-     "duration": 3600,
-   },
+  }
 ]

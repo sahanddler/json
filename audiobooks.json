@@ -1,15 +1,16 @@
 [
   {
     "id": "1",
-    "category": "aburi", 
-    "author": "د. نەهرۆ عەلی",
-    "name": "زانستی sehand",
-    "image": "https://github.com/sahanddler/rsm/raw/main/aburi_4.png",
-    "audioUrl": "https://github.com/sahanddler/dang/raw/main/002.mp3",
-    "description": "کتێبی زانستی sehand",
+    "category": "فەلسەفی", 
+    "author": "بەرزان ئەبوبەکر",
+    "name": "ژیان فیری کردم",
+    "image": "https://github.com/sahanddler/rsm/raw/main/falsafa_2.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163192.mp3",
+     "description": "کتێبی زانستی sehand",
     "duration": 3600,
     "narrator": "د. نەهرۆ عەلی",
     "year": 2024,
     "chapters": ["بەشی یەکەم"]
+   },
   }
 ]

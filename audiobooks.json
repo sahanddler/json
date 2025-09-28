@@ -7,14 +7,19 @@
     "image": "https://github.com/sahanddler/rsm/raw/main/falsafa_2.png",
     "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163192.mp3",
     "duration": 3600,
+    "narrator": "د. نەهرۆ عەلی",
+    "year": 2024,
+    "chapters": ["بەشی یەکەم"]
    },
   {
-    "id": "2",
     "category": "ڕۆمان", 
     "author": "میچ ئەڵبۆم",
     "name": "سێشەمان لەگەڵ مۆری",
     "image": "https://github.com/sahanddler/rsm/raw/main/mori.png",
     "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163199.mp3",
     "duration": 3600,
+    "narrator": "د. نەهرۆ عەلی",
+    "year": 2024,
+    "chapters": ["بەشی یەکەم"]
      }
 ]

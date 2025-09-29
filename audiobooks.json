@@ -102,6 +102,19 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "9",
+    "category": "ڕۆمان",
+    "author": "پاولۆ کۆیلۆ",
+    "name": "کیمیاگەر",
+    "image": "https://github.com/sahanddler/rsm/raw/main/xwenar.png",
+    "audioUrl": "https://github.com/sahanddler/pdf1/raw/main/freecompress-%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%DB%95%D8%B1%20-%20%D9%BE%D8%A7%D9%88%D9%84%DB%86%20%DA%A9%DB%86%DB%8C%D9%84%DB%86(144P).mp3",
+    "description": "نییە",
+    "duration": 4200,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
  
 

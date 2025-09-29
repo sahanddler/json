@@ -115,6 +115,19 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+   {
+    "id": "10",
+    "category": "ئایینی",
+    "author": "هۆشیار نەسرەدین",
+    "name": "لە پێشوازی ڕەمەزان",
+    "image": "https://github.com/sahanddler/rsm/raw/main/peshr.png",
+    "audioUrl": "https://github.com/sahanddler/pdf1/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%D9%84%DB%95%20%D9%BE%DB%8E%D8%B4%D9%88%D8%A7%D8%B2%DB%8C%20%DA%95%DB%95%D9%85%DB%95%D8%B2%D8%A7%D9%86%20_(%D9%88%DB%95%DA%B5%D8%A7%D9%85%D8%AF%D8%A7%D9%86%DB%95%D9%88%DB%95%DB%8C%20%D8%B3%DB%95%D8%B1%D8%AC%DB%95%D9%85%20%D9%BE%D8%B1%D8%B3%DB%8C%D8%A7%D8%B1%DB%95%DA%A9%D8%A7%D9%86%DB%8C%20%D8%AA%D8%A7%DB%8C%D8%A8%DB%95%D8%AA%20%D8%A8%DB%95%20%DA%95%DB%95%D9%85%DB%95%D8%B2%D8%A7%D9%86(1.mp3",
+    "description": "نییە",
+    "duration": 4200,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
  
 

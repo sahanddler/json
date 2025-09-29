@@ -11,5 +11,18 @@
     "narrator": "د. نەهرۆ عەلی",
     "year": 2024,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "2",
+    "category": "aburi",
+    "author": "کاکەی عومەر",
+    "name": "زانستی دیکە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/aburi_5.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/003.mp3",
+    "description": "کتێبی تر بۆ نمونە",
+    "duration": 4200,
+    "narrator": "کاکەی عومەر",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم", "بەشی دووەم"]
   }
 ]

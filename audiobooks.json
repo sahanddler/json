@@ -14,15 +14,15 @@
   },
   {
     "id": "2",
-    "category": "aburi",
-    "author": "کاکەی عومەر",
-    "name": "زانستی دیکە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/aburi_5.png",
-    "audioUrl": "https://github.com/sahanddler/dang/raw/main/003.mp3",
-    "description": "کتێبی تر بۆ نمونە",
+    "category": "cherok_30",
+    "author": "کۆچەر ئەبوبەکر",
+    "name": "هیچ",
+    "image": "https://github.com/sahanddler/rsm/raw/main/cherok_30.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/0865_2.mp3",
+    "description": "نییدمە",
     "duration": 4200,
-    "narrator": "کاکەی عومەر",
+    "narrator": "سەهەند",
     "year": 2025,
-    "chapters": ["بەشی یەکەم", "بەشی دووەم"]
+    "chapters": ["بەشی یەکەم"]
   }
 ]

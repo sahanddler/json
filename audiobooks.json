@@ -1,14 +1,14 @@
 [
   {
     "id": "1",
-    "category": "aburi",
-    "author": "د. نەهرۆ عەلی",
-    "name": "زانستی sehand",
-    "image": "https://github.com/sahanddler/rsm/raw/main/aburi_4.png",
-    "audioUrl": "https://github.com/sahanddler/dang/raw/main/002.mp3",
-    "description": "کتێبی زانستی sehand",
+    "category": "کۆمەڵایەتی",
+    "author": "عمر ال عوضە",
+    "name": "ئارام بە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang_4.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/15.mp3",
+    "description": "نییە",
     "duration": 3600,
-    "narrator": "د. نەهرۆ عەلی",
+    "narrator": "دسەهەند",
     "year": 2024,
     "chapters": ["بەشی یەکەم"]
   },

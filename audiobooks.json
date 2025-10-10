@@ -154,6 +154,18 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  }, 
+  {
+    "id": "13",
+    "category": "گەشەپێدان",
+    "author": "حسێن نەجمەدین",
+    "name": "وتەی گەورەپیاوانی جیهان",
+    "image": "https://github.com/sahanddler/rsm/raw/main/xwenar.png",
+    "audioUrl": "https://github.com/sahanddler/json/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%2B%D8%AF%DB%95%D9%86%DA%AF%DB%8C%2B%D9%80%2B%D9%88%D8%AA%DB%95%DB%8C%2B%DA%AF%DB%95%D9%88%D8%B1%DB%95%2B%D9%BE%DB%8C%D8%A7%D9%88%D8%A7%D9%86%DB%8C%2B%D8%AC%DB%8C%D9%87%D8%A7%D9%86%2B(%D8%A8%DB%95%D9%87%DB%8E%D8%B2%D8%AA%D8%B1%DB%8C%D9%86%2B%D9%88%2B%D8%A8%DB%95%D9%86%D8%B1%D8%AE%D8%AA%D8%B1%DB%8C%D9%86%2B%D9%88%D8%AA%DB%95%2B%D8%AC%DB%8C%D9%87%D8%A7%D9%86%DB%8C%DB%95%DA%A9%D8%A7%D9%86)(144P).mp3", 
+    "duration": 4200,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
  
 

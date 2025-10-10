@@ -141,6 +141,19 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  }, 
+  {
+    "id": "12",
+    "category": "گەشەپێدان",
+    "author": "",
+    "name": "جوانترین وتە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/peshr.png",
+    "audioUrl": "https://github.com/sahanddler/pdf1/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%D8%AC%D9%88%D8%A7%D9%86%D8%AA%D8%B1%DB%8C%D9%86%20%D9%88%D8%AA%DB%95_%20%D8%A6%D8%A7.%20%D9%88%20_%DA%A9%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%20%D9%86%D9%88%D9%88%D8%B1%DB%8C%20%D8%B9%D9%88%D8%B3%D9%85%D8%A7%D9%86(MP3_160K).mp3",
+    "description": "نییە",
+    "duration": 4200,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
  
 

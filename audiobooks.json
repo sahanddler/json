@@ -128,6 +128,19 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  }, 
+  {
+    "id": "11",
+    "category": "ئەدەبی",
+    "author": "هۆشیار نەسرەدین",
+    "name": "پەندی پێشینان بە هۆنراوە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/xwenar.png",
+    "audioUrl": "https://github.com/sahanddler/pdf1/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%D9%BE%DB%95%D9%86%D8%AF%DB%8C%20%D9%BE%DB%8E%D8%B4%DB%8C%D9%86%DB%8C%D8%A7%D9%86%20%D8%A8%DB%95%20%D9%87%DB%86%D9%86%D8%B1%D8%A7%D9%88%DB%95_%20%D8%AF%D8%A7%D9%86%D8%A7%D9%86%DB%8C%20_%20%D8%AD%D8%A7%D9%81%D8%B2%DB%8C%20%D9%85%DB%95%D9%87%D8%A7%D8%A8%D8%A7%D8%AF%DB%8C(MP3_160K).mp3",
+    "description": "نییە",
+    "duration": 4200,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
  
 

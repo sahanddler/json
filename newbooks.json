@@ -1,5 +1,22 @@
 [
-  
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/mamla2.png",
+    "author": "ماکوان کەریم",
+    "link": "https://drive.google.com/file/d/1dIZ3VBMkE7p5Ts6lWWc0Lvsu2TSP7Rbj/view?usp=drivesdk",
+    "name": "مەملەکەتی ئەستێرە بەشی دووەم",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/572434.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/mamla1.png",
+    "author": "ماکوان کەریم",
+    "link": "https://drive.google.com/file/d/17_KYyOtCE9QvQBv91rgqviLxahf_HcXy/view?usp=drivesdk",
+    "name": "مەملەکەتی ئەستێرە بەشی یەکەم",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/572433.pdf"
+  },
   {
     "aboutpdf": "لە بەرگی یەکەمی 'مەملەکەتی پێغەمبەران' ــدا سەرەتا نووسەر باسی ڕۆژمێر و دروستبوونی ڕۆژمێر دەکات، پاشان باسی سەرەتایی دروستبوونی گەردوون...",
     "image": "https://github.com/sahanddler/rsm/raw/main/mamlp3.png",

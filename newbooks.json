@@ -1,4 +1,33 @@
 [
+  [
+  {
+    "aboutpdf": "لە بەرگی یەکەمی 'مەملەکەتی پێغەمبەران' ــدا سەرەتا نووسەر باسی ڕۆژمێر و دروستبوونی ڕۆژمێر دەکات، پاشان باسی سەرەتایی دروستبوونی گەردوون...",
+    "image": "https://github.com/sahanddler/rsm/raw/main/mamlp3.png",
+    "author": "ماکوان کەریم",
+    "link": "https://drive.google.com/file/d/1yQFw2EhozJII2WzXtmM1TOe8AXBNErvR/view?usp=drivesdk",
+    "name": "مەملەکەتی پێغەمبەران 3",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/608205.pdf"
+  },
+  {
+    "aboutpdf": "لە بەرگی یەکەمی 'مەملەکەتی پێغەمبەران' ــدا سەرەتا نووسەر باسی ڕۆژمێر و دروستبوونی ڕۆژمێر دەکات...",
+    "image": "https://github.com/sahanddler/rsm/raw/main/mamlp2.png",
+    "author": "ماکوان کەریم",
+    "link": "https://drive.google.com/file/d/1yOI36aih7GQzHiebleLgYLaxMVZBou7_/view?usp=drivesdk",
+    "name": "مەملەکەتی پێغەمبەران 2",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/608204.pdf"
+  },
+  {
+    "aboutpdf": "لە بەرگی یەکەمی 'مەملەکەتی پێغەمبەران' ــدا سەرەتا نووسەر باسی ڕۆژمێر و دروستبوونی ڕۆژمێر دەکات...",
+    "image": "https://github.com/sahanddler/rsm/raw/main/mamlp.png",
+    "author": "ماکوان کەریم",
+    "link": "https://drive.google.com/file/d/1yLmHTnI5ThEF3SxU4tgJubvWBaWg-g0y/view?usp=drivesdk",
+    "name": "مەملەکەتی پێغەمبەران",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/608203.pdf"
+  }
+  ]
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/zhered.png",

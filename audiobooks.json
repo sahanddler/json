@@ -413,5 +413,18 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "33",
+    "category": "ڕۆمان",
+    "author": "یەشار کەمال",
+    "name": "گەمییەکەی نوح",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_41.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/100332931.mp3",
+    "description": "نییە",
+    "duration": 12600,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }                           
 ]

@@ -274,12 +274,25 @@
    {
     "id": "22",
     "category": "گەشەپێدان",
-    "author": "جاک کانفیڵد",
+    "author": "ئالان بادیۆ",
     "name": "لە ستایشی خۆشەویستیدا",
     "image": "https://github.com/sahanddler/rsm/raw/main/lak_5.png",
     "audioUrl": "https://github.com/sahanddler/json/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%D9%84%DB%95%20%D8%B3%D8%AA%D8%A7%DB%8C%D8%B4%DB%8C%20%D8%AE%DB%86%D8%B4%DB%95%D9%88%DB%8C%D8%B3%D8%AA%DB%8C%D8%AF%D8%A7_%D9%86_%D8%A6%D8%A7%D9%84%D8%A7%D9%86%20%D8%A8%D8%A7%D8%AF%DB%8C%DB%86(144P).mp3", 
     "description": "نییە",
     "duration": 8160,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+   {
+    "id": "23",
+    "category": "ئایینی",
+    "author": "م.محمد مەلا صالح",
+    "name": "ئایا قورئان دانراوی موحەمەددە؟",
+    "image": "https://github.com/sahanddler/rsm/raw/main/xwenar.png",
+    "audioUrl": "https://github.com/sahanddler/json/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%DA%86%DB%86%D9%86%20%D8%AF%DB%95%DB%8C%D8%B3%DB%95%D9%84%D9%85%DB%8E%D9%86%DB%8C%D8%AA%20%DA%A9%DB%95%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%20%D8%AF%D8%A7%D9%86%D8%B1%D8%A7%D9%88%DB%8C%20%D9%85%D8%AD%DB%95%D9%85%DB%95%D8%AF%20%D9%86%DB%8C%DB%95%D8%9F%D8%9F(144P).mp3", 
+    "description": "نییە",
+    "duration": 3780,
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]

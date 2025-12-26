@@ -400,5 +400,18 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "32",
+    "category": "مێژوویی",
+    "author": "حەسەن مەحموود",
+    "name": "کوردستان لە بەردەم فتوحاتی ئیسلامیدا",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_42.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000332909.mp3",
+    "description": "نییە",
+    "duration": 11940,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }                           
 ]

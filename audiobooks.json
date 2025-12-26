@@ -305,9 +305,9 @@
     "image": "https://github.com/sahanddler/rsm/raw/main/lak_1.png",
     "audioUrl": "https://github.com/sahanddler/json/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%D9%BE%DB%95%DB%8C%D8%A7%D9%85%D8%A8%DB%95%D8%B1%20_%D9%BE%DA%95%D9%81%D8%B1%DB%86%D8%B4%D8%AA%D8%B1%DB%8C%D9%86%20%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%B3%DB%95%D8%AF%DB%95%DB%8C%20%D8%A8%DB%8C%D8%B3%D8%AA%DB%95%D9%85_(144P).mp3", 
     "description": "نییە",
-    "duration": "4020",
+    "duration": 4020,
     "narrator": "سەهەند",
-    "year": "2025",
+    "year": 2025,
     "chapters": ["بەشی یەکەم"]
   }  
 ]

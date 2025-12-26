@@ -309,5 +309,18 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
-  }  
+  },
+   {
+    "id": "25",
+    "category": "گەسەپێدان",
+    "author": "ائیکرام کەریم",
+    "name": "گەنج و تەزکیە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/lak_2.png",
+    "audioUrl": "https://github.com/sahanddler/json/raw/main/%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%DA%AF%DB%95%D9%86%D8%AC%20%D9%88%20%D8%AA%DB%95%D8%B2%DA%A9%DB%8C%DB%95_%D8%A8%D8%A7%D8%A8%DB%95%D8%AA_%20%D9%BE%DB%95%D8%B1%D9%88%DB%95%D8%B1%D8%AF%DB%95%DB%8C%DB%8C(144P).mp3", 
+    "description": "نییە",
+    "duration": 4800,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  }    
 ]

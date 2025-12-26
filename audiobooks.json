@@ -479,45 +479,6 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
-  },
-  {
-    "id": "38",
-    "category": "مێژوویی",
-    "author": "ئاناتۆل دارۆف",
-    "name": "مردوو خۆرەکان",
-    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_37.png",
-    "audioUrl": "https://github.com/sahanddler/pdf/raw/main/1000332936.mp3",
-    "description": "نییە",
-    "duration": 4920,
-    "narrator": "سەهەند",
-    "year": 2025,
-    "chapters": ["بەشی یەکەم"]
-  },
-  {
-    "id": "39",
-    "category": "ڕۆمان",
-    "author": "ئەلبێر کامۆ",
-    "name": "نامۆ",
-    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_34.png",
-    "audioUrl": "https://github.com/sahanddler/pdf/raw/main/1000332915.mp3",
-    "description": "نییە",
-    "duration": 13020,
-    "narrator": "سەهەند",
-    "year": 2025,
-    "chapters": ["بەشی یەکەم"]
-  },
-  {
-    "id": "40",
-    "category": "چیرۆک",
-    "author": "هانس کریستیان",
-    "name": "کەمانچەژەن",
-    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_35.png",
-    "audioUrl": "https://github.com/sahanddler/pdf/raw/main/1000332874.mp3",
-    "description": "نییە",
-    "duration": 6360,
-    "narrator": "سەهەند",
-    "year": 2025,
-    "chapters": ["بەشی یەکەم"]
   }
 ]
                             

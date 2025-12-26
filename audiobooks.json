@@ -376,7 +376,7 @@
     "chapters": ["بەشی یەکەم"]
   },
    {
-    "id": "27",
+    "id": "30",
     "category": "ئەدەبی",
     "author": "م.هێمن موکریانی",
     "name": "تاریک و ڕوون",
@@ -387,5 +387,18 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
-  }                            
+  },
+  {
+    "id": "31",
+    "category": "ئایینی",
+    "author": "د.محمد العریفی",
+    "name": "لەگەلمان سەرکەوە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_40.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000332895.mp3",
+    "description": "نییە",
+    "duration": 9720,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  }                           
 ]

@@ -374,5 +374,18 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
-  }                     
+  },
+   {
+    "id": "27",
+    "category": "ئەدەبی",
+    "author": "م.هێمن موکریانی",
+    "name": "تاریک و ڕوون",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_44.png",
+    "audioUrl": "https://github.com/sahanddler/PDF/raw/main/1000332901.mp3", 
+    "description": "نییە",
+    "duration": 9240,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  }                            
 ]

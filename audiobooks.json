@@ -426,5 +426,18 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "34",
+    "category": "چیرۆک",
+    "author": "ڕاندا برن",
+    "name": "ڕاز",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang_1.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000332925.mp3",
+    "description": "نییە",
+    "duration": 12780,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }                           
 ]

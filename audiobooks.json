@@ -517,6 +517,45 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "41",
+    "category": "زانستی",
+    "author": "ئاسلی کەپڵان",
+    "name": "چی؟ بۆچی چۆن",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_33.png",
+    "audioUrl": "https://github.com/sahanddler/pdf/raw/main/1000332863.mp3",
+    "description": "نییە",
+    "duration": 4520,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "42",
+    "category": "ئایینی",
+    "author": "حەبیب محەمەد",
+    "name": "نوسەیبەی کچی کەعب",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_32.png",
+    "audioUrl": "https://github.com/sahanddler/pdf/raw/main/1000332812.mp3",
+    "description": "نییە",
+    "duration": 4200,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "43",
+    "category": "گەشەەپێدان",
+    "author": "بەرزان ئەبوبەکر",
+    "name": "ژیان فێری کردم",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_30.png",
+    "audioUrl": "https://github.com/sahanddler/pdf/raw/main/1000334002.mp3",
+    "description": "نییە",
+    "duration": 10560,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
 ]
                             

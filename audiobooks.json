@@ -660,6 +660,71 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "52",
+    "category": "ڕۆمان",
+    "author": "میچ ئەلبۆم",
+    "name": "سێشەمان لەگەڵ مۆری",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_22.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163199.mp3",
+    "description": "نییە",
+    "duration": 18060,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "53",
+    "category": "کۆمەڵایەتی",
+    "author": "سەلمان کانەبی",
+    "name": "وەڵامە دەمکوتکەرەکان",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_23.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163206.mp3",
+    "description": "نییە",
+    "duration": 10140,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "54",
+    "category": "ڕۆمان",
+    "author": "عەزیز نەسین",
+    "name": "کەری تۆپیو",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_24.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163355.mp3",
+    "description": "نییە",
+    "duration": 9120,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "55",
+    "category": "ڕۆمان",
+    "author": "میکا ڤاڵتاری",
+    "name": "سینۆهە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_21.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163357.mp3",
+    "description": "نییە",
+    "duration": 17040,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "56",
+    "category": "فەلسەفی",
+    "author": "یۆستاین گاردەر",
+    "name": "جیهانی سۆفیا",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_20.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000163358.mp3",
+    "description": "نییە",
+    "duration": 19440,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
 ]
                             

@@ -907,6 +907,84 @@
     "narrator": "سەهەند",
     "year": 2025,
     "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "71",
+    "category": "زمان",
+    "author": "جۆرج کلاسۆن",
+    "name": "دەوڵەمەندترین پیاوی بابل",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_6.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000235216.mp3",
+    "description": "نییە",
+    "duration": 18300,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "72",
+    "category": "گەشەپێدان",
+    "author": "د.أبراهیم فقێ",
+    "name": "ڕێگای سەرکەوتن",
+    "image": "https://github.com/sahanddler/rsm/raw/main/xwenar.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000241213.mp3",
+    "description": "نییە",
+    "duration": 11580,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "73",
+    "category": "ڕۆمان",
+    "author": "میخائیل شولۆخۆف",
+    "name": "چارەنووسی مرۆڤێك",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_1.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000235213.mp3",
+    "description": "نییە",
+    "duration": 18300,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "74",
+    "category": "ئەدەبی",
+    "author": "یەشار کەمال",
+    "name": "حەمە دۆك",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_4.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000235211.mp3",
+    "description": "نییە",
+    "duration": 16380,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "75",
+    "category": "ڕۆمان",
+    "author": "د. فەلاح محەمەد",
+    "name": "گەشتی دڵی خواناسێك",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_2.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000235209.mp3",
+    "description": "نییە",
+    "duration": 8640,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
+  },
+  {
+    "id": "76",
+    "category": "ڕۆمان",
+    "author": "ڕەزا سەید گوڵ",
+    "name": "بەگر یا ئەشکەوتی مراز",
+    "image": "https://github.com/sahanddler/rsm/raw/main/dang1_3.png",
+    "audioUrl": "https://github.com/sahanddler/dang/raw/main/1000235207.mp3",
+    "description": "نییە",
+    "duration": 12180,
+    "narrator": "سەهەند",
+    "year": 2025,
+    "chapters": ["بەشی یەکەم"]
   }
 ]
                             

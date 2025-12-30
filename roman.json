@@ -1,6 +1,15 @@
 [
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/kurdistanb.png",
+    "author": "علی جمال",
+    "link": "https://drive.google.com/file/d/1C950knlSiPN1MIw3hQOXrN2o9I-PY0pB/view?usp=drivesdk",
+    "name": "دایکم وەک کاریزمایەک",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AF%D8%A7%D9%8A%D9%83%D9%85%20%D9%88%D8%A9%D9%83%20%D9%83%D8%A7%D8%B1%D9%8A%D8%B2%D9%85%D8%A7%D9%8A%D8%A9%D9%83.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/mamla2.png",
     "author": "ماکوان کەریم",
     "link": "https://drive.google.com/file/d/1dIZ3VBMkE7p5Ts6lWWc0Lvsu2TSP7Rbj/view?usp=drivesdk",

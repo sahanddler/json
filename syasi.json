@@ -1,6 +1,15 @@
 [
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/daykmwk.png",
+    "author": "علی جمال",
+    "link": "https://drive.google.com/file/d/1qyIADT2aW8w_jJZWt524nNWlPkjXUWwo/view?usp=drivesdk",
+    "name": "کوردستان بەرەو بە دەوڵەت بوون",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%20%D8%A8%DB%95%D8%B1%DB%95%D9%88%D8%A8%DB%95%D8%AF%DB%95%D9%88%DA%B5%DB%95%D8%AA%20%D8%A8%D9%88%D9%88%D9%86.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/oja.png",
     "author": "عەبدوڵا ئۆجەلان",
     "link": "https://drive.google.com/file/d/1GQOvgxuY-fFDsBFnyVlQZxoyq-hXmHMT/view?usp=drivesdk",
@@ -61,14 +70,5 @@
     "name": "بەهاری عەرەبی ",
     "category": "سیاسی",
     "url": "https://github.com/sahanddler/dang/raw/main/411402.pdf"
-  },
-  {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/daykmwk.png",
-    "author": "علی جمال",
-    "link": "https://drive.google.com/file/d/1qyIADT2aW8w_jJZWt524nNWlPkjXUWwo/view?usp=drivesdk",
-    "name": "کوردستان بەرەو بە دەوڵەت بوون",
-    "category": "سیاسی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%20%D8%A8%DB%95%D8%B1%DB%95%D9%88%D8%A8%DB%95%D8%AF%DB%95%D9%88%DA%B5%DB%95%D8%AA%20%D8%A8%D9%88%D9%88%D9%86.pdf"
   }
 ]

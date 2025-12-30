@@ -1,75 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/oja.png</image>
-    <author>عەبدوڵا ئۆجەلان</author>
-    <link>https://drive.google.com/file/d/1GQOvgxuY-fFDsBFnyVlQZxoyq-hXmHMT/view?usp=drivesdk</link>
-    <name>ئیسلام و نیشتیمانپەروەری</name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/PDF/raw/main/94166.pdf</url>
-  </element>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/bok_17.png</image>
-    <author>چۆن پۆڵتن</author>
-    <link>https://drive.google.com/file/d/1Nbdp0tEIZKB7SFQA7sztEoRVPu3-NAvE/view?usp=drivesdk</link>
-    <name>ژووری ڕووداوەکان </name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/dang/raw/main/386688.pdf</url>
-  </element>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/zhahr.png</image>
-    <author>ئەسکەندەر چاربوتی</author>
-    <link>https://drive.google.com/file/d/1Nfjz6CdaTF9gVcoSeiq2zDGJcZG--rv0/view?usp=drivesdk</link>
-    <name>ژەهری ژیری</name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/dang/raw/main/407604.pdf</url>
-  </element>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/bok_18.png</image>
-    <author>دەیڤد بەوز</author>
-    <link>https://drive.google.com/file/d/1NjbcMNHzxr38YjUzuCu92TaRAs-I7bzH/view?usp=drivesdk</link>
-    <name>لیبرالیزم</name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/dang/raw/main/1624365421.pdf</url>
-  </element>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/bok_19.png</image>
-    <author>ڕەئوف حەسەن</author>
-    <link>https://drive.google.com/file/d/1NgngKoatk64gydSnJpUmf2ReW8TssqO3/view?usp=drivesdk</link>
-    <name>هونەری جەنگ </name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/dang/raw/main/66898.pdf</url>
-  </element>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/bok_20.png</image>
-    <author>كریستۆڤه&#x200C;ر هیچنس</author>
-    <link>https://drive.google.com/file/d/1NyaF8ikw6YA2ErX8n3uVaOkEpK1T7-dG/view?usp=drivesdk</link>
-    <name>گۆڕینی ڕژێم</name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/dang/raw/main/18718.pdf</url>
-  </element>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/bahar.png</image>
-    <author>حەمید دەباشی</author>
-    <link>https://drive.google.com/file/d/1NvtuAgm1-ZqiAcqGegc0GzSzE3Um_L4x/view?usp=drivesdk</link>
-    <name>بەهاری عەرەبی </name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/dang/raw/main/411402.pdf</url>
-  </element>
-  <element>
-    <aboutpdf>ئەم کتێبە هیچ کورتەیەکی بەردەست نییە</aboutpdf>
-    <image>https://github.com/sahanddler/rsm/raw/main/daykmwk.png</image>
-    <author>علی جمال</author>
-    <link>https://drive.google.com/file/d/1qyIADT2aW8w_jJZWt524nNWlPkjXUWwo/view?usp=drivesdk</link>
-    <name>کوردستان بەرەو بە دەوڵەت بوون</name>
-    <category>سیاسی</category>
-    <url>https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%20%D8%A8%DB%95%D8%B1%DB%95%D9%88%D8%A8%DB%95%D8%AF%DB%95%D9%88%DA%B5%DB%95%D8%AA%20%D8%A8%D9%88%D9%88%D9%86.pdf</url>
-  </element>
-</root>
+[
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/oja.png",
+    "author": "عەبدوڵا ئۆجەلان",
+    "link": "https://drive.google.com/file/d/1GQOvgxuY-fFDsBFnyVlQZxoyq-hXmHMT/view?usp=drivesdk",
+    "name": "ئیسلام و نیشتیمانپەروەری",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/94166.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/bok_17.png",
+    "author": "چۆن پۆڵتن",
+    "link": "https://drive.google.com/file/d/1Nbdp0tEIZKB7SFQA7sztEoRVPu3-NAvE/view?usp=drivesdk",
+    "name": "ژووری ڕووداوەکان ",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/dang/raw/main/386688.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/zhahr.png",
+    "author": "ئەسکەندەر چاربوتی",
+    "link": "https://drive.google.com/file/d/1Nfjz6CdaTF9gVcoSeiq2zDGJcZG--rv0/view?usp=drivesdk",
+    "name": "ژەهری ژیری",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/dang/raw/main/407604.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/bok_18.png",
+    "author": "دەیڤد بەوز",
+    "link": "https://drive.google.com/file/d/1NjbcMNHzxr38YjUzuCu92TaRAs-I7bzH/view?usp=drivesdk",
+    "name": "لیبرالیزم",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/dang/raw/main/1624365421.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/bok_19.png",
+    "author": "ڕەئوف حەسەن",
+    "link": "https://drive.google.com/file/d/1NgngKoatk64gydSnJpUmf2ReW8TssqO3/view?usp=drivesdk",
+    "name": "هونەری جەنگ ",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/dang/raw/main/66898.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/bok_20.png",
+    "author": "كریستۆڤه‌ر هیچنس",
+    "link": "https://drive.google.com/file/d/1NyaF8ikw6YA2ErX8n3uVaOkEpK1T7-dG/view?usp=drivesdk",
+    "name": "گۆڕینی ڕژێم",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/dang/raw/main/18718.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/bahar.png",
+    "author": "حەمید دەباشی",
+    "link": "https://drive.google.com/file/d/1NvtuAgm1-ZqiAcqGegc0GzSzE3Um_L4x/view?usp=drivesdk",
+    "name": "بەهاری عەرەبی ",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/dang/raw/main/411402.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/daykmwk.png",
+    "author": "علی جمال",
+    "link": "https://drive.google.com/file/d/1qyIADT2aW8w_jJZWt524nNWlPkjXUWwo/view?usp=drivesdk",
+    "name": "کوردستان بەرەو بە دەوڵەت بوون",
+    "category": "سیاسی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%20%D8%A8%DB%95%D8%B1%DB%95%D9%88%D8%A8%DB%95%D8%AF%DB%95%D9%88%DA%B5%DB%95%D8%AA%20%D8%A8%D9%88%D9%88%D9%86.pdf"
+  }
+]

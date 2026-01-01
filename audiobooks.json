@@ -58,7 +58,7 @@
     "author": "نادیار",
     "name": "هێزی ئیرادە",
     "image": "https://github.com/sahanddler/rsm/raw/main/xwenar.png",
-    "audioUrl": "https://github.com/sahanddler/pdf1/raw/main/freecompress-%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%D9%87%DB%8E%D8%B2%DB%8C%20%D8%A6%DB%8C%D8%B1%D8%A7%D8%AF%DB%95%20%D9%80%20%D8%B3%D8%A7%DB%8C%DA%A9%DB%86%D9%84%DB%86%DA%98%DB%8C%D8%A7%DB%8C%20%D8%A6%D8%A7%D8%B3%D8%A7%D9%86(144P).mp3 ",
+    "audioUrl": "https://github.com/sahanddler/pdf1/raw/main/freecompress-%DA%A9%D8%AA%DB%8E%D8%A8%DB%8C%20%D8%AF%DB%95%D9%86%DA%AF%DB%8C%20%D9%80%20%D9%87%DB%8E%D8%B2%DB%8C%20%D8%A6%DB%8C%D8%B1%D8%A7%D8%AF%DB%95%20%D9%80%20%D8%B3%D8%A7%DB%8C%DA%A9%DB%86%D9%84%DB%86%DA%98%DB%8C%D8%A7%DB%8C%20%D8%A6%D8%A7%D8%B3%D8%A7%D9%86(144P).mp3",
     "description": "نییە",
     "duration": 11940,
     "narrator": "سەهەند",
@@ -430,7 +430,7 @@
   },
   {
     "id": "34",
-    "category": "دەروونزانی",
+    "category": "دەروونناسی",
     "author": "ڕاندا برن",
     "name": "ڕاز",
     "image": "https://github.com/sahanddler/rsm/raw/main/dang_1.png",
@@ -586,7 +586,7 @@
   },
   {
     "id": "46",
-    "category": "دەرونناسی",
+    "category": "دەروونناسی",
     "author": "بەناز کامیل",
     "name": "دڵخۆشبە",
     "image": "https://github.com/sahanddler/rsm/raw/main/wena_24.png",
@@ -599,7 +599,7 @@
   },
   {
     "id": "47",
-    "category": "دەرونناسی",
+    "category": "دەروونناسی",
     "author": "کەیفی جۆمانی",
     "name": "بەبەر بارانەوە",
     "image": "https://github.com/sahanddler/rsm/raw/main/dang1_27.png",
@@ -742,7 +742,7 @@
   },
   {
     "id": "58",
-    "category": "دەرونناسی",
+    "category": "دەروونناسی",
     "author": "برایان ترەیسی",
     "name": "زیرەک بە",
     "image": "https://github.com/sahanddler/rsm/raw/main/dang1_19.png",

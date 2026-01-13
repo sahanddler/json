@@ -1,8 +1,18 @@
 [
   {
+    "aboutpdf":"ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image":"https://github.com/sahanddler/rsm/raw/main/ibn.png",
+    "author":"د.عەلی وەردی",
+    "link":"https://drive.google.com/file/d/1OJXbFz1P_yd8pEeXzYqraJclcNCOc5Z-/view?usp\u003ddrivesdk",
+    "name":"لۆژیکی ئیبن خەلدون",
+    "category":"کۆمەڵایەتی",
+    "url":"https://github.com/sahanddler/PDF/raw/main/66602_compressed.pdf",
+  },
+  {
   "aboutpdf":"ئەدەبیاتدا ئەوەی قووڵ بێت، لە ڕوونی سڵ ناکاتەوە، زۆر جار ئاڵۆزی، مەبەستێتی قووڵییەکەی نەبینرێت، یان بیشارێتەوە.\nداڕشتنی ئاڵۆز وەک ئاوی لیخن وایە، قووڵیی دەشارێتەوە، بۆچی دەبێت لە شیعرەکانی دادایزمەکان تێبگەم، لە شیعرەکانی سووریالییەکان تێبگەم، بەڵام لە شیعری شاعیرێکی کورد تێنەگەم؟! وێڕای ئەوەی شاعیرە کوردەکە بە زمانێک دەنووسێت کە زمانی دایکمە!\nشیعری نوێ جێگەی ئەوە نەماوە حەشر و قیامەت تێکەڵ بکات، تابووت و خوێن و دوژمن بخاتە ڕستەی ئاڵۆزەوە، شیاوە مانا ئاڵۆز بێت، بەڵام مەرجە داڕشتن ڕوون بێت.",
   "image":"https://github.com/sahanddler/rsm/raw/main/rozhga.png",
-  "author":"تەڵعەت تاهیر","link":"https://drive.google.com/file/d/1sZaM6twdjemL9_Ycm2f5Xvxkt2Wd7F4V/view?usp\u003ddrivesdk",
+  "author":"تەڵعەت تاهیر",
+  "link":"https://drive.google.com/file/d/1sZaM6twdjemL9_Ycm2f5Xvxkt2Wd7F4V/view?usp\u003ddrivesdk",
   "name":"ڕۆژگاری وشک و چاوی تەڕ",
   "category":"ئەدەبی",
   "url":"https://github.com/sahanddler/PDF/raw/main/394265.pdf"

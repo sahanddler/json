@@ -1,4 +1,22 @@
 [
+   {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/nataw.png",
+    "author": "عرفان مستەفا",
+    "link": "https://drive.google.com/file/d/1MeNuectAVYinvkLX-1B1r839pVupQUUA/view?usp=drivesdk",
+    "name": "بوونی نەتەوەیی کورد",
+    "category": "مێژوویی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/99052.pdf"
+  },
+     {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/paym.png",
+    "author": "ساڵح هەرکی",
+    "link": "https://drive.google.com/file/d/17VqHljpRIe4L7D_2go-LkbuV_rqpVbzQ/view?usp=drivesdk",
+    "name": "بەشێک لە پەیمانەکانی دژی کورد",
+    "category": "مێژوویی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/413208.pdf"
+  },
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/surk.png",
@@ -126,157 +144,4 @@
     "category": "تەکنەلۆژیا",
     "url": "https://github.com/sahanddler/PDF/raw/main/AI%20for%20Teacher.pdf"
   },
-  {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/baxer.png",
-    "author": "میاچ چاری ئاکتاش",
-    "link": "https://drive.google.com/file/d/1oqHh4lZirhO9mPYJoj0LZPkMbshO1Zmu/view?usp=drivesdk",
-    "name": "بەخێرهاتیتەوە بۆ لای خۆت",
-    "category": "هەمەڕەنگ",
-    "url": "https://github.com/sahanddler/PDF/raw/main/518271.pdf"
-  },
-  {
-    "link": "https://drive.google.com/file/d/14t9XjlNracdHRjEFneD7i8JYxj6pV445/view?usp=drivesdk",
-     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1718795760.pdf",
-    "name": "48 یاسای دەسەڵات ",
-    "image": "https://github.com/sahanddler/rsm/raw/main/yasa.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1apIHISdOrHGFmsJhbHOqtzAoocVKcxcs/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/PDF/raw/main/%D9%85%DB%95%D9%85%D9%84%DB%95%DA%A9%DB%95%D8%AA%DB%8C%20%D9%85%D9%86%20%D9%88%20%D8%AA%DB%86.pdf",
-    "name": "مەملەکەتی من و تۆ ",
-    "image": "https://github.com/sahanddler/rsm/raw/main/mama.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1oVdkUGFX2Zyu3017WpQ0KZ5xutGR3IzG/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/541691.pdf",
-    "name": "مەملەکەتی نوور 4",
-    "image": "https://github.com/sahanddler/rsm/raw/main/nur2.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1oUHSyDcOBJHLpKsDmPBEsRlb0Traeysh/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/541689.pdf",
-    "name": "مەملەکەتی نوور 3",
-    "image": "https://github.com/sahanddler/rsm/raw/main/nur1.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1uAHw47QlHO3kIYGBzUTF7U8_YYqCTJIo/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/__%D9%BE%DB%95%D8%B1%D8%B3%D8%AA%D8%B1%D8%A7%D9%88%DB%8C%20%D8%AE%DB%86%D8%AA%20%D8%A8%D9%86%D8%A7%D8%B3%DB%95_.pdf",
-    "name": "پەرستراوی خۆت بناسە ",
-    "image": "https://github.com/sahanddler/rsm/raw/main/par.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1tw9x0Q9CZ0ZxaVnWetQMQsJIvzhmx9-_/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/__%D8%AE%D8%A7%D9%86%D9%85%D8%A7%D9%86%DB%95_%DA%95%DB%95%D9%81%D8%AA%D8%A7%D8%B1_%D8%A8%DA%A9%DB%95_%D9%BE%DB%8C%D8%A7%D9%88%D8%A7%D9%86%DB%95_%D8%A8%DB%8C%D8%B1_%D8%A8%DA%A9%DB%95%D9%88%DB%95__compressed.pdf",
-    "name": "خانمانە ڕەفتار بکە پیاوانە بیربکەوە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/stev.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1uNMS_wa5Ik-DincrbcpkNNwYOIsmIMU9/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/411728.pdf",
-    "name": "طب النبوی بە کوردی",
-    "image": "https://github.com/sahanddler/rsm/raw/main/tub.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1d32OP6aSc2vCofJnhTe_wiWqm99AqNnz/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/%D9%86%D8%A7%D8%B3%D8%A7%D9%86%D8%AF%D9%86%DB%8C%20%DA%86%DB%95%D9%86%D8%AF%20%D9%84%DB%8E%D8%B1%DB%95%D9%88%D8%A7%D8%B1%DB%8E%DA%A9.pdf",
-    "name": "ناساندنی چەند لێڕەوارێک",
-    "image": "https://github.com/sahanddler/rsm/raw/main/2.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1apIHISdOrHGFmsJhbHOqtzAoocVKcxcs/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/PDF/raw/main/%D9%85%DB%95%D9%85%D9%84%DB%95%DA%A9%DB%95%D8%AA%DB%8C%20%D9%85%D9%86%20%D9%88%20%D8%AA%DB%86.pdf",
-    "name": "مەملەکەتی من و تۆ",
-    "image": "https://github.com/sahanddler/rsm/raw/main/1.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1KO9fwOLHTNIi5PkHxm1wxhQer1Xut9I1/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/62402.pdf",
-    "name": "کوردستان لەبەردەم فتوحاتی ئیسلامیدا ",
-    "image": "https://github.com/sahanddler/rsm/raw/main/4.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1Jd9L8uKeLhZ7W0Og9HEKXZzQWi8W-vJ9/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/%DA%A9%DB%8E%D8%B4%DB%95%DB%8C%20%D8%B4%DB%8C%D8%B9%DB%95%20%D9%88%20%D8%B3%D9%88%D9%86%DB%95.pdf",
-    "name": "کێشەی شیعە و سوننە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/3.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1I5Em3kZpP1nGSiSJYnzUxvDI0Fcl0msw/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/556403.pdf",
-    "name": "CYBER SECURITY",
-    "image": "https://github.com/sahanddler/rsm/raw/main/6.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1EX7QhkN68h04vYzQl39KrKlsN5JQLb4P/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/549067.pdf",
-    "name": "تەمەنی لاویم",
-    "image": "https://github.com/sahanddler/rsm/raw/main/5.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1DlTVuqod9ILj7lomrbOnXrazYzCQGat0/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/%D8%AA%DB%95%DA%A9%D9%86%DB%95%D9%84%DB%86%DA%98%DB%8C%D8%A7%D8%A6%D8%A7%D8%B3%D8%A7%D9%86-%D9%81%D9%80%DB%8E%D9%80%D8%B1-%D8%A8%D9%80%DB%95-compressed.pdf",
-    "name": "تەکنەلۆژیا ئاسان فێربە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/8.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1B5BLeFMuCXCxFdovNNDajtb3379cADk0/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/By-Yeane.Org%20%D9%81%DB%8E%D8%B1%D8%A8%D9%88%D9%88%D9%86%DB%8C%20%D9%81%D9%87_%D8%B1%D9%87_%D9%86%D8%B3%DB%8C.pdf",
-    "name": "فێربوونی زمانی فەڕەنسی",
-    "image": "https://github.com/sahanddler/rsm/raw/main/7.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  },
-  {
-    "link": "https://drive.google.com/file/d/1AauGf6veqBCW_P9lUhcPM-lSQ9euiyzA/view?usp=drivesdk",
-     "url": "https://github.com/sahanddler/dang/raw/main/410472.pdf",
-    "name": "ڕۆژی پرشنگدار",
-    "image": "https://github.com/sahanddler/rsm/raw/main/10.png",
-    "author": "نووسەر",
-    "category": "جۆر",
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە"
-  }
 ]

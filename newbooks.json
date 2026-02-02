@@ -1,6 +1,15 @@
 [
    {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "author": "ئاناند ڕاماکاندران",
+    "category": "پزیشکی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AF%DB%95%D8%B1%D9%85%D8%A7%D9%86%D8%B2%D8%A7%D9%86%DB%8C%20%D8%A8%DB%95%20%D8%B4%DB%8E%D9%88%DB%95%DB%8C%20%D9%BE%D8%B1%D8%B3%DB%8C%D8%A7%D8%B1%20%D9%88%20%D9%88%DB%95%DA%B5%D8%A7%D9%85.pdf",
+    "link": "https://drive.google.com/file/d/1TqIRQQvc1b2cSCf_EcgKhl_apoxXdV0L/view?usp=drivesdk",
+    "image": "https://github.com/sahanddler/rsm/raw/main/darm.png",
+    "name": "دەرمانزانی بەشێوەی پرسیار و وەڵام"
+  },
+   {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/azadii.png",
     "author": "نیکۆس کازانتزاکیس",
     "link": "https://drive.google.com/file/d/1LQBOYV1oOGx-mRiV9Eb3O35Ha57gdSlS/view?usp=sharing",

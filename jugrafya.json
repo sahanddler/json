@@ -79,5 +79,41 @@
     "name": "بزاڤی گەشت و گوزار لە هەرێمی کوردستان ",
     "category": "جوگرافیا",
     "url": "https://firebasestorage.googleapis.com/v0/b/xwenar-149a3.appspot.com/o/upload%2F433.pdf?alt=media&token=1a3649a5-719a-4bdc-987f-9666b3bff701"
-  }
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/saman.png",
+    "author": "خەلیل حەسەن محمد",
+    "link": "https://drive.google.com/file/d/1X8F5kT7hS3pOrR_R6ICfsn0LuBP28g36/view?usp=drivesdk",
+    "name": "سامانی ئاو",
+    "category": "جوگرافیا",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%DB%8C%20%D9%8A%D9%94%D8%A7%D9%88.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/atno.png",
+    "author": "عەبدوڵڵا غەفور",
+    "link": "https://drive.google.com/file/d/1b9KtyybWdYDT89QfHUCC4i7Ska8WVXWc/view?usp=drivesdk",
+    "name": "دیمۆگرافیای باشووری کوردستان",
+    "category": "جوگرافیا",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%A6%DB%95%DB%86%D8%AA%DB%86%20%D9%80%20%D8%AF%DB%8C%D9%85%DB%86%20%DA%AF%D8%B1%D8%A7%D9%81%DB%8C.pdf"
+  },
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/jugr1.png",
+    "author": "کۆمەڵێک مامۆستای زانکۆ",
+    "link": "https://drive.google.com/file/d/1Yqqbyx7qmKxP1vWuH9bGYS-GTd_shfrL/view?usp=drivesdk",
+    "name": "جیۆگرافیای هەرێمی کوردستان",
+    "category": "جوگرافیا",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%DB%86%D9%85%DB%95%DA%B5%DB%8E%DA%A9%20%D9%85%D8%A7%D9%85%DB%86%D8%B3%D8%AA%D8%A7%DB%8C%20%D8%B2%D8%A7%D9%86%DA%A9%DB%8669779%20(1).pdf"
+  }, 
+   {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/jugr.png",
+    "author": "هاوڕێ یاسین محەمەد",
+    "link": "https://drive.google.com/file/d/1Ni8gdR-2qpaNwC9vWf35dbbhTh7ZISQk/view?usp=drivesdk",
+    "name": "جوگرافیای هەرێمی کوردستان",
+    "category": "جوگرافیا",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AC%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%20%D9%87%D9%87%20%D8%B1%DB%8C%D9%85%DB%8C%20%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%20(1).pdf"
+   } 
 ]

@@ -1,11 +1,12 @@
-  [
-    {
-      "name": "ناونیشانی بڵاوکراوە",
-      "image": "https://github.com/sahanddler/rsm/raw/main/bexud.jpg",
-      "author": "ناوی نووسەر",
-      "category": "بڵاوکراوە",
-      "url": "",
-      "link": "",
-      "aboutpdf": "تێکستی تەواوی ىڵاوکراوەکە لێرە بنووسە..."
-    }
-  ]
+[
+  {
+    "name": "ناونیشانی ىڵآوکراوە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/bexud.jpg",
+    "author": "ناوی نووسەر",
+    "category": "بڵاوکراوە",
+    "url": "",
+    "link": "",
+    "aboutpdf": "تێکستی بڵآوکراوە...",
+    "publishedAt": "٢٢/گوڵان/٢٠٢٦ - ١٢:٣٠"
+  }
+]

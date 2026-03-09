@@ -1,42 +1,35 @@
 [
   {
-    "name": "ناونیشانی ىڵآوکراوە",
+    "id": "1",
+    "name": "ناونیشانی پۆستی یەکەم",
     "image": "https://github.com/sahanddler/rsm/raw/main/bexud.jpg",
     "author": "ناوی نووسەر",
-    "category": "1بڵاوکراوە",
+    "category": "بڵاوکراوە",
     "url": "",
     "link": "",
-    "aboutpdf": "تێکستی بڵسدآوکراوە...",
-    "publishedAt": "٢٢/گوڵان/٢٠٢٦ - ١٢:٣٠"
-  }, 
-   {
-    "name": "ناونیشانی ىڵآوکراوە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/bexud.jpg",
-    "author": "ناوی نووسەر",
-    "category": "2بڵاوکراوە",
-    "url": "",
-    "link": "",
-    "aboutpdf": "تێکستی بڵآو٣ە٣کراوە...",
+    "aboutpdf": "تێکستی تەواوی پۆستەکە لێرە بنووسە...",
     "publishedAt": "٢٢/گوڵان/٢٠٢٦ - ١٢:٣٠"
   },
-   {
-    "name": "ناونیشانی ىڵآوکراو545ە",
+  {
+    "id": "2",
+    "name": "ناونیشانی پۆستی دووەم",
     "image": "https://github.com/sahanddler/rsm/raw/main/bexud.jpg",
-    "author": "3ناوی نووسەر",
-    "category": "بڵاوکراوە45",
+    "author": "ناوی نووسەر",
+    "category": "بڵاوکراوە",
     "url": "",
     "link": "",
-    "aboutpdf": "تێکستی بڵآ3242وک434راوە...",
+    "aboutpdf": "تێکستی پۆستی دووەم...",
+    "publishedAt": "٢٢/گوڵان/٢٠٢٦ - ١٢:٣٠"
+  },
+  {
+    "id": "3",
+    "name": "ناونیشانی پۆستی سێیەم",
+    "image": "https://github.com/sahanddler/rsm/raw/main/bexud.jpg",
+    "author": "ناوی نووسەر",
+    "category": "بڵاوکراوە",
+    "url": "",
+    "link": "",
+    "aboutpdf": "تێکستی پۆستی سێیەم...",
     "publishedAt": "١١/گوڵان/٢٠٢٦ - ١٢:٣٠"
-  },
-   {
-    "name": "ناونیشانی ىڵآوکراوە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/bexud.jpg",
-    "author": "ناوی نوو4324سەر",
-    "category": "بڵاوکر34524اوە",
-    "url": "",
-    "link": "",
-    "aboutpdf": "تێکستی 23424بڵآوکراوە...",
-    "publishedAt": "٢٢/گوڵان/٢٠٢٦ - ١٢:٣٣٦"
   }
 ]

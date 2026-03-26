@@ -1,5 +1,13 @@
 [
-  
+  {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/jugra_2.png",
+    "author": "پێشەوا شێخ ڕەئوف و هاوڕێ لەتیف",
+    "link": "https://drive.google.com/file/d/11f2nmBqWT90mBAdTAqKhENQKjuHgjAiV/view?usp=drivesdk",
+    "name": "چەرموو",
+    "category": "جوگرافیا",
+    "url": "https://github.com/sahanddler/pdf1/raw/main/charmw.pdf"
+  },
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/jugra_3.png",
@@ -43,7 +51,7 @@
     "link": "https://drive.google.com/file/d/11ml-Dtg7u_xogRUKTga0mWQJEPaCA_dq/view?usp=drivesdk",
     "name": "جوگرافیای کوردستان",
     "category": "جوگرافیا",
-    "url": "https://github.com/sahanddler/pdf1/raw/main/jugrafya%20kurdistan.pdf""
+    "url": "https://github.com/sahanddler/pdf1/raw/main/jugrafya%20kurdistan.pdf"
   },
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
@@ -98,8 +106,8 @@
     "name": "جیۆگرافیای هەرێمی کوردستان",
     "category": "جوگرافیا",
     "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%DB%86%D9%85%DB%95%DA%B5%DB%8E%DA%A9%20%D9%85%D8%A7%D9%85%DB%86%D8%B3%D8%AA%D8%A7%DB%8C%20%D8%B2%D8%A7%D9%86%DA%A9%DB%8669779%20(1).pdf"
-  }, 
-   {
+  },
+  {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/jugr2.png",
     "author": "هاوڕێ یاسین محەمەد",
@@ -107,5 +115,5 @@
     "name": "جوگرافیای هەرێمی کوردستان",
     "category": "جوگرافیا",
     "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AC%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%20%D9%87%D9%87%20%D8%B1%DB%8C%D9%85%DB%8C%20%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%20(1).pdf"
-   } 
+  }
 ]

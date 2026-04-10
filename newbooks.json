@@ -1,6 +1,42 @@
 [
         {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/hama_11.png",
+    "author": "مەهسا طایع",
+    "link": "https://drive.google.com/file/d/1b1ahs4zNu5IuLnLeUsY0Ol3OCKr4hPAL/view?usp=drivesdk",
+    "name": "ئازەرەکانی کچێک ",
+    "category": "هەمەڕەنگ",
+    "url": "https://firebasestorage.googleapis.com/v0/b/account-b2cb4.appspot.com/o/upload%2F585.pdf?alt=media&token=62717af1-b47c-4016-9cbc-9c965646cab4"
+  }, 
+    {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/rsm/raw/main/kotayye.png",
+    "author": "محمد العریفی",
+    "link": "https://drive.google.com/file/d/1ktxXspCIDGPX9VODvnVAERyJgfR2Z3Zz/view?usp=drivesdk",
+    "name": "کۆتایی جیهان",
+    "category": "هەمەڕەنگ",
+    "url": "https://github.com/sahanddler/pdf1/raw/main/%DA%A9%DB%86%D8%AA%D8%A7%DB%8C_%D8%AC%DB%8C%D9%87%D8%A7%D9%86%D9%86%DB%8C%D8%B4%D8%A7%D9%86%D9%87_%D8%A8%DA%86%D9%88%DA%A9%DB%95%DA%A9%D8%A7%D9%86_%D9%88_%DA%AF%DB%95%D9%88%D8%B1%DB%95%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D8%B9%D8%B1%DB%8C%D9%81%DB%8C_%D8%B9%D8%A7%D9%84%DB%8C_compressed.pdf"
+    },
+    {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/daruns.png",
+    "author": "ئالان قەرەداغی",
+    "link": "https://drive.google.com/file/d/1YREZFCRQ_uNKb1iEtLflokCDL-YAxHbs/view?usp=drivesdk",
+    "name": "دەرونسازی مامۆستا و خوێندکار",
+    "category": "هەمەڕەنگ",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AF%DB%95%D8%B1%D9%88%D9%86%D8%B3%D8%A7%D8%B2%DB%8C%20%D9%85%D8%A7%D9%85%DB%86%D8%B3%D8%AA%D8%A7%20%D9%88%20%D8%AE%D9%88%DB%8E%D9%86%D8%AF%DA%A9%D8%A7%D8%B1.pdf"
+  }, 
+    {
+    "aboutpdf": "پێشکەشە بە خوێندکارەکانمان، ئەو خوێندکارانەی کە ئەبێت بە دزی نەخوێنەوارەکانەوە کتێب بخوێننەوە، ئەو خوێندکارانەی کە زۆر لێهاتوو بوون بەڵام لەژێر چنگی مامۆستایەکی نەخوێنەوار گەورە بوون، لە کۆتایدا پێشکەشە بە هەموو ئەو مامۆستایانەی کە لە گرنگی پەروەردەی سەردەمیانە تێدەگەن و هەوڵی پێگەیاندنی دروستی خوێندکار ئەدەن.ئێستا ئەتوانن بە pdf بیخوێننەوە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/mamos.png",
+    "author": "ئالان قەرەداغی",
+    "link": "https://drive.google.com/file/d/1osH6HXkVaUM6KE8aVIHmL2BMx4eAeBr_/view?usp=drivesdk",
+    "name": "مامۆستا تواناکانم مەکوژە",
+    "category": "هەمەڕەنگ",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D9%85%D8%A7%D9%85%DB%86%D8%B3%D8%AA%D8%A7%20%D8%AA%D9%88%D8%A7%D9%86%D8%A7%DA%A9%D8%A7%D9%86%D9%85%20%D9%85%DB%95%DA%A9%D9%88%DA%98%DB%95.pdf"
+  }, 
+        {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/pdf/raw/main/xwan.png",
     "author": "ئالان قەرەداغی",
     "link": "https://drive.google.com/file/d/1CHv2uqOX2G-ulgW7TXlcgRP0kb1oDqiL/view?usp=drivesdk",

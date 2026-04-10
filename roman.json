@@ -1132,5 +1132,14 @@
     "name": "هونەری گوێ پێنەدان",
     "category": "ڕۆمان",
     "url": "https://github.com/sahanddler/dang/raw/main/292737.PDF"
-  }
+  }, 
+       {
+    "aboutpdf": "پێشکەشە بە خوێندکارەکانمان، ئەو خوێندکارانەی کە ئەبێت بە دزی نەخوێنەوارەکانەوە کتێب بخوێننەوە، ئەو خوێندکارانەی کە زۆر لێهاتوو بوون بەڵام لەژێر چنگی مامۆستایەکی نەخوێنەوار گەورە بوون، لە کۆتایدا پێشکەشە بە هەموو ئەو مامۆستایانەی کە لە گرنگی پەروەردەی سەردەمیانە تێدەگەن و هەوڵی پێگەیاندنی دروستی خوێندکار ئەدەن.ئێستا ئەتوانن بە pdf بیخوێننەوە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/mamos.png",
+    "author": "ئالان قەرەداغی",
+    "link": "https://drive.google.com/file/d/1osH6HXkVaUM6KE8aVIHmL2BMx4eAeBr_/view?usp=drivesdk",
+    "name": "مامۆستا تواناکانم مەکوژە",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D9%85%D8%A7%D9%85%DB%86%D8%B3%D8%AA%D8%A7%20%D8%AA%D9%88%D8%A7%D9%86%D8%A7%DA%A9%D8%A7%D9%86%D9%85%20%D9%85%DB%95%DA%A9%D9%88%DA%98%DB%95.pdf"
+  } 
 ]

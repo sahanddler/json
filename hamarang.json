@@ -295,5 +295,15 @@
     "name": "دەرونسازی مامۆستا و خوێندکار",
     "category": "هەمەڕەنگ",
     "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AF%DB%95%D8%B1%D9%88%D9%86%D8%B3%D8%A7%D8%B2%DB%8C%20%D9%85%D8%A7%D9%85%DB%86%D8%B3%D8%AA%D8%A7%20%D9%88%20%D8%AE%D9%88%DB%8E%D9%86%D8%AF%DA%A9%D8%A7%D8%B1.pdf"
-  }
+  }, 
+
+    {
+    "aboutpdf": "ئەم کتێبە چیرۆکێکی جیاواز و دەگمەن دەگێڕێتەوە؛ چیرۆکی ئیمام و خەتیبێک کە لە پێناو دابینکردنی ژیانێکی شایستە بۆ خۆی و خێزانەکەی، ناچار دەبێت ڕێگای پڕ مەترسی کۆچ بگرێتە بەر. کتێبی (ڕێگا.. سەختەکانی هەندەران) لە نووسینی (ڕەنجدەر کوردی)، گەشتێکی پڕ لە ڕاستی و ئازارە بەرەو ئەوروپا",
+    "image": "https://github.com/sahanddler/pdf/raw/main/regaa.png",
+    "author": "ڕەنجدەر کوردی",
+    "link": "https://drive.google.com/file/d/1O0eUwJAj06IMqToN6SytjQJvtMAXQdng/view?usp=drivesdk",
+    "name": "ڕێگا سەختەکانی هەندەران",
+    "category": "هەمەڕەنگ",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%B1%DB%8C%DA%AF%D8%A7%20%D8%B3%D9%87%E2%80%8C%D8%AE%D8%AA%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C%20%D9%87%D9%87%E2%80%8C%D9%86%D8%AF%D9%87%E2%80%8C%D8%B1%D8%A7%D9%86%20(1).pdf"
+    } 
 ]

@@ -1,4 +1,13 @@
 [
+     {
+     "aboutpdf": "باس لە خۆشەویستی کچێک دەکات لە زانکۆ . چارەنووسلکی نایار چاوەرێی کچێکی خۆڕاگیر دەکات . تۆی خوێنەر فێری کۆمەڵێک وانە دەکات کە زۆر گرینگن",  
+     "image": "https://github.com/sahanddler/pdf/raw/main/zancoo.png",
+    "author": "شاخەوان علی حەمەد مامۆک",
+    "link": "https://drive.google.com/file/d/1qrkCazdn0Hu2dwnuz7cAqrdyTR5x0N1N/view?usp=drivesdk",
+    "name": "خۆشەویستی کچێک لە زانکۆ",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/1d398a21-8e32-42e0-89d5-3d3df69cac3d.pdf"
+   }, 
              {
      "aboutpdf": "بەرگی دووەمی ڕۆمانی تاوان و سزا لە نووسینی گەورە نووسەری ڕووسی فیۆدۆر دۆستۆیڤسکی، قۆناغێکی زۆر جیاواز و قووڵتری چیرۆکەکە پیشان دەدات. ئەگەر بەرگی یەکەم زیاتر تەرخان کرابێت بۆ بیرۆکەی تاوانەکە و جێبەجێکردنی لەلایەن پاڵەوانی ڕۆمانەکە (ڕاسکۆلینکۆڤ)، ئەوا بەرگی دووەم تەرخانکراوە بۆ سزاکە؛ بەڵام نەک سزای یاسایی، بەڵکوو سزایەکی قورسی دەروونی و ویژدانی.",  
      "image": "https://github.com/sahanddler/pdf/raw/main/tawan.png",
@@ -386,14 +395,5 @@
     "name": "تەفسیری نامی ٥",
     "category": "ئایینی",
     "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%205.PDF"
-  },
-   {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/nam6.png",
-    "author": "م.عبدالکریم مدرس",
-    "link": "https://drive.google.com/file/d/1RNDHKJGQymslz9XR0WGDc0Ss96SuacBB/view?usp=drivesdk",
-    "name": "تەفسیری نامی ٦",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%206.PDF"
   }
 ] 

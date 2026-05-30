@@ -1,4 +1,13 @@
 [
+        {
+     "aboutpdf": "زۆربای یۆنانی ڕۆمانێکە لەلایەن نووسەری بەناوبانگ نیکۆس کازانتزاکیس نووسراوەتەوە، ڕۆمانەکە باس لە کەسایەتی پیاوێکی ڕۆشنبیر دەکات بەناوی باسێل کە نوقمی جیھانی خوێندنەوە بووە، لە گەشتەکەیدا چاوی بە پیاوێکی نەخوێندەوار دەکەوێت، قوتابخانەی ئەم پیاوە بریتییە لە ژیان و ئەزمونەکانی، زوو دەبن بە ھاوڕێی یەکتر و باسێل زۆر شت لەم پیاوە فێردەبێت کە پێشتر لە پەرتووکەکانیشی نەیخوێندبونەوە، بەو ھۆیەوە بڕیار دەدەن پڕۆژەیەک پێکەوە ئەنجام بدەن بەو پارەیەی کە باسێل لە باوکییەوە بۆی بەجێماوە، ئەم پیاوە نەخوێندەوارە ناوی زۆربایە، دەزگای ھۆڵیود فیلمێکی لەبارەی ئەم ڕۆمانەوە بەرھەم ھێناوە بەھەمان ناونیشان زۆربای یۆنانی کە ئەکتەری بەناوبانگ ئەنتۆنی کوین ڕۆڵی سەرەکی تێدابینیوە",  
+     "image": "https://github.com/sahanddler/pdf/raw/main/zorba.png",
+    "author": "نیکۆس کازانتزاکیس",
+    "link": "https://drive.google.com/file/d/18XwqCMH5xt-kwB6pwCfQqmB1jc0mr42p/view?usp=drivesdk",
+    "name": "زۆربای یۆنانی",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%B2%DB%86%D8%B1%D8%A8%D8%A7%DB%8C%20%DB%8C%DB%86%D9%86%D8%A7%D9%86%DB%8C-compressed.pdf"
+   }, 
      {
      "aboutpdf": "باس لە خۆشەویستی کچێک دەکات لە زانکۆ . چارەنووسلکی نایار چاوەرێی کچێکی خۆڕاگیر دەکات . تۆی خوێنەر فێری کۆمەڵێک وانە دەکات کە زۆر گرینگن",  
      "image": "https://github.com/sahanddler/pdf/raw/main/zancoo.png",
@@ -368,32 +377,5 @@
     "name": "تەفسیری نامی ٢",
     "category": "ئایینی",
     "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%202.PDF"
-  },
-   {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/nam3.png",
-    "author": "م.عبدالکریم مدرس",
-    "link": "https://drive.google.com/file/d/1j7IRPLWJJFrk0pJ_8vql6-ozrmXt5IC8/view?usp=drivesdk",
-    "name": "تەفسیری نامی ٣",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%203.PDF"
-  },
-   {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/nam4.png",
-    "author": "م.عبدالکریم مدرس",
-    "link": "https://drive.google.com/file/d/1YFSNCR1uoF3pRhs1_-HTGd2Zcr94yoSR/view?usp=drivesdk",
-    "name": "تەفسیری نامی ٤",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%204.PDF"
-  },
-   {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/nam5.png",
-    "author": "م.عبدالکریم مدرس",
-    "link": "https://drive.google.com/file/d/1Rq8qEQNeGHLdYl9JbdrF_jnnDk01CWCI/view?usp=drivesdk",
-    "name": "تەفسیری نامی ٥",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%205.PDF"
   }
 ] 

@@ -1,4 +1,13 @@
 [
+              {
+    "aboutpdf" : "ئەم توێژینەوە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/hokarr.png",
+    "author": "عبدالکریم مصطفى",
+    "link": "https://drive.google.com/file/d/1BvTmtUVVv46E_KfYn97yfshfhG-d84jH/view?usp=drivesdk",
+    "name": "هۆکارە کۆمەڵایەتییەکانی تەڵاق لە سەردەمی نوێدا",
+    "category": "توێژینەوە",
+    "url": "https://github.com/sahanddler/PDF/raw/main/635990.PDF"
+  }, 
           {
     "aboutpdf" : "کوورتە گێڕانەوەیەکی پۆلی دوازدە و یەکەم ساڵی زانکۆی نووسەرە، باسکردنی چەند بابەتێکی تری گرنگ",
     "image": "https://github.com/sahanddler/pdf/raw/main/yakamm.png",
@@ -359,32 +368,6 @@
     "name": "بەڵقیس شاژنەکەی سەبەء",
     "category": "ئایینی",
     "url": "https://github.com/sahanddler/pdf1/raw/main/balqes.pdf"
-  }, 
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/zhyanepeghambar.png",
-    "author": "محمد مەلا فائق شارەزووری",
-    "link": "https://drive.google.com/file/d/1I1psJV-tT0BVBv4-vnbsagREm45GdNne/view?usp=drivesdk",
-    "name": "ژیانی پێغەمبەری خوا لە قورئان فەرموودەدا",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/pdf1/raw/main/152035.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/nam1.png",
-    "author": "م.عبدالکریم مدرس",
-    "link": "https://drive.google.com/file/d/1hVsQtiDzltkcVLuPiTC6sDwtI7yffO3f/view?usp=drivesdk",
-    "name": "تەفسیری نامی ١",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%201.PDF"
-  },
-   {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/nam2.png",
-    "author": "م.عبدالکریم مدرس",
-    "link": "https://drive.google.com/file/d/1CYFgwJ6tpBj_DwT6GA3Dn7V-ORThQqy1/view?usp=drivesdk",
-    "name": "تەفسیری نامی ٢",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%D9%BE%DB%8E%D8%AF%DB%8C%D8%A7%20-%20%DA%A9%DB%86%DA%AF%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%D9%84%DB%95%DA%A9%D8%A7%D9%86%20-%20%D9%BE%DB%95%D8%B1%D8%AA%D9%88%D9%88%DA%A9%20-%20%D8%AA%DB%95%D9%81%D8%B3%DB%8C%D8%B1%DB%8C%20%D9%86%D8%A7%D9%85%DB%8C%20%D8%A8%DB%86%20%D9%82%D9%88%D8%B1%D8%A6%D8%A7%D9%86%DB%8C%20%D9%BE%DB%8C%D8%B1%DB%86%D8%B2%20-%20%D8%A8%DB%95%D8%B1%DA%AF%DB%8C%202.PDF"
   }
+
 ] 

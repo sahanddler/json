@@ -11,53 +11,53 @@
   },
   {
     "id": "k24",
-    "name": "سەهەند ",
+    "name": "Kurdistan 24",
     "streamUrl": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
     "descriptionKu": "کەناڵی هەواڵی ٢٤ کاتژمێری",
     "category": "news",
     "language": "sorani",
     "views": 45000,
-    "imageUrl": "https://example.com/k24-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/Kurdistan24.png"
   },
   {
     "id": "kurdsat_news",
     "name": "Kurdsat News",
     "streamUrl": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
-    "descriptionKu": "هەواڵی Kurdsat",
+    "descriptionKu": "کوردسات نیوز",
     "category": "news",
     "language": "sorani",
     "views": 40000,
-    "imageUrl": "https://example.com/kurdsat-news-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdsatnews.png"
   },
   {
     "id": "nrt",
     "name": "NRT TV",
     "streamUrl": "https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8",
-    "descriptionKu": "نالیا ڕادیۆ و تەلەڤزیۆن - سلێمانی",
+    "descriptionKu": "ئێن ئاڕ تی",
     "category": "kurdish",
     "language": "sorani",
     "views": 35000,
-    "imageUrl": "https://example.com/nrt-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt.png"
   },
   {
     "id": "kurdistan_tv",
     "name": "Kurdistan TV",
     "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-    "descriptionKu": "کەناڵی فەرمی حکومەتی هەرێمی کوردستان",
+    "descriptionKu": "کوردستان تیڤی",
     "category": "kurdish",
     "language": "sorani",
     "views": 38000,
-    "imageUrl": "https://example.com/kurdistan-tv-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/Kurdistantv.png"
   },
   {
     "id": "kurdsat",
     "name": "Kurdsat",
     "streamUrl": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
-    "descriptionKu": "کەناڵی Kurdsat",
+    "descriptionKu": "کوردسات",
     "category": "kurdish",
     "language": "sorani",
     "views": 32000,
-    "imageUrl": "https://example.com/kurdsat-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdsat.png"
   },
   {
     "id": "waar",

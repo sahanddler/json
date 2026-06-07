@@ -63,71 +63,51 @@
     "id": "waar",
     "name": "Waar TV",
     "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
-    "descriptionKu": "کەناڵی Waar Media",
+    "descriptionKu": "وار میدیا",
     "category": "kurdish",
     "language": "sorani",
     "views": 30000,
-    "imageUrl": "https://example.com/waar-logo.png"
-  },
-  {
-    "id": "sterk",
-    "name": "Sterk TV",
-    "streamUrl": "https://5dab1db4b25fe.streamlock.net/sterk/sterktv/chunklist_w558585070.m3u8",
-    "descriptionKu": "کەناڵی Sterk",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 28000,
-    "imageUrl": "https://example.com/sterk-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/waar.png"
   },
   {
     "id": "welat",
     "name": "Welat TV",
     "streamUrl": "https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8",
-    "descriptionKu": "کەناڵی Welat",
+    "descriptionKu": "وڵات تیڤی",
     "category": "kurdish",
     "language": "sorani",
     "views": 25000,
-    "imageUrl": "https://example.com/welat-logo.png"
-  },
-  {
-    "id": "ronahi",
-    "name": "Ronahi TV",
-    "streamUrl": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
-    "descriptionKu": "کەناڵی Ronahi",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 26000,
-    "imageUrl": "https://example.com/ronahi-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
   },
   {
     "id": "kurdmax",
     "name": "KurdMax Sorani",
     "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
-    "descriptionKu": "KurdMax بە زمانی سورانی",
+    "descriptionKu": "کوردماکس سۆرانی",
     "category": "kurdish",
     "language": "sorani",
     "views": 42000,
-    "imageUrl": "https://example.com/kurdmax-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmax.png"
   },
   {
     "id": "kurdmax_show",
     "name": "KurdMax Show",
     "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8",
-    "descriptionKu": "بەرنامە و درامای KurdMax",
+    "descriptionKu": "کوردماکس شۆو",
     "category": "kurdish",
     "language": "sorani",
     "views": 38000,
-    "imageUrl": "https://example.com/kurdmax-show-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmaxshow.png"
   },
   {
     "id": "gali_kurdistan",
     "name": "Gali Kurdistan TV",
     "streamUrl": "https://live.host247.net/gk/gksat/playlist.m3u8",
-    "descriptionKu": "کەناڵی Gali Kurdistan",
+    "descriptionKu": "گەلی کوردستان",
     "category": "kurdish",
     "language": "sorani",
     "views": 20000,
-    "imageUrl": "https://example.com/gali-kurdistan-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/galikurdistan.png"
   },
   {
     "id": "kirkuk",

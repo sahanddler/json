@@ -1,7 +1,7 @@
 [
   {
-    "id": "سەهەند",
-    "name": "Rudaw TV",
+    "id": "rudaw",
+    "name": "sehend",
     "streamUrl": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
     "descriptionKu": "هەواڵ و ڕووداوەکانی هەرێمی کوردستان",
     "category": "news",

@@ -59,26 +59,7 @@
     "views": 32000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdsat.png"
   },
-  {
-    "id": "waar",
-    "name": "Waar TV",
-    "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
-    "descriptionKu": "وار میدیا",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 30000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/waar.png"
-  },
-  {
-    "id": "welat",
-    "name": "Welat TV",
-    "streamUrl": "https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8",
-    "descriptionKu": "وڵات تیڤی",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 25000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
-  },
+  
   {
     "id": "kurdmax",
     "name": "KurdMax Sorani",
@@ -117,7 +98,7 @@
     "category": "kurdish",
     "language": "sorani",
     "views": 18000,
-    "imageUrl": "https://example.com/kirkuk-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kirkuk.png"
   },
   {
     "id": "payam",
@@ -207,6 +188,26 @@
     "language": "sorani",
     "views": 14000,
     "imageUrl": "https://example.com/channel8-logo.png"
+  },
+  {
+    "id": "waar",
+    "name": "Waar TV",
+    "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+    "descriptionKu": "وار میدیا",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 30000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/waar.png"
+  },
+  {
+    "id": "welat",
+    "name": "Welat TV",
+    "streamUrl": "https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8",
+    "descriptionKu": "وڵات تیڤی",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 25000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
   },
   {
     "id": "iraqia_kurdish",

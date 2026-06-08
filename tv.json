@@ -71,26 +71,6 @@
   },
   
   {
-    "id": "kurdmax",
-    "name": "KurdMax Sorani",
-    "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
-    "descriptionKu": "کوردماکس سۆرانی",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 42000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmax.png"
-  },
-  {
-    "id": "kurdmax_show",
-    "name": "KurdMax Show",
-    "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8",
-    "descriptionKu": "کوردماکس شۆو",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 38000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmaxshow.jpeg"
-  },
-  {
     "id": "gali_kurdistan",
     "name": "Gali Kurdistan TV",
     "streamUrl": "https://live.host247.net/gk/gksat/playlist.m3u8",
@@ -119,6 +99,16 @@
     "language": "sorani",
     "views": 15000,
     "imageUrl": "https://example.com/payam-logo.png"
+  },
+  {
+    "id": "NRT Sport",
+    "name": "NRT Sport",
+    "streamUrl": "https://live4.karwan.tv:444/nrt-sport/tracks-v1a1/mono.m3u8?token=5a71e1a31b35a17d2508a6eb40c29fc97f5e402a-1d04f3c267a4707246e197adddc398f4-1781039756-1780931756",
+    "descriptionKu": "ئێن ئاڕتی سپۆڕت",
+    "category": "sport",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
   },
   {
     "id": "nubar",

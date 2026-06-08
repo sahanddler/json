@@ -159,16 +159,7 @@
     "views": 15000,
     "imageUrl": "https://example.com/ava-media-logo.png"
   },
-  {
-    "id": "ava_news",
-    "name": "Ava News",
-    "streamUrl": "https://newshls.avatv.live/hls/stream.m3u8",
-    "descriptionKu": "هەواڵی Ava",
-    "category": "news",
-    "language": "sorani",
-    "views": 25000,
-    "imageUrl": "https://example.com/ava-news-logo.png"
-  },
+  
   {
     "id": "mixkurdy",
     "name": "Mixkurdy",

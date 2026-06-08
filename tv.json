@@ -44,7 +44,7 @@
     "name": "NRT TV",
     "streamUrl": "https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8",
     "descriptionKu": "ئێن ئاڕ تی",
-    "category": "kurdish",
+    "category": "news",
     "language": "sorani",
     "views": 35000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt.png"
@@ -54,7 +54,7 @@
     "name": "Kurdistan TV",
     "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
     "descriptionKu": "کوردستان تیڤی",
-    "category": "kurdish",
+    "category": "news",
     "language": "sorani",
     "views": 38000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/Kurdistantv.png"
@@ -64,7 +64,7 @@
     "name": "Kurdsat",
     "streamUrl": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
     "descriptionKu": "کوردسات",
-    "category": "kurdish",
+    "category": "news",
     "language": "sorani",
     "views": 32000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdsat.png"
@@ -72,10 +72,10 @@
   
   {
     "id": "gali_kurdistan",
-    "name": "Gali Kurdistan TV",
+    "name": "Gali Kurdistan",
     "streamUrl": "https://live.host247.net/gk/gksat/playlist.m3u8",
     "descriptionKu": "گەلی کوردستان",
-    "category": "kurdish",
+    "category": "news",
     "language": "sorani",
     "views": 20000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/galikurdistan.png"
@@ -84,8 +84,8 @@
     "id": "kirkuk",
     "name": "Kirkuk Satellite TV",
     "streamUrl": "https://live.kirkuklive.live/hls/stream/index.m3u8",
-    "descriptionKu": "کەناڵی Kirkuk Satellite",
-    "category": "kurdish",
+    "descriptionKu": "کەناڵی کەرکوک",
+    "category": "news",
     "language": "sorani",
     "views": 18000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kirkuk.png"
@@ -94,8 +94,8 @@
     "id": "payam",
     "name": "Payam TV",
     "streamUrl": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
-    "descriptionKu": "کەناڵی Payam",
-    "category": "kurdish",
+    "descriptionKu": "کەناڵی پەیام",
+    "category": "news",
     "language": "sorani",
     "views": 15000,
     "imageUrl": "https://example.com/payam-logo.png"
@@ -135,7 +135,7 @@
     "name": "Zagros TV",
     "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
     "descriptionKu": "کەناڵی Zagros",
-    "category": "kurdish",
+    "category": "news",
     "language": "sorani",
     "views": 22000
   },
@@ -151,9 +151,9 @@
   },
   {
     "id": "ava_media",
-    "name": "Ava Media TV",
+    "name": "Ava Media family",
     "streamUrl": "https://familyhls.avatv.live/hls/stream.m3u8",
-    "descriptionKu": "کەناڵی Ava Media",
+    "descriptionKu": "ئاڤا میدیا خێزانی",
     "category": "kurdish",
     "language": "sorani",
     "views": 15000,
@@ -181,10 +181,10 @@
   },
   {
     "id": "channel8",
-    "name": "Channel 8 Kurdish",
+    "name": "Channel 8",
     "streamUrl": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
-    "descriptionKu": "Channel 8 بە زمانی کوردی",
-    "category": "kurdish",
+    "descriptionKu": "کەناڵ ٨",
+    "category": "news",
     "language": "sorani",
     "views": 14000,
     "imageUrl": "https://example.com/channel8-logo.png"
@@ -194,7 +194,7 @@
     "name": "Waar TV",
     "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
     "descriptionKu": "وار میدیا",
-    "category": "kurdish",
+    "category": "news",
     "language": "sorani",
     "views": 30000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/WAAR.png"
@@ -372,16 +372,7 @@
     "views": 9000,
     "imageUrl": "https://example.com/khak-logo.png"
   },
-  {
-    "id": "gele_kurdistan",
-    "name": "Gele Kurdistan",
-    "streamUrl": "https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8",
-    "descriptionKu": "کەناڵی Gali Kurdistan",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 8000,
-    "imageUrl": "https://example.com/gele-kurdistan-logo.png"
-  },
+
   {
     "id": "nrt2",
     "name": "NRT 2",

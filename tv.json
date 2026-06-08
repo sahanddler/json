@@ -10,6 +10,16 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
   },
   {
+    "id": "Ava Media",
+    "name": "Ava Media",
+    "streamUrl": "https://ava1.store/upload/ava.m3u8",
+    "descriptionKu":  "ئاڤا میدیا",
+    "category": "news",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ava.png"
+  },
+  {
     "id": "k24",
     "name": "Kurdistan 24",
     "streamUrl": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",

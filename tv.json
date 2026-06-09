@@ -111,26 +111,6 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
   },
   {
-    "id": "nubar",
-    "name": "Nubar TV",
-    "streamUrl": "http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8",
-    "descriptionKu": "کەناڵی Nubar",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 12000,
-    "imageUrl": "https://example.com/nubar-logo.png"
-  },
-  {
-    "id": "nubar_plus",
-    "name": "Nubar Plus",
-    "streamUrl": "http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8",
-    "descriptionKu": "کەناڵی Nubar Plus",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 10000,
-    "imageUrl": "https://example.com/nubar-plus-logo.png"
-  },
-  {
     "id": "zagros",
     "name": "Zagros TV",
     "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",

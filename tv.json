@@ -172,10 +172,30 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
   },
   {
+    "id": "parwarda_hawler",
+    "name": "Parwarday Hawler",
+    "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8",
+    "descriptionKu": "کەناڵی پەروەردەیی هەولێر",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 29000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
+  },
+  {
     "id": "Parwarda_slimane",
     "name": "Parwarday Slimane",
     "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8",
     "descriptionKu": "کەناڵی پەروەردەیی سلێمانی",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 29000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
+  },
+  {
+    "id": "Parwarda_duhok",
+    "name": "Parwarday Duhok",
+    "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8",
+    "descriptionKu": "کەناڵی پەروەردەیی دهۆك",
     "category": "kurdish",
     "language": "sorani",
     "views": 29000,

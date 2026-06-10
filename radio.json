@@ -1,0 +1,87 @@
+[
+  {
+    "id": "rudaw_radio",
+    "name": "Rudaw Radio",
+    "streamUrl": "https://l3.itworkscdn.net/itwaudio/9006/stream",
+    "descriptionKu": "ڕادیۆی هەواڵ و ڕووداوەکان",
+    "category": "radio",
+    "language": "sorani",
+    "views": 25000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
+  },
+ 
+  {
+    "id": "k24_radio",
+    "name": "Kurdistan 24 Radio",
+    "streamUrl": "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+    "descriptionKu": "ڕادیۆی هەواڵ و ڕووداوەکانی کوردستان ٢٤",
+    "category": "radio",
+    "language": "sorani",
+    "views": 18000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdistan.png"
+  },
+   {
+    "id": "nawa",
+    "name": "Nawa Radio",
+    "streamUrl": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
+    "descriptionKu": "ڕادیۆی نەوا",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nawa.png"
+  },
+  {
+    "id": "radio_duhok",
+    "name": "Radio Duhok FM",
+    "streamUrl": "https://stream-149.zeno.fm/unwq3jdyhmbuv",
+    "descriptionKu": "ڕادیۆی فەرمی دهۆک",
+    "category": "radio",
+    "language": "badini",
+    "views": 12000
+  },
+   {
+    "id": "trt_radyo_kurdi",
+    "name": "TRT Radyo Kurdî",
+    "streamUrl": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
+    "descriptionKu": "ڕادیۆی فەرمی تی ئاڕ تی کوردی",
+    "category": "radio",
+    "language": "kurmanci",
+    "views": 20000
+  },
+  {
+    "id": "waar_radio",
+    "name": "Waar Radio",
+    "streamUrl": "https://c2.radioboss.fm/stream/564",
+    "descriptionKu": "ڕادیۆی فەرمی وار",
+    "category": "radio",
+    "language": "badini",
+    "views": 10000
+  },
+  {
+    "id": "kurd1_fm",
+    "name": "Kurd1 FM",
+    "streamUrl": "https://listen.radioking.com/radio/119251/stream/158701",
+    "descriptionKu": "ڕادیۆی کوردی پاریس",
+    "category": "radio",
+    "language": "sorani",
+    "views": 8000
+  },
+  {
+    "id": "denge_qamishlo",
+    "name": "Denge Qamishlo",
+    "streamUrl": "https://dengeqamishlo.stream.laut.fm/dengeqamishlo",
+    "descriptionKu": "ڕادیۆی دەنگی قامیشلۆ",
+    "category": "radio",
+    "language": "kurmanci",
+    "views": 7000
+  },
+  {
+    "id": "havin_fm",
+    "name": "Havin FM",
+    "streamUrl": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
+    "descriptionKu": "ڕادیۆی هاڤین ئێف ئێم",
+    "category": "radio",
+    "language": "kurmanci",
+    "views": 6000
+  }
+]

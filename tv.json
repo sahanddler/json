@@ -171,6 +171,16 @@
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/amozhgary.png"
   },
+   {
+    "id": "eman",
+    "name": "Eman TV",
+    "streamUrl": "https://avr.host247.net/live/emantv/playlist.m3u8",
+    "descriptionKu": "کەناڵی Eman",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 5000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/eman.png"
+  },
     {
     "id": "utv",
     "name": "UTV",
@@ -240,6 +250,16 @@
     "language": "sorani",
     "views": 25000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
+  },
+    {
+    "id": "avar",
+    "name": "Avar TV",
+    "streamUrl": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+    "descriptionKu": "کەناڵی Avar",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 6000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/avar.png"
   },
   {
     "id": "iraqia_kurdish",
@@ -355,16 +375,6 @@
 
   },
 
-  {
-    "id": "nrt2",
-    "name": "NRT 2",
-    "streamUrl": "http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/playlist.m3u8",
-    "descriptionKu": "کەناڵی فیلم و کات بەخەشی NRT",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 31000,
-    "imageUrl": "https://example.com/nrt2-logo.png"
-  },
     {
     "id": "mbc_iraq",
     "name": "MBC Iraq",
@@ -374,126 +384,5 @@
     "language": "arabic",
     "views": 46000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc.png"
-  },
- 
-  {
-    "id": "kurdmax_kurmanci",
-    "name": "KurdMax Kurmanci",
-    "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8",
-    "descriptionKu": "KurdMax بە زمانی کورمانجی",
-    "category": "kurdish",
-    "language": "kurmanci",
-    "views": 35000,
-    "imageUrl": "https://example.com/kurdmax-kurmanci-logo.png"
-  },
-  {
-    "id": "kurd_channel",
-    "name": "Kurd Channel",
-    "streamUrl": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8",
-    "descriptionKu": "کەناڵی Kurd Channel",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 7000,
-    "imageUrl": "https://example.com/kurd-channel-logo.png"
-  },
-  {
-    "id": "avar",
-    "name": "Avar TV",
-    "streamUrl": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
-    "descriptionKu": "کەناڵی Avar",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 6000,
-    "imageUrl": "https://example.com/avar-logo.png"
-  },
-  {
-    "id": "eman",
-    "name": "Eman TV",
-    "streamUrl": "https://avr.host247.net/live/emantv/playlist.m3u8",
-    "descriptionKu": "کەناڵی Eman",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 5000,
-    "imageUrl": "https://example.com/eman-logo.png"
-  },
-
-  {
-    "id": "al_rafidain",
-    "name": "Al Rafidain TV",
-    "streamUrl": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8",
-    "descriptionKu": "کەناڵی ڕافیدەین",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 3000,
-    "imageUrl": "https://example.com/al-rafidain-logo.png"
-  },
-  {
-    "id": "cira",
-    "name": "Çira TV",
-    "streamUrl": "http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8",
-    "descriptionKu": "کەناڵی Çira",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 2000,
-    "imageUrl": "https://example.com/cira-logo.png"
-  },
-  {
-    "id": "newroz",
-    "name": "Newroz TV",
-    "streamUrl": "http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8",
-    "descriptionKu": "کەناڵی Newroz",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 2500,
-    "imageUrl": "https://example.com/newroz-logo.png"
-  },
-  {
-    "id": "badinan",
-    "name": "Badinan Sat TV",
-    "streamUrl": "http://cofafrw181.glwiz.com:7777/Badinan.m3u8",
-    "descriptionKu": "کەناڵی Badinan",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 1500,
-    "imageUrl": "https://example.com/badinan-logo.png"
-  },
-  {
-    "id": "rega",
-    "name": "Rega TV",
-    "streamUrl": "http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8",
-    "descriptionKu": "کەناڵی Rega",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 11000
-  },
-  {
-    "id": "gem_kurd",
-    "name": "GEM Kurd TV",
-    "streamUrl": "http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8",
-    "descriptionKu": "کەناڵی GEM Kurd",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 9000,
-    "imageUrl": "https://example.com/gem-kurd-logo.png"
-  },
-  {
-    "id": "kurdistan_sport",
-    "name": "Kurdistan Sport",
-    "streamUrl": "https://live.kurdistansport.tv/hls/stream.m3u8",
-    "descriptionKu": "کەناڵی وەرزشی کوردستان",
-    "category": "sport",
-    "language": "sorani",
-    "views": 31000,
-    "imageUrl": "https://example.com/kurdistansport-logo.png"
-  },
-  {
-    "id": "kurd_sport",
-    "name": "KurdSport HD",
-    "streamUrl": "https://live.kurdsport.tv/live/index.m3u8",
-    "descriptionKu": "کەناڵی وەرزشی کوردی",
-    "category": "sport",
-    "language": "sorani",
-    "views": 22000,
-    "imageUrl": "https://example.com/kurdsport-logo.png"
   }
 ]

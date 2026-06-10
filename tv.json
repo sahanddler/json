@@ -113,7 +113,7 @@
   {
     "id": "khak",
     "name": "کەناڵی خاک",
-    "streamUrl": "http://livetv.khaktv.net/",
+    "streamUrl": "http://bblserver.ddns.net:1935/stream/khakhd/tracks-v1a1/mono.m3u8",
     "descriptionKu": "کەناڵی Khak",
     "category": "kurdish",
     "language": "sorani",

@@ -220,16 +220,6 @@
     "language": "sorani",
     "views": 22000
   },
-  {
-    "id": "afarin",
-    "name": "Afarin TV",
-    "streamUrl": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
-    "descriptionKu": "کەناڵی Afarin",
-    "category": "kids",
-    "language": "sorani",
-    "views": 24000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/afarin.png"
-  },
   
   {
     "id": "mixkurdy",
@@ -259,7 +249,17 @@
     "category": "iraq",
     "language": "sorani",
     "views": 30000,
-    "imageUrl": "https://example.com/iraqia-kurdish-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alk.png"
+  },
+    {
+    "id": "afarin",
+    "name": "Afarin TV",
+    "streamUrl": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "descriptionKu": "کەناڵی Afarin",
+    "category": "kids",
+    "language": "sorani",
+    "views": 24000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/afarin.png"
   },
   {
     "id": "zarok_sorani",

@@ -49,6 +49,16 @@
     "views": 35000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt.png"
   },
+    {
+    "id": "channel8",
+    "name": "Channel 8",
+    "streamUrl": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+    "descriptionKu": "کەناڵ ٨",
+    "category": "news",
+    "language": "sorani",
+    "views": 14000,
+    "imageUrl": ""https://github.com/sahanddler/pdf/raw/main/channell8.png"
+  },
   {
     "id": "kurdistan_tv",
     "name": "Kurdistan TV",
@@ -120,6 +130,57 @@
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/khak.png"
   },
+    {
+    "id": "farmoda",
+    "name": "Farmoda TV",
+    "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+    "descriptionKu": "کەناڵی Farmoda",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 4000,
+    "imageUrl": ""https://github.com/sahanddler/pdf/raw/main/farmuda.png"
+  },
+    {
+    "id": "Bangawaz",
+    "name": "Bangawaz TV",
+    "streamUrl": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+    "descriptionKu": "کەناڵی بانگەواز",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 4000,
+    "imageUrl": ""https://github.com/sahanddler/pdf/raw/main/bangawaz.png"
+  },
+  
+    {
+    "id": "Amozhgary",
+    "name": "Amozhgary TV",
+    "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+    "descriptionKu": "کەناڵی ئامۆژگاری",
+    "category": "kurdish",
+    "language": "sorani",
+    "views": 4000,
+    "imageUrl": ""https://github.com/sahanddler/pdf/raw/main/amozhgary.png"
+  },
+    {
+    "id": "utv",
+    "name": "UTV",
+    "streamUrl": "https://live.karwan.tv:444/utv-hawler/index.m3u8?token=40b9c1cb28fee944f374e286968410b3d4c56493-0e394371be3203c68d91638120887ac4-1781216540-1781108540&remote=185.24.61.123",
+    "descriptionKu": "کەناڵی یەکگرتوو هەولێر",
+    "category": "kurish",
+    "language": "sorani",
+    "views": 29000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
+  },
+  {
+    "id": "Parwarda_slimane",
+    "name": "Parwarday Slimane",
+    "streamUrl": "https://live.karwan.tv:444/utv-hawler/index.m3u8?token=40b9c1cb28fee944f374e286968410b3d4c56493-0e394371be3203c68d91638120887ac4-1781216540-1781108540&remote=185.24.61.123",
+    "descriptionKu": "کەناڵی پەروەردەیی سلێمانی",
+    "category": "kurish",
+    "language": "sorani",
+    "views": 29000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
+  },
   {
     "id": "zagros",
     "name": "Zagros TV",
@@ -160,16 +221,7 @@
     "views": 16000,
     "imageUrl": "https://example.com/mixkurdy-logo.png"
   },
-  {
-    "id": "channel8",
-    "name": "Channel 8",
-    "streamUrl": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
-    "descriptionKu": "کەناڵ ٨",
-    "category": "news",
-    "language": "sorani",
-    "views": 14000,
-    "imageUrl": "https://example.com/channel8-logo.png"
-  },
+
   {
     "id": "waar",
     "name": "Waar TV",
@@ -334,15 +386,6 @@
     "language": "arabic",
     "views": 46000
   },
-  {
-    "id": "utv",
-    "name": "UTV",
-    "streamUrl": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
-    "descriptionKu": "UTV - عێراق",
-    "category": "iraq",
-    "language": "arabic",
-    "views": 29000
-  },
  
 
   {
@@ -395,16 +438,7 @@
     "views": 5000,
     "imageUrl": "https://example.com/eman-logo.png"
   },
-  {
-    "id": "farmoda",
-    "name": "Farmoda TV",
-    "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
-    "descriptionKu": "کەناڵی Farmoda",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 4000,
-    "imageUrl": "https://example.com/farmoda-logo.png"
-  },
+
   {
     "id": "al_rafidain",
     "name": "Al Rafidain TV",
@@ -446,56 +480,6 @@
     "imageUrl": "https://example.com/badinan-logo.png"
   },
   {
-    "id": "komala",
-    "name": "Komala TV",
-    "streamUrl": "http://198.100.158.231:1935/kanal8/_definst_/livestream/playlist.m3u8",
-    "descriptionKu": "کەناڵی Komala",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 1000,
-    "imageUrl": "https://example.com/komala-logo.png"
-  },
-  {
-    "id": "azadi",
-    "name": "Azadi TV",
-    "streamUrl": "http://38.99.146.181:7777/AzadiTV.m3u8",
-    "descriptionKu": "کەناڵی Azadi",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 500,
-    "imageUrl": "https://example.com/azadi-logo.png"
-  },
-  {
-    "id": "knn",
-    "name": "KNN TV",
-    "streamUrl": "http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8",
-    "descriptionKu": "Kurdistan News Network",
-    "category": "news",
-    "language": "sorani",
-    "views": 37000,
-    "imageUrl": "https://example.com/knn-logo.png"
-  },
-  {
-    "id": "vin",
-    "name": "Vin TV",
-    "streamUrl": "http://95.170.203.140:1213/hls/vinlive.m3u8",
-    "descriptionKu": "کەناڵی Vin",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 29000,
-    "imageUrl": "https://example.com/vin-logo.png"
-  },
-  {
-    "id": "speda",
-    "name": "Speda TV",
-    "streamUrl": "http://kurd-live.com:1935/live/speda/playlist.m3u8",
-    "descriptionKu": "کەناڵی Speda",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 13000,
-    "imageUrl": "https://example.com/speda-logo.png"
-  },
-  {
     "id": "rega",
     "name": "Rega TV",
     "streamUrl": "http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8",
@@ -513,26 +497,6 @@
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://example.com/gem-kurd-logo.png"
-  },
-  {
-    "id": "gzt",
-    "name": "GZT TV",
-    "streamUrl": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
-    "descriptionKu": "GZT - میدیای کوردی تورکیا",
-    "category": "turkey",
-    "language": "sorani",
-    "views": 12000,
-    "imageUrl": "https://example.com/gzt-logo.png"
-  },
-  {
-    "id": "korek",
-    "name": "Korek TV",
-    "streamUrl": "http://sat.010e.net:8000/live/milad/milad/1232.m3u8",
-    "descriptionKu": "کەناڵی Korek",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 8000,
-    "imageUrl": "https://example.com/korek-logo.png"
   },
   {
     "id": "kurdistan_sport",
@@ -553,15 +517,5 @@
     "language": "sorani",
     "views": 22000,
     "imageUrl": "https://example.com/kurdsport-logo.png"
-  },
-  {
-    "id": "pellistank",
-    "name": "Pellistank TV",
-    "streamUrl": "https://pellistank.com/live/playlist.m3u8",
-    "descriptionKu": "کەناڵی منداڵانی پەپوولەکان",
-    "category": "kids",
-    "language": "sorani",
-    "views": 26000,
-    "imageUrl": "https://example.com/pellistank-logo.png"
   }
 ]

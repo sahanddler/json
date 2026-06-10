@@ -110,6 +110,16 @@
     "views": 15000,
     "imageUrl": "https://github.com/sahanddler/PDF/raw/main/payam.png"
   },
+    {
+    "id": "waar",
+    "name": "Waar TV",
+    "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+    "descriptionKu": "وار میدیا",
+    "category": "news",
+    "language": "sorani",
+    "views": 30000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/WAAR.png"
+  },
   {
     "id": "NRT Sport",
     "name": "NRT Sport",
@@ -220,16 +230,6 @@
     "views": 24000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/afarin.png"
   },
-  {
-    "id": "ava_media",
-    "name": "Ava Media family",
-    "streamUrl": "https://familyhls.avatv.live/hls/stream.m3u8",
-    "descriptionKu": "ئاڤا میدیا خێزانی",
-    "category": "kurdish",
-    "language": "sorani",
-    "views": 15000,
-    "imageUrl": "https://example.com/ava-media-logo.png"
-  },
   
   {
     "id": "mixkurdy",
@@ -239,18 +239,7 @@
     "category": "kurdish",
     "language": "sorani",
     "views": 16000,
-    "imageUrl": "https://example.com/mixkurdy-logo.png"
-  },
-
-  {
-    "id": "waar",
-    "name": "Waar TV",
-    "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
-    "descriptionKu": "وار میدیا",
-    "category": "news",
-    "language": "sorani",
-    "views": 30000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/WAAR.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mix.png"
   },
   {
     "id": "welat",

@@ -261,54 +261,37 @@
     "views": 24000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/afarin.png"
   },
-  {
-    "id": "zarok_sorani",
-    "name": "Zarok TV Sorani",
-    "streamUrl": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
-    "descriptionKu": "کەناڵی منداڵان - سورانی",
+    {
+    "id": "afarin_baxcha",
+    "name": "Afarin Baxcha",
+    "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "descriptionKu": "کەناڵی باخچەی ئافەرین منداڵان",
     "category": "kids",
     "language": "sorani",
-    "views": 28000
+    "views": 19000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/baxcha.png"
+  },
+  {
+    "id": "zarok_sorani",
+    "name": "Zarok TV",
+    "streamUrl": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+    "descriptionKu": "کەناڵی زارۆک منداڵان",
+    "category": "kids",
+    "language": "sorani",
+    "views": 28000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zarok.png"
   },
   {
     "id": "zarok_kurmanci",
     "name": "Zarok TV Kurmanci",
     "streamUrl": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
-    "descriptionKu": "کەناڵی منداڵان - کورمانجی",
+    "descriptionKu": "کەناڵی زارۆک منداڵان - کورمانجی",
     "category": "kids",
     "language": "kurmanci",
     "views": 22000,
-    "imageUrl": "https://example.com/zarok-kurmanci-logo.png"
+    "imageUrl": "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zarok.png"
   },
-  {
-    "id": "afarin_baxcha",
-    "name": "Afarin Baxcha",
-    "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
-    "descriptionKu": "کەناڵی منداڵان Afarin Baxcha",
-    "category": "kids",
-    "language": "sorani",
-    "views": 19000
-  },
-  {
-    "id": "kurdmax_music",
-    "name": "KurdMax Music",
-    "streamUrl": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8",
-    "descriptionKu": "موزیکی KurdMax",
-    "category": "music",
-    "language": "sorani",
-    "views": 33000,
-    "imageUrl": "https://example.com/kurdmax-music-logo.png"
-  },
-  {
-    "id": "med_muzik",
-    "name": "Med Muzik TV",
-    "streamUrl": "http://137.74.205.201/medmuzik/MedStream/playlist.m3u8",
-    "descriptionKu": "کەناڵی Med Muzik",
-    "category": "music",
-    "language": "sorani",
-    "views": 17000,
-    "imageUrl": "https://example.com/med-muzik-logo.png"
-  },
+
   {
     "id": "trt_kurdi",
     "name": "TRT Kurdi",
@@ -316,7 +299,8 @@
     "descriptionKu": "TRT Kurdi - تورکیا",
     "category": "turkey",
     "language": "sorani",
-    "views": 48000
+    "views": 48000،
+        "imageUrl": "https://github.com/sahanddler/pdf/raw/main/trtk.png"
   },
   {
     "id": "ilke_tv",

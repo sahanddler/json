@@ -303,43 +303,24 @@
    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/trtk.png"
   },
   {
-    "id": "ilke_tv",
-    "name": "Ilke TV",
-    "streamUrl": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
-    "descriptionKu": "Ilke TV - تورکیا",
-    "category": "turkey",
-    "language": "sorani",
-    "views": 13000,
-    "imageUrl": "https://example.com/ilke-tv-logo.png"
-  },
-  {
-    "id": "jin_tv",
-    "name": "JIN TV",
-    "streamUrl": "https://live.jintv.org/medialive/jintv.m3u8",
-    "descriptionKu": "JIN TV - تورکیا",
-    "category": "turkey",
-    "language": "sorani",
-    "views": 11000
-  },
-  {
     "id": "shams",
     "name": "Shams TV",
     "streamUrl": "https://stream.shams.tv/hls/stream.m3u8",
-    "descriptionKu": "کەناڵی Shams - عێراق",
+    "descriptionKu": "کەناڵی شەمس - عێراق",
     "category": "iraq",
     "language": "arabic",
     "views": 21000,
-    "imageUrl": "https://example.com/shams-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/shams.png"
   },
   {
     "id": "dijlah",
     "name": "Dijlah TV",
     "streamUrl": "https://ghaasiflu.online/Dijlah/index.m3u8",
-    "descriptionKu": "کەناڵی Dijlah - عێراق",
+    "descriptionKu": "کەناڵی دیجلة - عێراق",
     "category": "iraq",
     "language": "arabic",
     "views": 23000,
-    "imageUrl": "https://example.com/dijlah-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/dijla.png"
   },
   {
     "id": "iraqia",
@@ -349,7 +330,7 @@
     "category": "iraq",
     "language": "arabic",
     "views": 36000,
-    "imageUrl": "https://example.com/iraqia-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqi.png"
   },
   {
     "id": "iraqia_news",
@@ -359,8 +340,9 @@
     "category": "iraq",
     "language": "arabic",
     "views": 34000,
-    "imageUrl": "https://example.com/iraqia-news-logo.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqin.png"
   },
+  
   {
     "id": "iraqia_sport",
     "name": "Al Iraqia Sport",
@@ -368,18 +350,10 @@
     "descriptionKu": "وەرزشی ئەل عێراقیە",
     "category": "sport",
     "language": "arabic",
-    "views": 27000
+    "views": 27000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
+
   },
-  {
-    "id": "mbc_iraq",
-    "name": "MBC Iraq",
-    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
-    "descriptionKu": "MBC Iraq - عێراق",
-    "category": "iraq",
-    "language": "arabic",
-    "views": 46000
-  },
- 
 
   {
     "id": "nrt2",
@@ -391,6 +365,17 @@
     "views": 31000,
     "imageUrl": "https://example.com/nrt2-logo.png"
   },
+    {
+    "id": "mbc_iraq",
+    "name": "MBC Iraq",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+    "descriptionKu": "MBC Iraq - عێراق",
+    "category": "iraq",
+    "language": "arabic",
+    "views": 46000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc.png"
+  },
+ 
   {
     "id": "kurdmax_kurmanci",
     "name": "KurdMax Kurmanci",

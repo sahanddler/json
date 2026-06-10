@@ -135,7 +135,7 @@
     "name": "کەناڵی خاک",
     "streamUrl": "http://bblserver.ddns.net:1935/stream/khakhd/tracks-v1a1/mono.m3u8",
     "descriptionKu": "کەناڵی Khak",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/khak.png"
@@ -145,7 +145,7 @@
     "name": "Farmoda TV",
     "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
     "descriptionKu": "کەناڵی Farmoda",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/farmuda.png"
@@ -155,7 +155,7 @@
     "name": "Bangawaz TV",
     "streamUrl": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
     "descriptionKu": "کەناڵی بانگەواز",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/bangawaz.png"
@@ -166,7 +166,7 @@
     "name": "Amozhgary TV",
     "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
     "descriptionKu": "کەناڵی ئامۆژگاری",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/amozhgary.png"
@@ -176,7 +176,7 @@
     "name": "Eman TV",
     "streamUrl": "https://avr.host247.net/live/emantv/playlist.m3u8",
     "descriptionKu": "کەناڵی Eman",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 5000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/eman.png"
@@ -186,7 +186,7 @@
     "name": "UTV",
     "streamUrl": "https://live.karwan.tv:444/utv-hawler/index.m3u8?token=40b9c1cb28fee944f374e286968410b3d4c56493-0e394371be3203c68d91638120887ac4-1781216540-1781108540&remote=185.24.61.123",
     "descriptionKu": "کەناڵی یەکگرتوو هەولێر",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 29000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
@@ -196,7 +196,7 @@
     "name": "Parwarday Hawler",
     "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8",
     "descriptionKu": "کەناڵی پەروەردەیی هەولێر",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 29000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
@@ -206,7 +206,7 @@
     "name": "Parwarday Slimane",
     "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8",
     "descriptionKu": "کەناڵی پەروەردەیی سلێمانی",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 29000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
@@ -216,7 +216,7 @@
     "name": "Parwarday Duhok",
     "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8",
     "descriptionKu": "کەناڵی پەروەردەیی دهۆك",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 29000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
@@ -236,7 +236,7 @@
     "name": "Mixkurdy",
     "streamUrl": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
     "descriptionKu": "کەناڵی Mixkurdy",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 16000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mix.png"
@@ -246,7 +246,7 @@
     "name": "Welat TV",
     "streamUrl": "https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8",
     "descriptionKu": "وڵات تیڤی",
-    "category": "kurdish",
+    "category": "news",
     "language": "sorani",
     "views": 25000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
@@ -256,7 +256,7 @@
     "name": "Avar TV",
     "streamUrl": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
     "descriptionKu": "کەناڵی Avar",
-    "category": "kurdish",
+    "category": "all",
     "language": "sorani",
     "views": 6000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/avar.png"

@@ -132,13 +132,73 @@
   }, 
   {
     "id": "khak",
-    "name": "کەناڵی خاک",
+    "name": "Khak tv",
     "streamUrl": "http://bblserver.ddns.net:1935/stream/khakhd/tracks-v1a1/mono.m3u8",
-    "descriptionKu": "کەناڵی Khak",
+    "descriptionKu": "کەناڵی خاک",
     "category": "all",
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/khak.png"
+  },
+  {
+    "id": "Halabja",
+    "name": "Halabja tv",
+    "streamUrl": "http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8",
+    "descriptionKu": "کەناڵی هەڵەبجە",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/halabja.png"
+  },
+    {
+    "id": "Shna",
+    "name": "Shna tv",
+    "streamUrl": "http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8",
+    "descriptionKu": "کەناڵی شنە",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/shna.png"
+  },
+      {
+    "id": "Qallat",
+    "name": "Qallat tv",
+    "streamUrl": "http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8",
+    "descriptionKu": "کەناڵی قەڵات",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/qallat.png"
+  },
+       {
+    "id": "ala",
+    "name": "Ala tv",
+    "streamUrl" "http://avrstream.com:1935/live/ala-hd/playlist.m3u8",
+    "descriptionKu": "کەناڵی ئاڵا",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ala.png"
+  },
+   {
+    "id": "bask",
+    "name": "Bask tv",
+    "streamUrl" "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+    "descriptionKu": "کەناڵی باسک",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/bask.png"
+  },
+       {
+    "id": "sada",
+    "name": "sada tv",
+    "streamUrl": "http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8",
+    "descriptionKu": "کەناڵی سەدا",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/sada.png"
   },
     {
     "id": "farmoda",
@@ -170,6 +230,16 @@
     "language": "sorani",
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/amozhgary.png"
+  },
+       {
+    "id": "Mihrab",
+    "name": "Mihrab tv",
+    "streamUrl": "http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8",
+    "descriptionKu": "کەناڵی میحراب",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
   },
    {
     "id": "eman",

@@ -131,6 +131,26 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
   }, 
   {
+    "id": "Zed",
+    "name": "Zed tv",
+    "streamUrl": "http://109.71.252.138/Zedtv/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",
+    "descriptionKu": "کەناڵی زێد",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zed.png"
+  },
+  {
+    "id": "ZedPlus",
+    "name": "Zed Plus tv",
+    "streamUrl": "http://109.71.252.138/Zedplus/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",
+    "descriptionKu": "کەناڵی زێد پڵەس",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zedplus.png"
+  },
+  {
     "id": "khak",
     "name": "Khak tv",
     "streamUrl": "http://bblserver.ddns.net:1935/stream/khakhd/tracks-v1a1/mono.m3u8",

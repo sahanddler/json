@@ -173,6 +173,16 @@
     "views": 50000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/avas.png"
   }, 
+   {
+    "id": "Aso Sport",
+    "name": "Aso Sport",
+    "streamUrl": "http://109.71.252.138/Asosport/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",
+    "descriptionKu": "ئاسۆ سپۆڕت",
+    "category": "sport",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aso.png"
+  }, 
   {
     "id": "Alwan Sport",
     "name": "Alwan Sport",

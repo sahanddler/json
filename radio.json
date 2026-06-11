@@ -31,6 +31,16 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nawa.png"
   },
   {
+    "id": "Afarin radio",
+    "name": "Afarin Radio",
+    "streamUrl": "afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8",
+    "descriptionKu": "ڕادیۆی ئافەرین",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/afarin.png"
+  },
+  {
     "id": "radio_duhok",
     "name": "Radio Duhok FM",
     "streamUrl": "https://stream-149.zeno.fm/unwq3jdyhmbuv",

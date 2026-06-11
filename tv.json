@@ -111,6 +111,27 @@
     "imageUrl": "https://github.com/sahanddler/PDF/raw/main/payam.png"
   },
     {
+    "id": "zagros",
+    "name": "Zagros TV",
+    "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+    "descriptionKu": "کەناڵی Zagros",
+    "category": "news",
+    "language": "sorani",
+    "views": 22000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zagros.png"
+
+  },
+   {
+    "id": "welat",
+    "name": "Welat TV",
+    "streamUrl": "https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8",
+    "descriptionKu": "وڵات تیڤی",
+    "category": "news",
+    "language": "sorani",
+    "views": 25000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
+  },
+    {
     "id": "waar",
     "name": "Waar TV",
     "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
@@ -119,6 +140,16 @@
     "language": "sorani",
     "views": 30000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/WAAR.png"
+  },
+    {
+    "id": "imk",
+    "name": "IMK TV",
+    "streamUrl": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
+    "descriptionKu": "IMK tv",
+    "category": "news",
+    "language": "sorani",
+    "views": 30000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/imk.png"
   },
   {
     "id": "NRT Sport",
@@ -141,6 +172,16 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/avas.png"
   }, 
   {
+    "id": "Alwan Sport",
+    "name": "Alwan Sport",
+    "streamUrl": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FQiC7C4SQiGsDCOYZfmgW26UlTbaVUJjFiVjIgOVd5PoWO8wAPTaJ3R_Cq2JQt9FEdQSgnlCMZAnl-NFgLxEgSA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_playlist.m3u8%3Ftype%3Dlive",
+    "descriptionKu": "ئەڵوەن سپۆڕت",
+    "category": "sport",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
+  }, 
+  {
     "id": "Zed",
     "name": "Zed tv",
     "streamUrl": "http://109.71.252.138/Zedtv/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",
@@ -161,6 +202,16 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zedplus.png"
   },
   {
+    "id": "utv",
+    "name": "UTV",
+    "streamUrl": "https://live.karwan.tv:444/utv-hawler/index.m3u8?token=40b9c1cb28fee944f374e286968410b3d4c56493-0e394371be3203c68d91638120887ac4-1781216540-1781108540&remote=185.24.61.123",
+    "descriptionKu": "کەناڵی یەکگرتوو هەولێر",
+    "category": "all",
+    "language": "sorani",
+    "views": 29000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
+  },
+  {
     "id": "khak",
     "name": "Khak tv",
     "streamUrl": "http://bblserver.ddns.net:1935/stream/khakhd/tracks-v1a1/mono.m3u8",
@@ -169,6 +220,16 @@
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/khak.png"
+  },
+  {
+    "id": "eurokurd",
+    "name": "euro tv",
+    "streamUrl": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
+    "descriptionKu": "کەناڵی euro kurd",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/euro.png"
   },
   {
     "id": "Halabja",
@@ -210,6 +271,16 @@
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ala.png"
   },
+    {
+    "id": "soran",
+    "name": "Soran tv",
+    "streamUrl": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+    "descriptionKu": "کەناڵی سۆران",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/soran.png"
+  },
    {
     "id": "dunya",
     "name": "Dunya tv",
@@ -219,6 +290,27 @@
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/dunya.png"
+  },
+  {
+    "id": "spi",
+    "name": "Spi tv",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8",
+    "descriptionKu": "کەناڵی سپی",
+    "category": "all",
+    "language": "sorani",
+    "views": 19000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spi.png"
+  },
+  
+    {
+    "id": "avar",
+    "name": "Avar TV",
+    "streamUrl": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+    "descriptionKu": "کەناڵی ئاڤار",
+    "category": "all",
+    "language": "sorani",
+    "views": 6000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/avar.png"
   },
     {
     "id": "Hormzyar",
@@ -240,6 +332,36 @@
     "views": 19000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gewher.png"
   },
+  {
+    "id": "Auimalbox",
+    "name": "Animal Box tv",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8",
+    "descriptionKu": "کەناڵی ئەنیماڵ بۆکس",
+    "category": "all",
+    "language": "sorani",
+    "views": 19000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/animalbox.png"
+  },
+   {
+    "id": "shar family",
+    "name": "Shar Family TV",
+    "streamUrl": "http://avrstream.com:1935/live/SHARTV/tracks-v1a1/mono.m3u8",
+    "descriptionKu": "کەناڵی شار خێزانی",
+    "category": "all",
+    "language": "sorani",
+    "views": 25000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/shar.png"
+  },
+    {
+    "id": "Red",
+    "name": "Red TV",
+    "streamUrl": "http://avrstream.com:1935/live/REDTV/tracks-v1a1/mono.m3u8",
+    "descriptionKu": "کەناڵی ڕێد",
+    "category": "all",
+    "language": "sorani",
+    "views": 25000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/red.png"
+  },
    {
     "id": "bask",
     "name": "Bask tv",
@@ -260,6 +382,16 @@
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/sada.png"
+  },
+  {
+    "id": "naqshi",
+    "name": "Naqshi Media",
+    "streamUrl": "http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8",
+    "descriptionKu": "کەناڵی نەقشی میدیا",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/naqshi.png"
   },
     {
     "id": "farmoda",
@@ -302,6 +434,26 @@
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
   },
+  {
+    "id": "Soz quran",
+    "name": "Soz quran",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8",
+    "descriptionKu": "سۆز قورئان ",
+    "category": "all",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/soz.png"
+  }, 
+  {
+    "id": "one plus,
+    "name": "One Plus",
+    "streamUrl": "http://217.76.62.187/hls/kurdiplus.m3u8",
+    "descriptionKu": "وەن پڵەس",
+    "category": "all",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/onep.png"
+  }, 
    {
     "id": "eman",
     "name": "Eman TV",
@@ -313,14 +465,14 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/eman.png"
   },
     {
-    "id": "utv",
-    "name": "UTV",
-    "streamUrl": "https://live.karwan.tv:444/utv-hawler/index.m3u8?token=40b9c1cb28fee944f374e286968410b3d4c56493-0e394371be3203c68d91638120887ac4-1781216540-1781108540&remote=185.24.61.123",
-    "descriptionKu": "کەناڵی یەکگرتوو هەولێر",
+    "id": "Saudi Sunnah",
+    "name": "Saudi Sunnah",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "descriptionKu": "Saudi Sunnah",
     "category": "all",
     "language": "sorani",
-    "views": 29000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
+    "views": 5000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/saudi.png"
   },
   {
     "id": "parwarda_hawler",
@@ -352,18 +504,7 @@
     "views": 29000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
   },
-  {
-    "id": "zagros",
-    "name": "Zagros TV",
-    "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
-    "descriptionKu": "کەناڵی Zagros",
-    "category": "news",
-    "language": "sorani",
-    "views": 22000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zagros.png"
 
-  },
-  
   {
     "id": "mixkurdy",
     "name": "Mixkurdy",
@@ -374,26 +515,7 @@
     "views": 16000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mix.png"
   },
-  {
-    "id": "welat",
-    "name": "Welat TV",
-    "streamUrl": "https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8",
-    "descriptionKu": "وڵات تیڤی",
-    "category": "news",
-    "language": "sorani",
-    "views": 25000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
-  },
-    {
-    "id": "avar",
-    "name": "Avar TV",
-    "streamUrl": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
-    "descriptionKu": "کەناڵی Avar",
-    "category": "all",
-    "language": "sorani",
-    "views": 6000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/avar.png"
-  },
+ 
   {
     "id": "iraqia_kurdish",
     "name": "Al Iraqia Kurdish",
@@ -424,6 +546,7 @@
     "views": 19000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/baxcha.png"
   },
+  
    {
     "id": "znar",
     "name": "Znar Kids",
@@ -443,6 +566,16 @@
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/one.png"
+  },
+    {
+    "id": "spikids",
+    "name": "Spi Kids",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8",
+    "descriptionKu": "کەناڵی سپی مندالان",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spik.png"
   },
     {
     "id": "gewherkids",
@@ -480,10 +613,20 @@
     "name": "TRT Kurdi",
     "streamUrl": "https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8",
     "descriptionKu": "TRT Kurdi - تورکیا",
-    "category": "turkey",
+    "category": "news",
     "language": "sorani",
     "views": 48000,
    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/trtk.png"
+  },
+    {
+    "id": "trt_arbic",
+    "name": "TRT Arabic",
+    "streamUrl": "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
+    "descriptionKu": "TRT Arabic - تورکیا",
+    "category": "iraq",
+    "language": "sorani",
+    "views": 48000,
+   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/trta.png"
   },
   {
     "id": "shams",
@@ -525,7 +668,16 @@
     "views": 34000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqin.png"
   },
-  
+   {
+    "id": "alarabi",
+    "name": "Al Arabi News",
+    "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+    "descriptionKu": "هەواڵی ئەل عەرەبیە",
+    "category": "iraq",
+    "language": "arabic",
+    "views": 34000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alarabi.png"
+  },
   {
     "id": "iraqia_sport",
     "name": "Al Iraqia Sport",
@@ -537,7 +689,36 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
 
   },
-
+{
+    "id": "mbc 1",
+    "name": "MBC 1",
+    "streamUrl": "http://154.58.202.18:8080/mbc1/tracks-v1a1/mono.m3u8",
+    "descriptionKu": "MBC 1",
+    "category": "iraq",
+    "language": "arabic",
+    "views": 46000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc1.png"
+  },
+  {
+    "id": "mbc 2",
+    "name": "MBC 2",
+    "streamUrl": "http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8",
+    "descriptionKu": "MBC 2",
+    "category": "iraq",
+    "language": "arabic",
+    "views": 46000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc2.png"
+  },
+   {
+    "id": "mbc 4",
+    "name": "MBC 4",
+    "streamUrl": "http://154.58.202.18:8080/mbc4/tracks-v1a1/mono.m3u8",
+    "descriptionKu": "MBC 4",
+    "category": "iraq",
+    "language": "arabic",
+    "views": 46000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc4.png"
+  },
     {
     "id": "mbc_iraq",
     "name": "MBC Iraq",

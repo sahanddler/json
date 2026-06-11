@@ -1,4 +1,14 @@
 [
+   {
+    "id": "nrt2",
+    "name": "nrt2",
+    "streamUrl": "http://109.71.252.138/Nrt2/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",
+    "descriptionKu": "هەواڵ و ڕووداوەکانی هەرێمی کوردستان",
+    "category": "news",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
+  },
   {
     "id": "rudaw",
     "name": "rudaw",

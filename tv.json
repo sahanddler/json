@@ -399,7 +399,7 @@
     "name": "Bask tv",
     "streamUrl": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
     "descriptionKu": "کەناڵی باسک",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/bask.png"
@@ -410,7 +410,7 @@
     "name": "sada tv",
     "streamUrl": "http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8",
     "descriptionKu": "کەناڵی سەدا",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/sada.png"
@@ -420,7 +420,7 @@
     "name": "Naqshi Media",
     "streamUrl": "http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8",
     "descriptionKu": "کەناڵی نەقشی میدیا",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/naqshi.png"
@@ -430,7 +430,7 @@
     "name": "Farmuda TV",
     "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
     "descriptionKu": "کەناڵی فەرموودە",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/farmuda.png"
@@ -440,7 +440,7 @@
     "name": "Bangawaz TV",
     "streamUrl": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
     "descriptionKu": "کەناڵی بانگەواز",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/bangawaz.png"
@@ -451,7 +451,7 @@
     "name": "Amozhgary TV",
     "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
     "descriptionKu": "کەناڵی ئامۆژگاری",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 4000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/amozhgary.png"
@@ -461,17 +461,17 @@
     "name": "Mihrab tv",
     "streamUrl": "http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8",
     "descriptionKu": "کەناڵی میحراب",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 9000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
   },
   {
-    "id": "Soz quran",
-    "name": "Soz quran",
-    "streamUrl": "https://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8",
+    "id": "Soz ayne",
+    "name": "Soz ayne",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-sozayne/sozayne/chunks.m3u8",
     "descriptionKu": "سۆز قورئان ",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 50000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/soz.png"
@@ -481,7 +481,7 @@
     "name": "One Plus",
     "streamUrl": "http://217.76.62.187/hls/kurdiplus.m3u8",
     "descriptionKu": "وەن پڵەس",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 50000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/onep.png"
@@ -491,7 +491,7 @@
     "name": "Eman TV",
     "streamUrl": "https://avr.host247.net/live/emantv/playlist.m3u8",
     "descriptionKu": "کەناڵی Eman",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 5000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/eman.png"
@@ -501,7 +501,7 @@
     "name": "Saudi Sunnah",
     "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
     "descriptionKu": "Saudi Sunnah",
-    "category": "quran",
+    "category": "ayne",
     "language": "sorani",
     "views": 5000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/saudi.png"

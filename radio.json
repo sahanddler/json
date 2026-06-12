@@ -30,6 +30,16 @@
     "views": 20000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdsat.png"
   },
+    {
+    "id": "spedafm",
+    "name": "Speda Radio",
+    "streamUrl": "https://radio.host247.net/spedafm",
+    "descriptionKu": "ڕادیۆی سپێدە",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/speda.png"
+  },
    {
     "id": "nawa",
     "name": "Nawa Radio",

@@ -166,7 +166,7 @@
    {
     "id": "Ava Sport",
     "name": "Ava Sport",
-    "streamUrl": "https://live4.karwan.tv:444/ava-sport/tracks-v1a1/mono.m3u8?token=9256c3ee3aa7273ee13cf319164029b872900744-5207cd0531699ef36cb32d582187c7ca-1781395994-1781287994",
+    "streamUrl": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FIL2FtCXmdtapcgzf79rR0LjvR4-e6D4edaWmgyb4A8OR77mHEltRsG3qmStF86VxviiQuYJcI8vFo2vao-9t0w%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2F%2Fdynamic_playlist.m3u8%3Ftype%3Dlive",
     "descriptionKu": "ئاڤا سپۆڕت",
     "category": "sport",
     "language": "sorani",

@@ -183,6 +183,16 @@
     "views": 50000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aso.png"
   }, 
+    {
+    "id": "iraqia_sport",
+    "name": "Al Iraqia Sport",
+    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+    "descriptionKu": "وەرزشی ئەل عێراقیە",
+    "category": "sport",
+    "language": "arabic",
+    "views": 27000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
+  },
   {
     "id": "Alwan Sport",
     "name": "Alwan Sport",
@@ -710,16 +720,7 @@
     "views": 34000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alarabi.png"
   },
-  {
-    "id": "iraqia_sport",
-    "name": "Al Iraqia Sport",
-    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-    "descriptionKu": "وەرزشی ئەل عێراقیە",
-    "category": "sport",
-    "language": "arabic",
-    "views": 27000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
-  },
+
 {
     "id": "mbc 1",
     "name": "MBC 1",

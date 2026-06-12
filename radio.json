@@ -30,6 +30,16 @@
     "views": 20000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nawa.png"
   },
+     {
+    "id": "babylon",
+    "name": "Babylon Radio",
+    "streamUrl": "https://eu7.fastcast4u.com/proxy/babylonarabia?mp=/1&t=1781290139318",
+    "descriptionKu": "ڕادیۆی نەوا",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/babylon.png"
+  },
   {
     "id": "Afarin radio",
     "name": "Afarin Radio",

@@ -234,6 +234,17 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline2.png"
   },
   {
+    "id": "kurdmax",
+    "name": "Kurdmax Sorani tv",
+    "streamUrl": "https://live4.karwan.tv:444/kurdmax-tv-so/tracks-v1a1/mono.m3u8?token=8381557b98c4c47d3486397c00aef2aa587be1a7-9e45dc525aa625edad1fb1d1f709059c-1781396741-1781288741",
+    "descriptionKu": "کەناڵی کوردماکس سۆرانی",
+    "category": "all",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmax.png"
+  },
+
+  {
     "id": "Zed",
     "name": "Zed tv",
     "streamUrl": "http://109.71.252.138/Zedtv/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",

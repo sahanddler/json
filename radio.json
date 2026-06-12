@@ -2,7 +2,7 @@
   {
     "id": "rudaw_radio",
     "name": "Rudaw Radio",
-    "streamUrl": "https://l3.itworkscdn.net/itwaudio/9006/stream",
+    "streamUrl": "https://radio.rudaw.net/stream/live?t=1781291051531",
     "descriptionKu": "ڕادیۆی هەواڵ و ڕووداوەکان",
     "category": "radio",
     "language": "sorani",
@@ -19,6 +19,16 @@
     "language": "sorani",
     "views": 18000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdistan.png"
+  },
+   {
+    "id": "kurdsat",
+    "name": "Dange Kurdsat Radio",
+    "streamUrl": "http://uk3.internet-radio.com:8011/;",
+    "descriptionKu": "ڕادیۆی دەنگی کوردسات",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdsat.png"
   },
    {
     "id": "nawa",
@@ -49,6 +59,16 @@
     "language": "sorani",
     "views": 20000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kirkuk.png"
+  },
+        {
+    "id": "Shafaq",
+    "name": "Shafaq Radio",
+    "streamUrl": "https://radio.shafaq.com/radio",
+    "descriptionKu": "ڕادیۆی شەفەق",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/shafaq.png"
   },
   {
     "id": "Afarin radio",

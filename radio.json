@@ -50,6 +50,16 @@
     "views": 20000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nawa.png"
   },
+  {
+    "id": "playradio",
+    "name": "Play Radio",
+    "streamUrl": "https://playradiokurdistanstream.com/stream",
+    "descriptionKu": "ڕادیۆی نەوا",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/play.png"
+  },
      {
     "id": "babylon",
     "name": "Babylon Radio",

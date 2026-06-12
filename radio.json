@@ -54,7 +54,7 @@
     "id": "playradio",
     "name": "Play Radio",
     "streamUrl": "https://playradiokurdistanstream.com/stream",
-    "descriptionKu": "ڕادیۆی نەوا",
+    "descriptionKu": "ڕادیۆی پلەی",
     "category": "radio",
     "language": "sorani",
     "views": 20000,
@@ -64,11 +64,31 @@
     "id": "babylon",
     "name": "Babylon Radio",
     "streamUrl": "https://eu7.fastcast4u.com/proxy/babylonarabia?mp=/1&t=1781290139318",
-    "descriptionKu": "ڕادیۆی نەوا",
+    "descriptionKu": "ڕادیۆی بابیلۆن",
     "category": "radio",
     "language": "sorani",
     "views": 20000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/babylon.png"
+  },
+   {
+    "id": "dangi kurdistan",
+    "name": "Dange Kurdistan Radio",
+    "streamUrl": "https://a8.asurahosting.com:7730/radio.mp3",
+    "descriptionKu": "ڕادیۆی دەنگی کوردستان",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/dangekurdistan.png"
+  },
+       {
+    "id": "welat",
+    "name": "Welat Radio",
+    "streamUrl": "https://rasti.out.airtime.pro/rasti_a",
+    "descriptionKu": "ڕادیۆی وڵات",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/welat.png"
   },
        {
     "id": "kirkuk",

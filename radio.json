@@ -40,6 +40,16 @@
     "views": 20000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/babylon.png"
   },
+       {
+    "id": "kirkuk",
+    "name": "Kirkuk Radio",
+    "streamUrl": "https://video1.getstreamhosting.com:8154/stream",
+    "descriptionKu": "ڕادیۆی کەرکووک",
+    "category": "radio",
+    "language": "sorani",
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kirkuk.png"
+  },
   {
     "id": "Afarin radio",
     "name": "Afarin Radio",

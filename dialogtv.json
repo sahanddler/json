@@ -1,1 +1,12 @@
-
+{
+  {
+  "enabled": true,
+  "title": "کەناڵ",
+  "message": "تێست تێست "
+  "buttonText": "باشە",
+  "link": "",
+  "buttonText1": "لابردن",
+  "link1": "",
+  "minHoursBetween": 24
+}
+}

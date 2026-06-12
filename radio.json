@@ -71,7 +71,7 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/babylon.png"
   },
    {
-    "id": "dangi kurdistan",
+    "id": "dange kurdistan",
     "name": "Dange Kurdistan Radio",
     "streamUrl": "https://a8.asurahosting.com:7730/radio.mp3",
     "descriptionKu": "ڕادیۆی دەنگی کوردستان",
@@ -122,7 +122,7 @@
   },
   {
     "id": "radio_duhok",
-    "name": "Radio Duhok FM",
+    "name": "Duhok Radio",
     "streamUrl": "https://stream-149.zeno.fm/unwq3jdyhmbuv",
     "descriptionKu": "ڕادیۆی فەرمی دهۆک",
     "category": "radio",
@@ -131,12 +131,14 @@
   },
    {
     "id": "trt_radyo_kurdi",
-    "name": "TRT Radyo Kurdî",
+    "name": "TRT Radio Kurdî",
     "streamUrl": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
     "descriptionKu": "ڕادیۆی فەرمی تی ئاڕ تی کوردی",
     "category": "radio",
     "language": "kurmanci",
-    "views": 20000
+    "views": 20000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/trtk.png"
+
   },
   {
     "id": "waar_radio",

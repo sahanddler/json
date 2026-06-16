@@ -166,7 +166,7 @@
    {
     "id": "Ava Sport",
     "name": "Ava Sport",
-    "streamUrl": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FIL2FtCXmdtapcgzf79rR0LjvR4-e6D4edaWmgyb4A8OR77mHEltRsG3qmStF86VxviiQuYJcI8vFo2vao-9t0w%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2F%2Fdynamic_playlist.m3u8%3Ftype%3Dlive",
+    "streamUrl": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/TrL3t3zAmQdM6SXb9yibPMWJ0towdA1uTqFbEZ0hDdzeUDLge8fL-MwZn4Vw65Pf7I1N3nlZ0-UQ_Up_tv4pbg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live",
     "descriptionKu": "ئاڤا سپۆڕت",
     "category": "sport",
     "language": "sorani",

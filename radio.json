@@ -9,7 +9,16 @@
     "views": 25000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
   },
- 
+  {
+    "id": "ava_radio",
+    "name": "Ava Media Radio",
+    "streamUrl": "https://ava.nodeict.online/;?type=http&nocache=1",
+    "descriptionKu": "ڕادیۆی ئاڤا میدیا",
+    "category": "radio",
+    "language": "sorani",
+    "views": 25000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ava.png"
+  },
   {
     "id": "k24_radio",
     "name": "Kurdistan 24 Radio",

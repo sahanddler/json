@@ -157,7 +157,7 @@
   {
     "id": "NRT Sport",
     "name": "NRT Sport",
-    "streamUrl": "https://live5.karwan.tv:444/ava-sport/index.m3u8?token=53bf8458d7b4b4e575ff63f8570e79b231163b07-af5f3dd1c269fc787768a8f45d0b2899-1781878186-1781770186&remote=185.24.61.6",
+    "streamUrl": "https://live5.karwan.tv:444/nrt-sport/tracks-v1a1/mono.m3u8?token=bf0d0ac6a535faf0ec246112d3b9adb70939373c-b2d74af9fa41d5a1964fec228a211278-1782185046-1782163446",
     "descriptionKu": "ئێن ئاڕتی سپۆڕت",
     "category": "sport",
     "language": "sorani",

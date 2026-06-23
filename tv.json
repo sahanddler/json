@@ -406,6 +406,16 @@
     "views": 19000,
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gewher.png"
   },
+    {
+    "id": "natgeo",
+    "name": " tv",
+    "streamUrl": "http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8",
+    "descriptionKu": "کەناڵی میحراب",
+    "category": "ayne",
+    "language": "sorani",
+    "views": 9000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
+  },
   {
     "id": "Auimalbox",
     "name": "Animal Box tv",
@@ -509,14 +519,14 @@
     "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
   },
     {
-    "id": "Mihrab",
+    "id": "NRT4",
     "name": "NRT 4",
     "streamUrl": "https://storelink.pro/live/25757863262751/27734699055639/1536988.ts",
-    "descriptionKu": "کەناڵی میحراب",
+    "descriptionKu": "کەناڵی ئێن ئاڕتی ئایینی",
     "category": "ayne",
     "language": "sorani",
     "views": 9000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt4.png"
   },
   {
     "id": "Soz ayne",

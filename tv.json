@@ -1,5 +1,14 @@
 [
-    
+     {
+    "id": "Iraqia Sport",
+    "name": "Iraqia sport",
+    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+    "descriptionKu": "وەرزش",
+    "category": "sport",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
+  }, 
   
   {
     "id": "rudaw",

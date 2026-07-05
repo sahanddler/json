@@ -1,25 +1,4 @@
 [
-     {
-    "id": "Iraqia Sport",
-    "name": "Iraqia sport",
-    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-    "descriptionKu": "وەرزش",
-    "category": "sport",
-    "language": "sorani",
-    "views": 50000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
-  }, 
-  
-  {
-    "id": "rudaw",
-    "name": "nrt sport",
-    "streamUrl": "https://183.bozztv.com/giatv/giatv-nrtsportkrdtv/nrtsportkrdtv/playlist.m3u8",
-    "descriptionKu": "هەواڵ و ڕووداوەکانی هەرێمی کوردستان",
-    "category": "news",
-    "language": "sorani",
-    "views": 50000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
-  },
   
   {
     "id": "Ava Media",

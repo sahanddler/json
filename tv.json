@@ -157,7 +157,8 @@
   {
     "id": "NRT Sport",
     "name": "NRT Sport",
-    "streamUrl" : "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/KKocQ5O7ipQXJLqFg-Au1iz2uzgJgTrYZA90JvEWogaAItXWBMVk3roONLIVhgSinxZ_tiLuzPFJSrf1aFnzqA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live",
+    "streamUrl" : "https://live5.karwan.tv:444/sport-tv-1/tracks-v1a1/mono.m3u8?token=87b5e4c19a4a139cb0c34d67747edb2f87d31b8c-5b71ba3c22048f2e1ff5cbb4d6bfdcb4-1783477691-1783369691
+",
     "descriptionKu": "ئێن ئاڕتی سپۆڕت",
     "category": "sport",
     "language": "sorani",

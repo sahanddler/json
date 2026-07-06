@@ -1,10 +1,10 @@
 {
   {
   "enabled": false,
-  "title": "کەناڵ",
-  "message": "تێست تێست "
-  "buttonText": "باشە",
-  "link": "",
+  "title": "گرووپی تێلیگرام",
+  "message": "بۆ هەر پرسیارێک و نوێکارییەک جۆینی گرووپی تێلیگرام بن"
+  "buttonText": "گرووپ",
+  "link": "https://t.me/kurdishtvapp",
   "buttonText1": "لابردن",
   "link1": "",
   "minHoursBetween": 24

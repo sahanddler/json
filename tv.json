@@ -207,7 +207,7 @@
   {
     "id": "Alwan Sport",
     "name": "Alwan Sport",
-    "streamUrl": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FQiC7C4SQiGsDCOYZfmgW26UlTbaVUJjFiVjIgOVd5PoWO8wAPTaJ3R_Cq2JQt9FEdQSgnlCMZAnl-NFgLxEgSA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_playlist.m3u8%3Ftype%3Dlive",
+    "streamUrl": "https://streemkrdtv.site/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-ap-northeast-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FfAd69mNZxj6lxL2yTiHaCdhlbDcRgbjj56rlD1J1JCr_-6ZofSda25Bq6jw2L9T6eFST1dJN1jHzxr6dudRrWg%2Ftranscode%2Fap-northeast-1%2Fperiscope-replay-direct-prod-ap-northeast-1-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fchunk_1783439985898720855_857_a.ts%3Ftype%3Devent",
     "descriptionKu": "ئەڵوەن سپۆڕت",
     "category": "sport",
     "language": "sorani",

@@ -351,18 +351,6 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zedplus.png"
 },
 {
-  "id": "utv",
-  "name": "UTV",
-  "streamUrl": "https://live.karwan.tv:444/utv-hawler/index.m3u8?token=40b9c1cb28fee944f374e286968410b3d4c56493-0e394371be3203c68d91638120887ac4-1781216540-1781108540&remote=185.24.61.123",
-  "descriptionKu": "کەناڵی یەکگرتوو هەولێر",
-  "descriptionAr": "يو تي في",
-  "descriptionEn": "UTV",
-  "category": "all",
-  "language": "sorani",
-  "views": 29000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
-},
-{
   "id": "khak",
   "name": "Khak tv",
   "streamUrl": "http://bblserver.ddns.net:1935/stream/khakhd/tracks-v1a1/mono.m3u8",
@@ -567,18 +555,19 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/sada.png"
 },
- {
-  "id": "naqshi",
-  "name": "Naqshi Media",
-  "streamUrl": "http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8",
-  "descriptionKu": "کەناڵی نەقشی میدیا",
-  "descriptionAr": "نقشي ميديا",
-  "descriptionEn": "Naqshi Media",
-  "category": "ayne",
+    {
+  "id": "spi Quran",
+  "name": "Spi Quran",
+  "streamUrl": "https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8",
+  "descriptionKu": "کەناڵی سپی قورئان",
+  "descriptionAr": "قناة سبي قرآن",
+  "descriptionEn": "Spi Quran TV",
+  "category": "all",
   "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/naqshi.png"
+  "views": 19000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spi.png"
 },
+ 
 {
   "id": "farmuda",
   "name": "Farmuda TV",
@@ -650,18 +639,6 @@
   "language": "sorani",
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt4.png"
-},
-{
-  "id": "Soz ayne",
-  "name": "Soz ayne",
-  "streamUrl": "https://live20.bozztv.com/giatv/giatv-sozayne/sozayne/chunks.m3u8",
-  "descriptionKu": "سۆز قورئان",
-  "descriptionAr": "سوز قرآن",
-  "descriptionEn": "Soz Quran",
-  "category": "ayne",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/soz.png"
 },
 {
   "id": "one plus",

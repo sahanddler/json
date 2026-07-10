@@ -449,7 +449,7 @@
 {
   "id": "spi",
   "name": "Spi tv",
-  "streamUrl": "https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8",
+  "streamUrl": "https://live2.karwan.tv:444/spi-tv/tracks-v1a1/mono.m3u8?token=bd04731975c9e0381df5a461bccbeeb0b98b08f3-ab823f63ca77eb6d953bca78597dbbd9-1783732343-1783710743",
   "descriptionKu": "کەناڵی سپی",
   "descriptionAr": "قناة سبي",
   "descriptionEn": "Spi TV",

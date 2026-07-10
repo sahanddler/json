@@ -221,7 +221,8 @@
 },
 {
   "id": "kurdmax",
-  "name" : "https://live5.karwan.tv:444/kurdmax-tv-so/tracks-v1a1/mono.m3u8?token=cc0f84661609c8a0a71a1a993475ecc7f9267a63-d0246fe891f571aa1be5041cd3aae7c1-1783716666-1783695066",
+  "name" : "Kurdmax TV",
+  "streamUrl" :  "http://109.71.252.138/Newinw8k2/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes", 
   "descriptionKu": "کەناڵی کوردماکس سۆرانی",
   "descriptionAr": "كوردماكس سوراني",
   "descriptionEn": "Kurdmax Sorani TV",

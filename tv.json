@@ -6,6 +6,8 @@
     "name": "rudaw",
     "streamUrl": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
     "descriptionKu": "هەواڵ و ڕووداوەکانی هەرێمی کوردستان",
+    "descriptionAr": "الأخبار والأحداث في إقليم كردستان",
+    "descriptionEn": "News and events in the Kurdistan Region"
     "category": "news",
     "language": "sorani",
     "views": 50000,
@@ -17,6 +19,8 @@
     "name": "Ava Media",
     "streamUrl": "https://ava1.store/upload/ava.m3u8",
     "descriptionKu":  "ئاڤا میدیا",
+    "descriptionAr": "افا میدیا",
+    "descriptionEn": "Ava Media"
     "category": "news",
     "language": "sorani",
     "views": 50000,
@@ -26,7 +30,7 @@
     "id": "k24",
     "name": "Kurdistan 24",
     "streamUrl": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
-    "descriptionKu": "کەناڵی هەواڵی ٢٤ کاتژمێری",
+    "descriptionKu": "کوردستیان ٢٤",
     "category": "news",
     "language": "sorani",
     "views": 45000,

@@ -907,7 +907,7 @@
 {
   "id": "alarabi",
   "name": "Al Arabi News",
-  "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+  "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_240p/chunks.m3u8",
   "descriptionKu": "هەواڵی ئەل عەرەبیە",
   "descriptionAr": "العربية",
   "descriptionEn": "Al Arabi News",

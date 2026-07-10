@@ -173,7 +173,7 @@
 {
   "id": "imk",
   "name": "IMK TV",
-  "streamUrl": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
+  "streamUrl": "https://live3.karwan.tv:444/imk-quran/tracks-v1a1/mono.m3u8?token=d53346d1d7ecfc56d68d7c93f6445f80e4885b0d-5b165238f1f41fba7e874c079bf163a9-1783714188-1783692588",
   "descriptionKu": "IMK tv",
   "descriptionAr": "آي إم كي تي في",
   "descriptionEn": "IMK TV",

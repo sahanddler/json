@@ -245,7 +245,7 @@
 {
   "id": "Gewher SPORT",
   "name": "Gewher SPORT",
-  "streamUrl": "https://live5.karwan.tv:444/gewher-sport/tracks-v1a1/mono.m3u8?token=434f1d61975f44f26b2ac70610a723d973859e82-d43216e81082332cc4ef18fc212c1dd9-1783460974-1783439374",
+  "streamUrl": "https://cdn.karwan.tv/gewher-sport/tracks-v1a1/mono.m3u8",
   "descriptionKu": "گەوهەر سپۆڕت",
   "descriptionAr": "گوهر سبورت",
   "descriptionEn": "Gewher Sport",

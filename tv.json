@@ -411,18 +411,7 @@
   "views": 19000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gewher.png"
 },
-{
-  "id": "natgeo",
-  "name": "tv",
-  "streamUrl": "http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8",
-  "descriptionKu": "کەناڵی میحراب",
-  "descriptionAr": "قناة المحراب",
-  "descriptionEn": "Mihrab TV",
-  "category": "ayne",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
-},
+
 {
   "id": "Auimalbox",
   "name": "Animal Box tv",
@@ -522,10 +511,22 @@
 {
   "id": "Amozhgary",
   "name": "Amozhgary TV",
-  "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+  "streamUrl": "https://app-live.org/live/3268334b/index.m3u8",
   "descriptionKu": "کەناڵی ئامۆژگاری",
   "descriptionAr": "قناة آموزكاري",
   "descriptionEn": "Amozhgary TV",
+  "category": "ayne",
+  "language": "sorani",
+  "views": 4000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/amozhgary.png"
+},
+    {
+  "id": "Amozhgary Academic",
+  "name": "Amozhgary Academic TV",
+  "streamUrl": "https://app-live.org/live/a267c1b3/index.m3u8",
+  "descriptionKu": "کەناڵی ئەکادیمیای ئامۆژگاری",
+  "descriptionAr": "قناة آموزكاري",
+  "descriptionEn": "Amozhgary Academic TV",
   "category": "ayne",
   "language": "sorani",
   "views": 4000,

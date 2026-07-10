@@ -269,7 +269,7 @@
 {
   "id": "Alwan Sport",
   "name": "Alwan Sport",
-  "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/alwan1krdtv2/chunks.m3u8?lb_backend_hint=7",
+  "streamUrl": "https://streemkrdtv.site/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-eu-central-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2Fkt-5509hcCEESQvzePfCFaRxnIXlxVdXYfRKvJo92rGxj3A0xA1VRedSqvPpLxuien4TUtHjzLNIrFjLbFEnrA%2Ftranscode%2Feu-central-1%2Fperiscope-replay-direct-prod-eu-central-1-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive&_HLS_skip=YES",
   "descriptionKu": "ئەڵوەن سپۆڕت",
   "descriptionAr": "ألوان سبورت",
   "descriptionEn": "Alwan Sport",

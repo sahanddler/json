@@ -689,6 +689,18 @@
   "views": 4000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/amozhgary.png"
 },
+   {
+  "id": "imkquran",
+  "name": "IMK Quran",
+    "streamUrl": "http://avrstream.com:1935/live/IMKQURANHD/tracks-v1a1/mono.m3u8?type=live",
+  "descriptionKu": "کەناڵی ئای ئێم کەی قورئان",
+  "descriptionAr": "آي إم كي تي في قرأن",
+  "descriptionEn": "IMK Quran",
+  "category": "news",
+  "language": "sorani",
+  "views": 30000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/imk.png"
+}, 
 {
   "id": "Mihrab",
   "name": "Mihrab tv",

@@ -363,6 +363,18 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zed.png"
 },
+    {
+  "id": "spedadrama",
+  "name": "Speda Drama",
+  "streamUrl": "http://543545ffw.drm223.org:8080/live/0012.yunus.polat.2024/W4hH38XZPV/413882.ts?token=GhEMA0QJRAsUVlAEAwVXVlZYBFcEUwEEUQtZUFEGUw1QVVYAA1ZWAlRDThdHR0NWVlRuXVMXDQBSAFlZVxlGQRJWFj1eBUQLFFBbAwMECQAVFRNAXlhSFlkCVllVAlcHWQdSThURD1UUW0ABAAEFABUVE1FPQVJGDVINPgFQEl0CVkZYWRQKXRpDDVtrV1ReVldVFg0XBhZPEQgSFRdeFigdNUJ4DwpYWARCU1tBEXpZTVRGWVBDFDBWExcMVgFHQVIKBhciCVxbFAxcV1JFWlhXQhR7eXQWTxEDCBFHBUAEEV4MQg0KHRQCDUBaR0NKFQMTfWYXGxYGSxUEC0YNWw8RXkBDEkQdFAgRakZWQkdFXFBZUkcVDkEDQ01HWAVMPlALDFkEBUVfDgxGFgkTAhUVE1lYW15ADEE+EQxRRg5DB1BTDlNETA==",
+  "descriptionKu": "کەناڵی سپێدە دراما",
+  "descriptionAr": "قناة سبيدة دراما",
+  "descriptionEn": "Speda Drama",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spedd.png"
+},
 {
   "id": "ZedPlus",
   "name": "Zed Plus tv",
@@ -410,6 +422,18 @@
   "language": "sorani",
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gkplus.png"
+},
+    {
+  "id": "zhintv",
+  "name": "Zhin tv",
+  "streamUrl": "https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8",
+  "descriptionKu": "کەناڵی ژین",
+  "descriptionAr": "قناة زين",
+  "descriptionEn": "Zhin TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zhin.png"
 },
 {
   "id": "Halabja",

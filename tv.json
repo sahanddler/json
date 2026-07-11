@@ -300,9 +300,20 @@
   "category": "sport",
   "language": "sorani",
   "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/Alwan.png"
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
 },
-
+    {
+  "id": "Alwan Sport5",
+  "name": "Alwan Sport 5",
+  "streamUrl": "https://halowapp.store/stream1/watch.php?id=324&exp=1783806529&token=d8a94184b0a670531444aba9015d9fd40a2630f3af6e0c4036daaa178092729f",
+  "descriptionKu": "ئەڵوەن سپۆڕت ٥",
+  "descriptionAr": "ألوان سبورت ٥",
+  "descriptionEn": "Alwan Sport 5",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
+},
    {
   "id": "nrt2",
   "name": "nrt2",

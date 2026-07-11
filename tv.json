@@ -196,8 +196,9 @@
 },
 {
   "id": "imk",
-  "name": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
-  "descriptionKu": "IMK tv",
+  "name": "IMK TV",
+    "streamUrl": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
+  "descriptionKu": "کەناڵی ئای ئێم کەی",
   "descriptionAr": "آي إم كي تي في",
   "descriptionEn": "IMK TV",
   "category": "news",

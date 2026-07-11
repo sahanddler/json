@@ -424,6 +424,18 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gkplus.png"
 },
     {
+  "id": "ranyatv",
+  "name": "Ranya TV",
+  "streamUrl": "https://vsd115.okcdn.ru/hls/17782353955366.m3u8/sig/gA0yZIjxmus/expires/1783887328357/srcIp/185.24.61.22/urls/95.163.35.76/clientType/0/srcAg/CHROME/mid/15783385636390/17782353955366_high/index.m3u88",
+  "descriptionKu": "کەناڵی ڕانییە تیڤی",
+  "descriptionAr": "قناة رانیة",
+  "descriptionEn": "Ranya TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ranya.png"
+},
+    {
   "id": "zhintv",
   "name": "Zhin tv",
   "streamUrl": "https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8",

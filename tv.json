@@ -182,6 +182,18 @@
   "views": 30000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/WAAR.png"
 },
+    {
+  "id": "duhoktv",
+  "name": "Duhok TV",
+  "streamUrl": "http://fastrunner.live:8080/live/WcMp8SiRyB/FotkPhvA4Y/124446.ts",
+  "descriptionKu": "کەناڵی دهۆک تیڤی",
+  "descriptionAr": "دهوك تيفي",
+  "descriptionEn": "Duhok TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/dhok.png"
+},
 {
   "id": "imk",
   "name": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",

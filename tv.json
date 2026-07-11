@@ -134,6 +134,18 @@
   "views": 15000,
   "imageUrl": "https://github.com/sahanddler/PDF/raw/main/payam.png"
 },
+    {
+  "id": "utvhawler",
+  "name": "UTV Hawler",
+  "streamUrl": "http://smart1box.com/live/0505259234/0505259234/260868.ts",
+  "descriptionKu": "کەناڵی یەکگرتوو هەولێر",
+  "descriptionAr": "يكرتوو",
+  "descriptionEn": "UTV Hawler TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
+},
   {
   "id": "zagros",
   "name": "Zagros TV",
@@ -172,8 +184,7 @@
 },
 {
   "id": "imk",
-  "name": "IMK TV",
-  "streamUrl": "https://live3.karwan.tv:444/imk-quran/tracks-v1a1/mono.m3u8?token=d53346d1d7ecfc56d68d7c93f6445f80e4885b0d-5b165238f1f41fba7e874c079bf163a9-1783714188-1783692588",
+  "name": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
   "descriptionKu": "IMK tv",
   "descriptionAr": "آي إم كي تي في",
   "descriptionEn": "IMK TV",
@@ -363,7 +374,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/khak.png"
 },
-{
+    {
   "id": "eurokurd",
   "name": "Euro Kurd tv",
   "streamUrl": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
@@ -374,6 +385,18 @@
   "language": "sorani",
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/euro.png"
+},
+{
+  "id": "gkplus",
+  "name": "GK plus",
+  "streamUrl": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+  "descriptionKu": "کەناڵی جی کەی پڵەس",
+  "descriptionAr": "جي كي بلس",
+  "descriptionEn": "GK plus ",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gkplus.png"
 },
 {
   "id": "Halabja",

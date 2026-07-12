@@ -1,16 +1,5 @@
 [
-    {
-    "id": "rudaw",
-    "name": "rudaw",
-    "streamUrl": "http://195.182.16.44:8080/357643467990765&&/Ofgo3yz8CH/460861?token=yaUfacH.yXadd.X.adzfH.ydzHayzbfc.X.y.EG.ts.0441156a5e6e08063f8d4c8021ec00996beebbfa6f206deb1c0e2827ce0f5862.37069.T3JhbmdlIEVneXB0.Z2F6YWxvbmUubGlmZQ==",
-    "descriptionKu": "هەواڵ و ڕووداوەکانی هەرێمی کوردستان",
-    "descriptionAr": "الأخبار والأحداث في إقليم كردستان",
-    "descriptionEn": "News and events in the Kurdistan Region",
-    "category": "news",
-    "language": "sorani",
-    "views": 50000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
-  },
+    
   
   {
     "id": "rudaw",

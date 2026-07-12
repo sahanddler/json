@@ -435,6 +435,30 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gkplus.png"
 },
     {
+  "id": "zagros24",
+  "name": "Zagros 24",
+  "streamUrl": "https://hlspackager.akamaized.net/live/DB/ZAGROS_24/HLS/ZAGROS_24.m3u8",
+  "descriptionKu": "کەناڵی زاگرۆس 24",
+  "descriptionAr": "قناة زاكروس ٢٤",
+  "descriptionEn": "Zagros 24",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zagros24.png"
+},
+    {
+  "id": "kmptv",
+  "name": "KMP TV",
+  "streamUrl": "https://iptv-link.short.gy/KMP.m3u8",
+  "descriptionKu": "کەناڵی کەی ئێم بی",
+  "descriptionAr": "قناة ك م ب",
+  "descriptionEn": "KMP TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kmp.png"
+},
+    {
   "id": "ranyatv",
   "name": "Ranya TV",
   "streamUrl": "https://vsd115.okcdn.ru/hls/17782353955366.m3u8/sig/09MYORba2bY/expires/1783888023892/srcIp/185.24.61.22/urls/95.163.35.76/clientType/0/srcAg/CHROME/mid/15783385636390/17782353955366_high/index.m3u8",

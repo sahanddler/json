@@ -122,6 +122,18 @@
   "views": 18000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kirkuk.png"
 },
+    {
+  "id": "speda",
+  "name": "Speda TV",
+  "streamUrl": "http://109.71.252.138/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",
+  "descriptionKu": "کەناڵی سپێدە",
+  "descriptionAr": "قناة سبيدة",
+  "descriptionEn": "Speda TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/speda.png"
+}, 
 {
   "id": "payam",
   "name": "Payam TV",
@@ -374,6 +386,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zed.png"
 },
+
     {
   "id": "spedadrama",
   "name": "Speda Drama",

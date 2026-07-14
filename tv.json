@@ -221,7 +221,7 @@
     {
   "id": "NRT Sport",
   "name": "NRT Sport",
-  "streamUrl": "https://streemkrdtv.site/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-eu-central-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FWK5NttyI8tMqxUZzAYL7O0uSjaEhbkO0HvhrxRHcAPVCGxbKZZQoNpBRv213qjVGTeTwoM-L84jAEB7xj5m50Q%2Ftranscode%2Feu-central-1%2Fperiscope-replay-direct-prod-eu-central-1-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_playlist.m3u8%3Ftype%3Dlive",
+  "streamUrl": "http://45.155.226.138:8085/local/ku/NRT-Sport-h265/mono.m3u8?md5=v-oFzJFHiwZW-4PhC9LOLQ&expires=1784138630&type=a1&info=12d8121f0000688d",
   "descriptionKu": "ئێن ئاڕتی سپۆڕت",
   "descriptionAr": "إن آر تي سبورت",
   "descriptionEn": "NRT Sport",

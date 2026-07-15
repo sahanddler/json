@@ -1,18 +1,6 @@
 [
     
   
-  {
-    "id": "rudaw",
-    "name": "rudaw",
-    "streamUrl": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
-    "descriptionKu": "هەواڵ و ڕووداوەکانی هەرێمی کوردستان",
-    "descriptionAr": "الأخبار والأحداث في إقليم كردستان",
-    "descriptionEn": "News and events in the Kurdistan Region",
-    "category": "news",
-    "language": "sorani",
-    "views": 50000,
-    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
-  },
   
   {
     "id": "Ava Media",
@@ -74,6 +62,19 @@
   "views": 14000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/channell8.png"
 },
+    
+  {
+    "id": "rudaw",
+    "name": "rudaw",
+    "streamUrl": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
+    "descriptionKu": "هەواڵ و ڕووداوەکانی هەرێمی کوردستان",
+    "descriptionAr": "الأخبار والأحداث في إقليم كردستان",
+    "descriptionEn": "News and events in the Kurdistan Region",
+    "category": "news",
+    "language": "sorani",
+    "views": 50000,
+    "imageUrl": "https://github.com/sahanddler/pdf/raw/main/rudaw.png"
+  },
 {
   "id": "kurdistan_tv",
   "name": "Kurdistan TV",

@@ -1,12 +1,12 @@
 [
   {
-  "id": "21",
-  "team1Name": "فەڕەنسا",
-  "team1ImageUrl": "https://github.com/sahanddler/PDF/raw/main/france.png",
-  "team2Name": "ئیسپانیا",
-  "team2ImageUrl": "https://github.com/sahanddler/PDF/raw/main/spain.png",
-  "matchTime": "ئێستا",
-  "matchDate": "سێشەمە 14/07/2026",
+  "id": "1",
+  "team1Name": "ئەرجەنتین",
+  "team1ImageUrl": "https://github.com/sahanddler/PDF/raw/main/argan.png",
+  "team2Name": "ئینگلتەرا",
+  "team2ImageUrl": "https://github.com/sahanddler/PDF/raw/main/england.png",
+  "matchTime": "22:00",
+  "matchDate": "چوارشەمە 14/07/2026",
   "channelName": "NRT SPORT",
   "leagueName": "جامی جیهانی"
 }

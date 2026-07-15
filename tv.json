@@ -230,6 +230,18 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
 },
+        {
+  "id": "NRT Sport",
+  "name": "NRT Sport",
+  "streamUrl": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
+  "descriptionKu": "ئێن ئاڕتی سپۆڕت",
+  "descriptionAr": "إن آر تي سبورت",
+  "descriptionEn": "NRT Sport",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
+},
 {
   "id": "Ava Sport",
   "name": "Ava Sport",

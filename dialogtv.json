@@ -1,11 +1,11 @@
 {
   {
-  "enabled": false,
-  "title": "وەشانی نوێ",
-  "message": "وەشانی نوێ بەردەستە"
-  "buttonText": "نوێکردنەوە",
-  "link": "https://play.google.com/store/apps/details?id=com.kurdishtv",
-  "buttonText1": "",
+  "enabled": true,
+  "title": "گروپی تێلیگرام",
+  "message": "دەتوانن جۆینی گرووپی تێلیگرام بن بۆ هەر پسیارێک یاخود کێشەیەک"
+  "buttonText": "جۆینکردن",
+  "link": "https://t.me/kurdishtvapp",
+  "buttonText1": "لابردن",
   "link1": "",
   "minHoursBetween": 12
 }

@@ -220,8 +220,8 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/imk.png"
 },
     {
-  "id": "NRT Sportt",
-  "name": "NRT SPORT V2",
+  "id": "NRT Sport",
+  "name": "NRT SPORT",
   "streamUrl": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
   "descriptionKu": "ئێن ئاڕتی سپۆڕت",
   "descriptionAr": "إن آر تي سبورت",
@@ -232,8 +232,8 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
 },   
     {
-  "id": "NRT Sport",
-  "name": "NRT Sport",
+  "id": "NRT Sportt",
+  "name": "NRT SPORT V2",
   "streamUrl": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qK3_hUXduFJUYbC65LDxxGWiXB3yPbej5s1_OfbhH8oauCyJSaGVGNUlbrVMkAoI-nd68fe_nop9apT31x-nIA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live",
   "descriptionKu": "ئێن ئاڕتی سپۆڕت",
   "descriptionAr": "إن آر تي سبورت",

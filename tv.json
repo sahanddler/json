@@ -1244,6 +1244,30 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alarabi.png"
 },
     {
+  "id": "al hadath,
+  "name": "Al Hadath",
+  "streamUrl": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8",
+  "descriptionKu": "ئەل حدث",
+  "descriptionAr": "الحدث",
+  "descriptionEn": "Al Hadath",
+  "category": "iraq",
+  "language": "arabic",
+  "views": 34000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alhadath.png"
+},
+    {
+  "id": "Sky news",
+  "name": "Sky News",
+  "streamUrl": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__5.m3u8",
+  "descriptionKu": "هەواڵی سکای",
+  "descriptionAr": "سکاي نیوز",
+  "descriptionEn": "Sky News",
+  "category": "iraq",
+  "language": "arabic",
+  "views": 34000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/skynews.png"
+},
+    {
   "id": "aljazera2",
   "name": "Al Jazeera 2",
   "streamUrl": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/03.m3u8",

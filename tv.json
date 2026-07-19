@@ -1243,6 +1243,42 @@
   "views": 34000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alarabi.png"
 },
+    {
+  "id": "aljazera2",
+  "name": "Al Arabi News",
+  "streamUrl": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/03.m3u8",
+  "descriptionKu": "ئەل جەزیرە ٢",
+  "descriptionAr": "قناة الجزيرة ٢",
+  "descriptionEn": "Al Jazeera 2",
+  "category": "iraq",
+  "language": "arabic",
+  "views": 34000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aljazeera.png"
+},
+        {
+  "id": "aljazera live",
+  "name": "Al Jazeera Live",
+  "streamUrl": "https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/02.m3u8",
+  "descriptionKu": "ئەل جەزیرە ڕآستەوخۆ",
+  "descriptionAr": "قناة الجزيرة مباشر",
+  "descriptionEn": "Al Jazeera Live",
+  "category": "iraq",
+  "language": "arabic",
+  "views": 34000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aljazeeralive.png"
+},
+        {
+  "id": "aljazera doc",
+  "name": "Al Jazeera Documentary",
+  "streamUrl": "https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/02.m3u8",
+  "descriptionKu": " دیکۆمێنتاریی ئەلجەزیرە",
+  "descriptionAr": "الجزيرة الوثائقية",
+  "descriptionEn": "Al Jazeera Documentary ",
+  "category": "iraq",
+  "language": "arabic",
+  "views": 34000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aljazeeradoc.png"
+},
 {
   "id": "mbc 1",
   "name": "MBC 1",

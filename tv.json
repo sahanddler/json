@@ -1244,7 +1244,7 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alarabi.png"
 },
     {
-  "id": "al hadath,
+  "id": "al hadath",
   "name": "Al Hadath",
   "streamUrl": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8",
   "descriptionKu": "ئەل حدث",
@@ -1268,7 +1268,7 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/skynews.png"
 },
     {
-  "id": "alarabi",
+  "id": "Mayadeen",
   "name": "Al Mayadeen",
   "streamUrl": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2700000.m3u8",
   "descriptionKu": "هەواڵی ئەل میادین",

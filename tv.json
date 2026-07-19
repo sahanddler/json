@@ -348,9 +348,9 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
 },
     {
-          "id": "LD SPORT",
+  "id": "LD SPORT",
   "name": "LD SPORT",
-  "streamUrl": "https://streemkrdtv.site/api/hls-proxy?url=https://prod-fastly-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/6nxXca60muttdNqCF1oJPIDlier0TxTLCaECaFc9i-2ocFWlse2thoNU1fyQGBl1Yu4ZROTHCnP2o5TWVYmOBA/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live",
+  "streamUrl": "https://vsd123.okcdn.ru/dash/stream_18026345269818/stream.manifest/sig/eaknemY37cM/expires/1784574377744/srcIp/185.24.61.128/urls/178.237.23.63/clientType/0/srcAg/CHROME_ANDROID/mid/15792313081402/frag-high-14091248.dash",
   "descriptionKu": "ئێڵ دی سپۆڕت",
   "descriptionAr": "إل دي سبورت",
   "descriptionEn": "LD Sport",

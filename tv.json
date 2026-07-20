@@ -1131,8 +1131,8 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqin.png"
 },
 {
-  "id": "alarabi",
-  "name": "Al Arabi News",
+  "id": "alarabiya",
+  "name": "Al Arabiya",
   "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_240p/chunks.m3u8",
   "descriptionKu": "هەواڵی ئەل عەرەبیە",
   "descriptionAr": "العربية",

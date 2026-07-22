@@ -1,5 +1,14 @@
 [
   {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/daf.png",
+    "author": "ئوسام خشخانی",
+    "link": "https://drive.google.com/file/d/1KNtyWfZFau6QJmK8BD_8al77VOOSi1Fj/view?usp=drivesdk",
+    "name": "پیرەمێر و دەریا",
+    "category": "بادینی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D9%BE%DB%8C%D8%B1%DB%95%D9%85%DB%8E%D8%B1%20%D9%88%20%D8%AF%DB%95%D8%B1%DB%8C%D8%A7%D8%8C%20%D8%A6%D9%88%D8%B3%D8%A7%D9%85%20%D8%AE%D8%B4%D8%AE%D8%A7%D8%B4%DB%8C_compressed.pdf"
+  }, 
+  {
     "aboutpdf" :"ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/pdf/raw/main/sarbaz.png",
     "author": "محمد عبدالکریم جاف",
@@ -359,32 +368,7 @@
     "name": "پەیامی حەشر",
     "category": "ئەدەبی",
     "url": "https://github.com/sahanddler/warzshe/raw/main/%D9%BE%DB%95%DB%8C%D8%A7%D9%85%DB%8C%20%D8%AD%DB%95%D8%B4%D8%B1%20-%20%D8%B3%DB%95%D8%B9%DB%8C%D8%AF%20%D9%86%D9%88%D9%88%D8%B1%D8%B3%DB%8C.pdf"
-  },
-     {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor12.png",
-    "author": "مەسعوود محەمەد",
-    "link": "https://drive.google.com/file/d/1pcenLLbzK_FYJ3OiA1To4riJDEgwfs8O/view?usp=drivesdk",
-    "name": "زاراوەسازیی پێوانە",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/ZarawesaziyPeewane.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/rsm/raw/main/xwenar.png",
-    "author": "",
-    "link": "https://drive.google.com/file/d/1pcenLLbzK_FYJ3OiA1To4riJDEgwfs8O/view?usp=drivesdk",
-    "name": "مەولودنامەی کوردی",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/%D9%85%DB%95%D9%88%D9%84%D9%88%D8%AF%20%D9%86%D8%A7%D9%85%DB%95%DB%8C%20%DA%A9%D9%88%D8%B1%D8%AF%DB%8C.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor14.jpg",
-    "author": "مامۆستا مەلا عەبدوڵڵای کاتب",
-    "link": "https://drive.google.com/file/d/14dmsXKR1jqapO81oqMOquTsjXFrf-B7F/view?usp=drivesdk",
-    "name": "فەنایی-دیوانی ناڵەی دڵ",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/%D9%81%DB%95%D9%86%D8%A7%DB%8C%DB%8C%20-%20%D8%AF%DB%8C%D9%88%D8%A7%D9%86%DB%8C%20%D9%86%D8%A7%DA%B5%DB%95%DB%8C%20%D8%AF%DA%B5%20(1).pdf"
-    } 
+  }
+    
+    
 ] 

@@ -28,7 +28,7 @@
   {
   "id": "k24",
   "name": "Kurdistan 24",
-  "streamUrl": "https://live1.karwan.tv:444/kurdistan24-tv/tracks-v1a1/mono.m3u8?token=ac241464194fa27a3ebfae1917ebd86bafe77c79-115c60c7d99a01ca8ac408236862ec38-1784431135-1784409535",
+  "streamUrl" : "http://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
   "descriptionKu": "کوردستان ٢٤",
   "descriptionAr": "كردستان 24",
   "descriptionEn": "Kurdistan 24",

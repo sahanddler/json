@@ -517,6 +517,29 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zagros24.png"
 },
     {
+  "id": "BINER TV",
+  "name": "BINER TV",
+  "streamUrl": "http://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+  "descriptionKu": "کەناڵی بینەر",
+  "descriptionAr": "قناة بینر",
+  "descriptionEn": "BINER TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/buner.png"
+},
+    {
+  "name": "KMP TV",
+  "streamUrl": "https://iptv-link.short.gy/KMP.m3u8",
+  "descriptionKu": "کەناڵی کەی ئێم پی",
+  "descriptionAr": "قناة ك م ب",
+  "descriptionEn": "KMP TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kmp.png"
+},
+    {
   "id": "kmptv",
   "name": "KMP TV",
   "streamUrl": "https://iptv-link.short.gy/KMP.m3u8",

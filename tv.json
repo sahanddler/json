@@ -552,6 +552,18 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zhin.png"
 },
+        {
+  "id": "walla ",
+  "name": "Walla Chamchamal",
+  "streamUrl": "https://cdn.karwan.tv/wallatv/index.m3u8",
+  "descriptionKu": "واڵا چەمچەماڵ",
+  "descriptionAr": "قناة والا",
+  "descriptionEn": "Walla Chamchamal",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/walla.png"
+},
 {
   "id": "Halabja",
   "name": "Halabja tv",

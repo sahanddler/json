@@ -519,7 +519,7 @@
     {
   "id": "BINER TV",
   "name": "BINER TV",
-  "streamUrl": "http://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+  "streamUrl": "https://cdn.karwan.tv/biner-zaxo/embed.html",
   "descriptionKu": "کەناڵی بینەر",
   "descriptionAr": "قناة بینر",
   "descriptionEn": "BINER TV",

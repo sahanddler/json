@@ -52,7 +52,7 @@
 {
   "id": "nrt",
   "name": "NRT TV",
-  "streamUrl": "https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002-mp4a_128000=20000-begin=3648441818800000-dur=100000000-seq=36484419.ts",
+  "streamUrl": "https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive.kurdtips.uno%2Fproxy.php%3Furl%3Dhttp%253A%252F%252Fline.127-cloudfront.xyz%252Flive%252Faeb4df2522%252Fdcee39b551%252F818053.m3u8%26ext%3D.m3u8&ext=.m3u8",
   "descriptionKu": "ئێن ئاڕ تی",
   "descriptionAr": "إن آر تي",
   "descriptionEn": "NRT TV",

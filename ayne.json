@@ -1,10 +1,18 @@
 [
-
+  {
+    "aboutpdf": "​«پەیامی خوا» پەڕتووکێکی کورتی پەروەردەیییە، ئامانجی دروستکردنی ئارامیی ناخە لەڕێگەی ئایەت و فەرموودەکانەوە.ئاراستەی هەر کەسێک کراوە کە بەدوای بەهێزکردنی ئیمان و هیوا دەگەڕێت لە ژیاندا.بە زمانێکی سادە و میهرەبانانە نووسراوە بۆ نزیکبوونەوە لە پەروەردگار",
+    "image": "https://github.com/sahanddler/rsm/raw/main/payamm.png",
+    "author": "گەشێ سەردار",
+    "link": "https://drive.google.com/file/d/1FsGtJzSMkyIHwLilms-WvVS61v6wZugR/view?usp=drivesdk",
+    "name": "پەیامی خوا",
+    "category": "ئایینی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/5aa5eac6-a02d-47a2-8c97-e5399df7b173.pdf"
+  },
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/dastn.png",
     "author": "احمد عمر",
-    "link": "https://drive.google.com/file/d/1gUHsimJpF8yXQ0KWlqvlPAmEwNyT5pRP/view?usp=drivesdk ",
+    "link": "https://drive.google.com/file/d/1gUHsimJpF8yXQ0KWlqvlPAmEwNyT5pRP/view?usp=drivesdk",
     "name": "ئەحکامەکانی دەستنوێژ",
     "category": "ئایینی",
     "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AF%D8%A9%D8%B3%D8%AA%20%D9%86%D9%88%D9%8A%D8%B2.pdf"

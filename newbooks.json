@@ -1,5 +1,14 @@
 [
   {
+    "aboutpdf": "​«پەیامی خوا» پەڕتووکێکی کورتی پەروەردەیییە، ئامانجی دروستکردنی ئارامیی ناخە لەڕێگەی ئایەت و فەرموودەکانەوە.ئاراستەی هەر کەسێک کراوە کە بەدوای بەهێزکردنی ئیمان و هیوا دەگەڕێت لە ژیاندا.بە زمانێکی سادە و میهرەبانانە نووسراوە بۆ نزیکبوونەوە لە پەروەردگار",
+    "image": "https://github.com/sahanddler/rsm/raw/main/payamm.png",
+    "author": "گەشێ سەردار",
+    "link": "https://drive.google.com/file/d/1FsGtJzSMkyIHwLilms-WvVS61v6wZugR/view?usp=drivesdk",
+    "name": "پەیامی خوا",
+    "category": "ئایینی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/5aa5eac6-a02d-47a2-8c97-e5399df7b173.pdf"
+  },
+  {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/pdf/raw/main/daf.png",
     "author": "ئوسام خشخانی",

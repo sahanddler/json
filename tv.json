@@ -147,18 +147,7 @@
   "views": 15000,
   "imageUrl": "https://github.com/sahanddler/PDF/raw/main/payam.png"
 },
-    {
-  "id": "utvhawler",
-  "name": "UTV Hawler",
-  "streamUrl": "http://smart1box.com/live/0505259234/0505259234/260868.ts",
-  "descriptionKu": "کەناڵی یەکگرتوو هەولێر",
-  "descriptionAr": "يكرتوو",
-  "descriptionEn": "UTV Hawler TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/utv.png"
-},
+    
   {
   "id": "zagros",
   "name": "Zagros TV",
@@ -395,79 +384,8 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt2.png"
 },
-{
-  "id": "newline 1",
-  "name": "Newline 1",
-  "streamUrl": "http://89.37.117.227:8080/live/18885076681336/14648237268240/601449.m3u8?token=Hycdfb.yfayUbb.X.fUcbbyz.yczHbdcU.X.y.IQ.m3u8.65c9a3f5c580bfac30546251876dacd0039c4013dcdc7e62535a25a0eb788187...bWF4LXByby52aXA=",
-  "descriptionKu": "کەناڵی نیوڵاین ١",
-  "descriptionAr": "قناة نيو لاين 1",
-  "descriptionEn": "Newline 1",
-  "category": "all",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline1.png"
-},
-{
-  "id": "newline 2",
-  "name": "Newline 2",
-  "streamUrl": "http://89.37.117.227:8080/live/18885076681336/14648237268240/601450.m3u8?token=Hycdfb.yfayUaf.X.fUcbbay.yczHbdcU.X.y.IQ.m3u8.5f79d22a8107cdf73491bed7f17bdd84d8039021f4320edfa937862ca8e6a4fa...bWF4LXByby52aXA=",
-  "descriptionKu": "کەناڵی نیوڵاین ٢",
-  "descriptionAr": "قناة نيو لاين 2",
-  "descriptionEn": "Newline 2",
-  "category": "all",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline2.png"
-},
-{
-  "id": "kurdmax",
-  "name" : "Kurdmax TV",
-  "streamUrl" : "http://89.37.117.227:8080/live/18885076681336/14648237268240/601420.m3u8?token=Hycdfb.UyHcXzf.X.fzbdz.yczHbdcU.X.y.IQ.m3u8.d96d7a1e51ea6c257c649602a4efe9a55ec25eaef3652207b7c188e539e7d4fb...bWF4LXByby52aXA=", 
-  "descriptionKu": "کەناڵی کوردماکس سۆرانی",
-  "descriptionAr": "كوردماكس سوراني",
-  "descriptionEn": "Kurdmax Sorani TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmax.png"
-},
-{
-  "id": "Zed",
-  "name": "Zed tv",
-  "streamUrl": "http://v28.vo-falcon.site:8080/live/971502997766/2803120924/409705.ts?token=SUNWWkMWUxBRFgMUVwIGBBZIRFZeQ10XF0waAl9MDl4eQ1FLQwFcF11bVxRfFUdCFkhEUElCVhELVFRnVVwUW1EEFglZEV4IGBZRVxZfEQsWBVRWCVNWBwFXAVpVX1tQUQACBFJXCgdRUAsAAAIAUAZGShdYRWwRAEZMSlRYD1dAQw4DG0ZbF0QWA1gQW18dFgkHTW5VXA0LUFtMWFYMQRBbBR8VCV0KXUBWRDpHWlUWXkQHCQUKVkcZGldfZgZXXwBaVxVeEFUWGBtGDFMRCxZWXgEHABFPR0ZMSlRYD21bBRYJA1QLUwQBFRQRXl5UFl5XAgkFC1tTAgAAHRsXQVcTa1pTRghRAwQJA1xK",
-  "descriptionKu": "کەناڵی زێد",
-  "descriptionAr": "قناة زيد",
-  "descriptionEn": "Zed TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zed.png"
-},
 
-    {
-  "id": "spedadrama",
-  "name": "Speda Drama",
-  "streamUrl": "http://543545ffw.drm223.org:8080/live/0012.yunus.polat.2024/W4hH38XZPV/413882.ts?token=GhEMA0QJRAsUVlAEAwVXVlZYBFcEUwEEUQtZUFEGUw1QVVYAA1ZWAlRDThdHR0NWVlRuXVMXDQBSAFlZVxlGQRJWFj1eBUQLFFBbAwMECQAVFRNAXlhSFlkCVllVAlcHWQdSThURD1UUW0ABAAEFABUVE1FPQVJGDVINPgFQEl0CVkZYWRQKXRpDDVtrV1ReVldVFg0XBhZPEQgSFRdeFigdNUJ4DwpYWARCU1tBEXpZTVRGWVBDFDBWExcMVgFHQVIKBhciCVxbFAxcV1JFWlhXQhR7eXQWTxEDCBFHBUAEEV4MQg0KHRQCDUBaR0NKFQMTfWYXGxYGSxUEC0YNWw8RXkBDEkQdFAgRakZWQkdFXFBZUkcVDkEDQ01HWAVMPlALDFkEBUVfDgxGFgkTAhUVE1lYW15ADEE+EQxRRg5DB1BTDlNETA==",
-  "descriptionKu": "کەناڵی سپێدە دراما",
-  "descriptionAr": "قناة سبيدة دراما",
-  "descriptionEn": "Speda Drama",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spedd.png"
-},
-{
-  "id": "ZedPlus",
-  "name": "Zed Plus tv",
-  "streamUrl": "http://109.71.252.138/Zedplus/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes",
-  "descriptionKu": "کەناڵی زێد پڵەس",
-  "descriptionAr": "قناة زيد بلس",
-  "descriptionEn": "Zed Plus TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zedplus.png"
-},
+
 {
   "id": "khak",
   "name": "Khak tv",
@@ -528,17 +446,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/buner.png"
 },
-    {
-  "name": "KMP TV",
-  "streamUrl": "https://iptv-link.short.gy/KMP.m3u8",
-  "descriptionKu": "کەناڵی کەی ئێم پی",
-  "descriptionAr": "قناة ك م ب",
-  "descriptionEn": "KMP TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kmp.png"
-},
+
     {
   "id": "kmptv",
   "name": "KMP TV",

@@ -366,23 +366,7 @@
   "descriptionKu": "گەوهەر سپۆڕت",
   "descriptionAr": "گوهر سبورت",
   "descriptionEn": "Gewher Sport",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/gewher.png"
-},
-{
-  "id": "iraqia_sport",
-  "name": "Al Iraqia Sport",
-  "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-  "descriptionKu": "وەرزشی ئەل عێراقیە",
-  "descriptionAr": "العراقية الرياضية",
-  "descriptionEn": "Al Iraqia Sport",
-  "category": "sport",
-  "language": "arabic",
-  "views": 27000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
-}, 
+
    {
   "id": "nrt2",
   "name": "nrt2",

@@ -1,13 +1,5 @@
 [
-  {
-    "aboutpdf": "​«پەیامی خوا» پەڕتووکێکی کورتی پەروەردەیییە، ئامانجی دروستکردنی ئارامیی ناخە لەڕێگەی ئایەت و فەرموودەکانەوە.ئاراستەی هەر کەسێک کراوە کە بەدوای بەهێزکردنی ئیمان و هیوا دەگەڕێت لە ژیاندا.بە زمانێکی سادە و میهرەبانانە نووسراوە بۆ نزیکبوونەوە لە پەروەردگار",
-    "image": "https://github.com/sahanddler/rsm/raw/main/payamm.png",
-    "author": "گەشێ سەردار",
-    "link": "https://drive.google.com/file/d/1FsGtJzSMkyIHwLilms-WvVS61v6wZugR/view?usp=drivesdk",
-    "name": "پەیامی خوا",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/5aa5eac6-a02d-47a2-8c97-e5399df7b173.pdf"
-  },
+
   {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/rsm/raw/main/dastn.png",
@@ -735,5 +727,14 @@
     "name": "گەورە پیاوی مزگەوت و زەلیلی مەیخانە",
     "category": "ئایینی",
     "url" : "https://github.com/sahanddler/PDF/raw/main/%DA%AF%DB%95%D9%88%D8%B1%DB%95_%D9%BE%DB%8C%D8%A7%D9%88%DB%8C_%D9%85%D8%B2%DA%AF%DB%95%D9%88%D8%AA_%D9%88_%D8%B2%DB%95%D9%84%DB%8C%D9%84%DB%8C_%D9%85%DB%95%DB%8C%D8%AE%D8%A7%D9%86%DB%95_.pdf"
-    }  
+    }, 
+    {
+    "aboutpdf": "​«پەیامی خوا» پەڕتووکێکی کورتی پەروەردەیییە، ئامانجی دروستکردنی ئارامیی ناخە لەڕێگەی ئایەت و فەرموودەکانەوە.ئاراستەی هەر کەسێک کراوە کە بەدوای بەهێزکردنی ئیمان و هیوا دەگەڕێت لە ژیاندا.بە زمانێکی سادە و میهرەبانانە نووسراوە بۆ نزیکبوونەوە لە پەروەردگار",
+    "image": "https://github.com/sahanddler/rsm/raw/main/payamm.png",
+    "author": "گەشێ سەردار",
+    "link": "https://drive.google.com/file/d/1FsGtJzSMkyIHwLilms-WvVS61v6wZugR/view?usp=drivesdk",
+    "name": "پەیامی خوا",
+    "category": "ئایینی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/5aa5eac6-a02d-47a2-8c97-e5399df7b173.pdf"
+  }
 ]

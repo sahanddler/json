@@ -2,7 +2,7 @@
   {
   "enabled": true,
   "title": "وەشانی نوێ",
-  "message": "ئێستا وەشانی نوێی ئەپەکە بەردەستە "
+  "message": "ئێستا وەشانی نوێی ئەپەکە بەردەستە", 
   "buttonText": "ئەپدەیت کردن بۆ مۆبایل",
   "link": "https://play.google.com/store/apps/details?id=com.kurdishtv",
   "buttonText1": "ئەپدەیت کردن بۆ تەلەفیزیۆن",
@@ -12,7 +12,7 @@
 {
   "enabled": true,
   "title": "کۆدی ئەکتیڤ کردنی کەناڵەکان لە وەشانی نوێ",
-  "message": "(kurdishtv)"
+  "message": "(kurdishtv)", 
   "buttonText": "لابردن",
   "link": "",
   "buttonText1": "ئەپدەیت کردن بۆ تەلەفیزیۆن",

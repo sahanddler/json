@@ -1,11 +1,21 @@
 {
   {
   "enabled": true,
-  "title": "گروپی تێلیگرام",
-  "message": "دەتوانن جۆینی گرووپی تێلیگرام بن بۆ هەر پسیارێک یاخود کێشەیەک"
-  "buttonText": "جۆینکردن",
-  "link": "https://t.me/kurdishtvapp",
-  "buttonText1": "لابردن",
+  "title": "وەشانی نوێ",
+  "message": "ئێستا وەشانی نوێی ئەپەکە بەردەستە "
+  "buttonText": "ئەپدەیت کردن بۆ مۆبایل",
+  "link": "https://play.google.com/store/apps/details?id=com.kurdishtv",
+  "buttonText1": "ئەپدەیت کردن بۆ تەلەفیزیۆن",
+  "link1": "https://pub-40767ab13c6e4fc6bf6a8832d3a3fd56.r2.dev/app-release.apk",
+  "minHoursBetween": 24
+}
+{
+  "enabled": true,
+  "title": "کۆدی ئەکتیڤ کردنی کەناڵەکان لە وەشانی نوێ",
+  "message": "(kurdishtv)"
+  "buttonText": "لابردن",
+  "link": "",
+  "buttonText1": "ئەپدەیت کردن بۆ تەلەفیزیۆن",
   "link1": "",
   "minHoursBetween": 12
 }

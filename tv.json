@@ -1110,6 +1110,18 @@
   "views": 34000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/almayadeen.png"
 },
+        {
+  "id": "aljazeeranews",
+  "name": "Al Jazeera",
+  "streamUrl": "http://103.112.171.69:8080/live/557484600940/4b583b026886566d52b610213df6fd6f/102136.ts",
+  "descriptionKu": "ئەل جەزیرە",
+  "descriptionAr": "قناة الجزيرة",
+  "descriptionEn": "Al Jazeera",
+  "category": "iraq",
+  "language": "arabic",
+  "views": 34000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aljazeera.png"
+},
     {
   "id": "aljazera2",
   "name": "Al Jazeera 2",

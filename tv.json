@@ -1048,6 +1048,18 @@
   "views": 22000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zarok.png"
 },
+    {
+  "id": "mbc3",
+  "name": "MBC 3",
+  "streamUrl": "https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive.kurdtips.uno%2Fproxy.php%3Furl%3Dhttp%253A%252F%252F22941-argued.dn-4kott.com%252Flive%252F2d80d2e615%252F27a38d346b0d%252F924908.m3u8%26ext%3D.m3u8&ext=.m3u8",
+  "descriptionKu": "MBC 3",
+  "descriptionAr": "ام بي سي ٣",
+  "descriptionEn": "MBC 3",
+  "category": "kids",
+  "language": "arabic",
+  "views": 22000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc3.png"
+},
 {
   "id": "trt_kurdi",
   "name": "TRT Kurdi",

@@ -1,5 +1,14 @@
 [
     {
+    "aboutpdf": "ئەو کورسییەی ئێمە لە سەری دا دەنیشین و دارتاشێکی نە خوێندەوار درووستی کردووە هونەری لە هەموو ئەو ڕۆژنامانە زیاتر تێدایە کەلەسەر کورسییەکە دەیخوێنینەوە..نووسەر لە دیدارێکدا دەربارەی ناونیشانیی ڕۆمانەکە وتی:ھەستەکەم ناونیشانەکە تا حەددێک تەعبیر بێت لە ناوەرۆکی ڕۆمانەکە، یەعنی نزیکە لە ناوەرۆکی ڕۆمانەکەوە، نزیکە لە گەورەترین سیفەت لە کارەکتەری پاڵەوانەکە کە کەسێکە با ئەیبا. ھەتا ئەگەر لەڕووی مەجازیشەوە تەماشایبکەیت جەمشید خان کەسێکە کە وەکوو یارییەک وایە بەدەست ڕووداوەکانەوە، وەکوو کەسێک وایە ھەموو ڕووداو و کارەساتە مێژوویی یا ئەو شتە ڕۆژانە سادانەی کە لە دەوروبەری ڕووئەیات بە شێوەیەک لە شێوەکان لەگەڵ خۆیاندا ئەیبەن و ئەیفڕێنن. لێرەوە ناونیشانی ڕۆمانەکەش لەوەوە ھاتووە کە جەمشید خان پاڵەوانێکە، کەسێکە کە زیاتر لەوەی کە ئیرادەی خۆی دەور ببینێت لە چارەنووسیا، شتەکانی چواردەوری دەور دەبینن لە چارەنووسیا، ھئزەکانی تر دەور دەبینن لە دیاریکرنی چارەنووسیا، وە ژیانی خۆی ھێندەی بەدەست ئەو ھێزانەی کەوەیە بەدەست خۆیەوە نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/jamshed.png",
+    "author": "بەختیار عەلی",
+    "link": "https://drive.google.com/file/d/1aKlGIVRrIEtKdrGhIScHGraArS1jBIME/view?usp=drivesdk",
+    "name": "جەمشید خانی مامم",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/555557010-%D8%A8%DB%95%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D8%B9%D9%84%DB%8C-%D8%AC%D9%87-%D9%85%D8%B4%DB%8C%D8%AF-%D8%AE%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%85%D9%85-%DA%95%DB%86%D9%85%D8%A7%D9%86.pdf"
+      }, 
+    {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/pdf/raw/main/gaylani.png",
     "author": "د.عبدالرزاق گەیلانی",
@@ -368,24 +377,6 @@
     "name": "پەیامەکانی نوور-ژیاننامەی سەعیدی نوورسی",
     "category": "ئەدەبی",
     "url": "https://github.com/sahanddler/warzshe/raw/main/9_%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C_%D9%86%D9%88%D9%88%D8%B1_%DA%98%DB%8C%D8%A7%D9%86%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%DB%8C_%D8%B3%D9%87%E2%80%8C%D8%B9%DB%8C%D8%AF%DB%8C_%D9%86%D9%88%D9%88%D8%B1%D8%B3%DB%8C.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor10.png",
-    "author": "حبیب محمد سعید",
-    "link": "https://drive.google.com/file/d/1QlO4mbE6z2rBnRmYukljVyEVXB7UK6jW/view?usp=drivesdk",
-    "name": "ژیاننامەی بدیع الزمان سەعیدی نوورسی",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/%D8%A8%D8%AF%DB%8C%D8%B9%20%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor11.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1mIa20Kxub6s3kYXU48VnJ27jxEO5xVx_/view?usp=drivesdk",
-    "name": "پەیامی حەشر",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/%D9%BE%DB%95%DB%8C%D8%A7%D9%85%DB%8C%20%D8%AD%DB%95%D8%B4%D8%B1%20-%20%D8%B3%DB%95%D8%B9%DB%8C%D8%AF%20%D9%86%D9%88%D9%88%D8%B1%D8%B3%DB%8C.pdf"
   }
     
     

@@ -284,58 +284,6 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
 },
     
-
-    {
-  "id": "Alwan Sport 2",
-  "name": "Alwan Sport 2",
-  "streamUrl": "https://vsd288.okcdn.ru/hls/17610418031288.m3u8/sig/Iaycf6pV6DM/expires/1784575064610/srcIp/185.24.61.128/urls/185.226.52.93/clientType/0/srcAg/CHROME/mid/15301741452984/17610418031288_high/index.m3u8",
-  "descriptionKu": "ئەڵوەن سپۆڕت 2",
-  "descriptionAr": "ألوان سبورت 2",
-  "descriptionEn": "Alwan Sport 2",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
-},
-    
-    {
-  "id": "Alwan Sport 3",
-  "name": "Alwan Sport 3",
-  "streamUrl": "http://103.76.129.5:8080/live/18885076681336/14648237268240/649704.ts?token=Hycdfb.fUUdzyH.X.fazfaHU.yHXXUbHbXf.X.y.IQ.ts.175758ad899cb4574b3e92e3aa7651adbdcb50fcc2de2e73b0c4e653d41fe309...bWF4LXByby52aXA=",
-  "descriptionKu": "ئەڵوەن سپۆڕت 3",
-  "descriptionAr": "ألوان سبورت 3",
-  "descriptionEn": "Alwan Sport 3",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
-},
-
-    {
-  "id": "Alwan Sport 4",
-  "name": "Alwan Sport 4",
-  "streamUrl": "http://102.129.186.91:8080/live/18885076681336/14648237268240/649705.ts?token=Hycdfb.UXXadzb.X.fUyUyXa.yHXXUbHbfU.X.y.IQ.ts.ddbe70da96d5c4d64ab8b402bc2341594451c0b0dae03927717044d2ac9735e9...bWF4LXByby52aXA=",
-  "descriptionKu": "ئەڵوەن سپۆڕت 4",
-  "descriptionAr": "ألوان سبورت 4",
-  "descriptionEn": "Alwan Sport 4",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
-},
-    
-    {
-  "id": "Alwan Sport 5",
-  "name": "Alwan Sport 5",
-  "streamUrl": "http://102.129.186.91:8080/live/18885076681336/14648237268240/649706.ts?token=Hycdfb.fddHfby.X.fUyUybf.yHXXUbHbbd.X.y.IQ.ts.49bad7e22d32448399d2cc460077e1175b7ebd667af28fde90c71dec3e78ee2f...bWF4LXByby52aXA=",
-  "descriptionKu": "ئەڵوەن سپۆڕت 5",
-  "descriptionAr": "ألوان سبورت 5",
-  "descriptionEn": "Alwan Sport 5",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
-},
     {
   "id": "LD SPORT",
   "name": "LD SPORT",

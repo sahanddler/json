@@ -655,5 +655,14 @@
     "name": "کچە خزمەتکارەکە و کۆشکەکە",
     "category": "چیرۆک",
     "url": "https://github.com/sahanddler/PDF/raw/main/Untitled%20document(1).pdf"
-  }  
+  }, 
+    {
+    "aboutpdf" : "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/alm.png",
+    "author": "سانا فتاح",
+    "link" : "https://drive.google.com/file/d/1N_XNOUIwpbCsjbpD7oW7DVKh0GVR6NVl/view?usp=drivesdk",
+    "name": "ئەڵماسی ڕاستگۆیی",
+    "category": "چیرۆک",
+    "url": "https://github.com/sahanddler/PDF/raw/main/2_5386659072525242892.pdf"
+  }   
 ]

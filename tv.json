@@ -185,6 +185,18 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/WAAR.png"
 },
     {
+  "id": "imn",
+  "name": "imn Kurdish",
+  "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8?sid=nfnxq3utmpb86051",
+  "descriptionKu" : "imn کوردی",
+  "descriptionAr": "قناة imn",
+  "descriptionEn": "imn Kurdish",
+  "category": "iraq",
+  "language": "arabic",
+  "views": 36000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/iraqiaku.png"
+},
+    {
   "id": "duhoktv",
   "name": "Duhok TV",
   "streamUrl": "http://fastrunner.live:8080/live/WcMp8SiRyB/FotkPhvA4Y/124446.ts",
@@ -441,6 +453,18 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/buner.png"
 },
 
+    {
+  "id": "mirna",
+  "name": "Mirna TV",
+  "streamUrl": "http://161.97.123.126:8081/stream/mirna/master.m3u8",
+  "descriptionKu": "کەناڵی میرنا",
+  "descriptionAr": "قناة میرنا",
+  "descriptionEn": "Mirna TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mirna.png"
+},
     {
   "id": "kmptv",
   "name": "KMP TV",
@@ -1019,6 +1043,7 @@
   "views": 22000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc3.png"
 },
+    
 {
   "id": "trt_kurdi",
   "name": "TRT Kurdi",
@@ -1056,6 +1081,7 @@
   "views": 23000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/dijla.png"
 },
+
 {
   "id": "iraqia",
   "name": "Al Iraqia",

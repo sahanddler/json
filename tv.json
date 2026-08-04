@@ -454,18 +454,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mirna.png"
 },
-    {
-  "id": "kmptv",
-  "name": "KMP TV",
-  "streamUrl": "https://iptv-link.short.gy/KMP.m3u8",
-  "descriptionKu": "کەناڵی کەی ئێم پی",
-  "descriptionAr": "قناة ك م ب",
-  "descriptionEn": "KMP TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kmp.png"
-},
+
     {
   "id": "ranyatv",
   "name": "Ranya TV",
@@ -808,7 +797,7 @@
 {
   "id": "one plus",
   "name": "One Plus",
-  "streamUrl": "http://217.76.62.187/hls/kurdiplus.m3u8",
+  "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8",
   "descriptionKu": "وەن پڵەس",
   "descriptionAr": "ون بلس",
   "descriptionEn": "One Plus",
@@ -952,7 +941,7 @@
 {
   "id": "onekids",
   "name": "One Kids",
-  "streamUrl": "http://217.76.62.187/hls/kids.m3u8",
+  "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8",
   "descriptionKu": "کەناڵی وەن مندالان",
   "descriptionAr": "ون للأطفال",
   "descriptionEn": "One Kids",

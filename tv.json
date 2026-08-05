@@ -566,7 +566,7 @@
 {
   "id": "dunya",
   "name": "Dunya tv",
-  "streamUrl": "https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8",
+  "streamUrl": "http://dunyahd.ddns.net/live/DunyaHd/index.m3u8",
   "descriptionKu": "کەناڵی دوونیا",
   "descriptionAr": "قناة دنيا",
   "descriptionEn": "Dunya TV",

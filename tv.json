@@ -1125,7 +1125,7 @@
         {
   "id": "aljazeeranews",
   "name": "Al Jazeera",
-  "streamUrl": "http://103.112.171.69:8080/live/557484600940/4b583b026886566d52b610213df6fd6f/102136.ts",
+  "streamUrl": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
   "descriptionKu": "ئەل جەزیرە",
   "descriptionAr": "قناة الجزيرة",
   "descriptionEn": "Al Jazeera",

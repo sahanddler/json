@@ -1,5 +1,14 @@
 [
     {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/diwanh.png",
+    "author": "سەردار حەمید،کەریم موستەفا",
+    "link": "https://drive.google.com/file/d/1sfFsaGXF8HMEVPbcuBFWudi6-B5vs5gI/view?usp=drivesdk",
+    "name": "دیوانی حاجی قادری کۆیی",
+    "category": "ئەدەبی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%AF%DB%8C%D9%88%D8%A7%D9%86%DB%8C_%D8%AD%D8%A7%D8%AC%DB%8C_%D9%82%D8%A7%D8%AF%D8%B1%DB%8C_%DA%A9%DB%86%DB%8C%DB%8C.pdf"
+    }, 
+    {
     "aboutpdf" :"️یەکەم بەرهەمی خۆم بڵاوکردەوە کە کتێبەکە بە ناوی کتێبە هەمەجۆرەکە لەژێر ناونیشانی ( سەختیەکانی ژیان ، ڕۆژێکی نوێ ، وتــــە ) لەگەڵیدا چەند بابەتێکیتر لە خۆ دەگرێت هیوادارم بەدڵتان بێت لە هەڵە و کەم و کوڕیەکانم ببوورن ، پێشنیار و سرنجەکانتان گەورەم دەکات",
     "image": "https://github.com/sahanddler/pdf/raw/main/hamarr.png",
     "author": "محمد احمد",
@@ -359,52 +368,6 @@
     "name": "پەیامەکانی نوور-تیشکەکان",
     "category": "ئەدەبی",
     "url": "https://github.com/sahanddler/warzshe/raw/main/4-%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C%20%D9%86%D9%88%D9%88%D8%B1-%D8%AA%DB%8C%D8%B4%D9%83%D9%87%E2%80%8C%D9%83%D8%A7%D9%86.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor5.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1rFmwUF6kqB41PcmOLrEigJYwhn4mm7Eb/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-پاشبەندەکان",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/5%D8%B3%D9%87_%D8%B1%D8%AC%D9%87_%D9%85%DB%8C_%D9%BE%D9%87_%DB%8C%D8%A7%D9%85%D9%87_%D9%83%D8%A7%D9%86%DB%8C_%D9%86%D9%88%D9%88%D8%B1_%D9%BE%D8%A7%D8%B4%D8%A8%D9%87_%D9%86%D8%AF%D9%87_%D9%83%D8%A7%D9%86.pdf"
-  },
-     {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor6.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1WMfWP3QAhrZ7IPN2KvshJbS9fmQaWf9x/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-داوەرییەکان",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/%D8%B3%D9%87_%D8%B1%D8%AC%D9%87_%D9%85%DB%8C_%D9%BE%D9%87_%DB%8C%D8%A7%D9%85%D9%87_%D9%83%D8%A7%D9%86%DB%8C_%D9%86%D9%88%D9%88%D8%B1_6_%D8%AF%D8%A7%D9%88%D9%87_%D8%B1%DB%8C%DB%8C%D9%87_%D9%83%D8%A7%D9%86.pdf"
-  },
-     {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor7.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/17YFoBuQyrb9E69NbgBDYEQpDFggTbjWe/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-ئاماژەکانی ئیعجاز",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/%D8%B3%D9%87_%D8%B1%D8%AC%D9%87_%D9%85%DB%8C_%D9%BE%D9%87_%DB%8C%D8%A7%D9%85%D9%87_%D9%83%D8%A7%D9%86%DB%8C_%D9%86%D9%88%D9%88%D8%B1_7_%D8%A6%D8%A7%D9%85%D8%A7%DA%98%D9%87_%D9%83%D8%A7%D9%86%DB%8C_%D8%A6%DB%8C%D8%B9%D8%AC%D8%A7%D8%B2.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor8.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1eVAFHyom6CH2zidXtUZKcbP4ttbpfeaC/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-مەسنەویی نووری",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/8_%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C_%D9%86%D9%88%D9%88%D8%B1_%D9%85%D8%A9%D8%B3%D9%86%D8%A9%D9%88%D9%89_%D9%86%D9%88%D9%88%D8%B1%D9%89.pdf"
-  },
-     {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor9.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1OG_9sbflF7pOVal_l-eY7a1RPjqc7HcF/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-ژیاننامەی سەعیدی نوورسی",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/9_%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C_%D9%86%D9%88%D9%88%D8%B1_%DA%98%DB%8C%D8%A7%D9%86%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%DB%8C_%D8%B3%D9%87%E2%80%8C%D8%B9%DB%8C%D8%AF%DB%8C_%D9%86%D9%88%D9%88%D8%B1%D8%B3%DB%8C.pdf"
   }
-    
-    
+
 ] 

@@ -209,6 +209,18 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/dhok.png"
 },
+        {
+  "id": "komaltv",
+  "name": "Komal TV",
+  "streamUrl": "http://188.72.5.30:8080/alsard/555666/5179",
+  "descriptionKu": "کەناڵی کۆمەڵ",
+  "descriptionAr": "کومل تيفي",
+  "descriptionEn": "Komal TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/komal.png"
+},
 {
   "id": "imk",
   "name": "IMK TV",

@@ -482,7 +482,7 @@
     {
   "id": "ranyatv",
   "name": "Ranya TV",
-  "streamUrl": "https://vsd288.okcdn.ru/hls/17782353955366.m3u8/sig/RbY1wOVZNsI/expires/1785092519625/srcIp/185.24.61.211/urls/176.112.172.73/clientType/0/srcAg/CHROME/mid/15783385636390/17782353955366_high/index.m3u8",
+  "streamUrl": "http://188.72.5.30:8080/alsard/555666/5214",
   "descriptionKu": "کەناڵی ڕانییە تیڤی",
   "descriptionAr": "قناة رانیة",
   "descriptionEn": "Ranya TV",

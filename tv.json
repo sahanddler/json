@@ -575,6 +575,18 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/soran.png"
 },
+    {
+  "id": "kurdtv",
+  "name": "Kurd tv",
+  "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8",
+  "descriptionKu": "کەناڵی کورد",
+  "descriptionAr": "قناة الأكراد",
+  "descriptionEn": "Kurd TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdtv.png"
+},
 {
   "id": "dunya",
   "name": "Dunya tv",

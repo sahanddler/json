@@ -1,4 +1,13 @@
 [
+              {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/yalda.png",
+    "author": "موئەدەب پوور",
+    "link": "https://drive.google.com/file/d/1aMiuGiK3HeDTcQ-oV8YoxF440m2TVM67/view?usp=drivesdk",
+    "name": "یەڵدا",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%DB%8C%DB%95%DA%B5%D8%AF%D8%A7%20%D9%85%D9%88%D8%A6%DB%95%D8%AF%DB%95%D8%A8%D9%BE%D9%88%D9%88%D8%B1_compressed.pdf"
+      }, 
         {
     "aboutpdf" : "چەند نموونەیەک لە ژیاننامەی پێغەمبەری مەزن دروودی خوای لەسەر بێت",
     "image": "https://github.com/sahanddler/pdf/raw/main/hunarg.png",
@@ -359,24 +368,5 @@
     "name": "پەیامەکانی نوور-مەکتووبات",
     "category": "ئەدەبی",
     "url": "https://github.com/sahanddler/warzshe/raw/main/2-%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C%20%D9%86%D9%88%D9%88%D8%B1-%D9%85%D9%87%E2%80%8C%D9%83%D8%AA%D9%88%D9%88%D8%A8%D8%A7%D8%AA.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor3.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1YhKssSPLF45r05JqyJnnsT5ltNoeJ5JX/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-بریسکەکان",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/3-%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C%20%D9%86%D9%88%D9%88%D8%B1-%D8%A8%D8%B1%DB%8C%D8%B3%D9%83%D9%87%E2%80%8C%D9%83%D8%A7%D9%86.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor4.jpg",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1Fx7KFiDjuIUliW_Bz_A-IlHMu8Z__F4b/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-تیشکەکان",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/4-%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C%20%D9%86%D9%88%D9%88%D8%B1-%D8%AA%DB%8C%D8%B4%D9%83%D9%87%E2%80%8C%D9%83%D8%A7%D9%86.pdf"
-  }
-
+    }
 ] 

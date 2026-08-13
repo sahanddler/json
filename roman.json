@@ -1323,5 +1323,14 @@
     "name": "کۆللارە فڕین",
     "category": "ڕۆمان",
     "url": "https://pub-40767ab13c6e4fc6bf6a8832d3a3fd56.r2.dev/%DA%A9%DB%86%D9%84%D8%A7%D8%B1%DB%95%20%D9%81%DA%95%DB%8C%D9%86%20%D8%AE%D8%A7%D9%84%DB%8C%D8%AF%20%D8%AD%D9%88%D8%B3%DB%8C%D9%86%DB%8C%20-compressed.pdf"
-      }   
+      }, 
+      {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/yalda.png",
+    "author": "موئەدەب پوور",
+    "link": "https://drive.google.com/file/d/1aMiuGiK3HeDTcQ-oV8YoxF440m2TVM67/view?usp=drivesdk",
+    "name": "یەڵدا",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%DB%8C%DB%95%DA%B5%D8%AF%D8%A7%20%D9%85%D9%88%D8%A6%DB%95%D8%AF%DB%95%D8%A8%D9%BE%D9%88%D9%88%D8%B1_compressed.pdf"
+      }    
 ]

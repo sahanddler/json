@@ -64,7 +64,7 @@
 {
   "id": "channel8",
   "name": "Channel 8",
-  "streamUrl": "https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive.channel8.com%2FChannel8-Kurdish%2Ftracks-v4a1%2Fmono.m3u8&ext=.m3u8",
+  "streamUrl": "https://live.channel8.com/Channel8-Kurdish/index.m3u8",
   "descriptionKu": "کەناڵ ٨",
   "descriptionAr": "القناة 8",
   "descriptionEn": "Channel 8",

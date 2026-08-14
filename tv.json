@@ -453,6 +453,18 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/euro.png"
 },
+    {
+  "id": "kanal21",
+  "name": "Kanal 21",
+  "streamUrl": "http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8",
+  "descriptionKu": "کەناڵ 21",
+  "descriptionAr": "قناة 21",
+  "descriptionEn": "Kanal 21",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kanal21.png"
+},
 {
   "id": "gkplus",
   "name": "GK plus",

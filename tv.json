@@ -345,6 +345,18 @@
   "views": 27000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
 }, 
+            {
+  "id": "Azadi",
+  "name": "Azadi",
+  "streamUrl": "http://xlion.net:8080/live/3066352466250691/3161029985970656/429677.ts",
+  "descriptionKu": "کەناڵی ئازادی",
+  "descriptionAr": "قناة ازادي",
+  "descriptionEn": "Azadi",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/azadi.png"
+}, 
         {
   "id": "speda drama",
   "name": "Speda Drama",

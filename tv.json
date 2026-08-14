@@ -345,6 +345,18 @@
   "views": 27000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
 }, 
+        {
+  "id": "speda drama",
+  "name": "Speda Drama",
+  "streamUrl": "http://167.233.166.131:6060/upload/images/spedadrama.m3u8",
+  "descriptionKu": "کەناڵی سپێدە دراما",
+  "descriptionAr": "قناة سبيدة دراما",
+  "descriptionEn": "Speda Drama",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spedadrama.png"
+}, 
    {
   "id": "nrt2",
   "name": "nrt2",
@@ -360,7 +372,7 @@
     {
   "id": "kurdmax",
   "name" : "Kurdmax TV",
-  "streamUrl" : "https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL3Byby5wcmluY2U0ay5jb206NzM1NS9saXZlL1BSMjEzMDU0NzI2ODEwLzM4MjY2MDc5MjcyMDIvMjIxNjM0Lm0zdTg&ext=.m3u8", 
+  "streamUrl" : "http://167.233.166.131:8080/kurdmax-proxy/app/kurdmax-sorani1/ts:playlist.m3u8", 
   "descriptionKu": "کەناڵی کوردماکس سۆرانی",
   "descriptionAr": "كوردماكس سوراني",
   "descriptionEn": "Kurdmax Sorani TV",
@@ -384,7 +396,7 @@
     {
   "id": "kurdmaxshow",
   "name" : "Kurdmax Show",
-  "streamUrl" : "https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive.kurdtips.uno%2Fproxy.php%3Furl%3Dhttp%253A%252F%252F123tv.pro%252Flive%252FaSKpxnSj%252FhhewYcb%252F24770.m3u8%26ext%3D.m3u8&ext=.m3u8" , 
+  "streamUrl" : "http://167.233.166.131:8080/kurdmax-proxy/app/kurdmax-sorani1/ts:playlist.m3u8" , 
   "descriptionKu": "کەناڵی کوردماکس شۆو",
   "descriptionAr": "كوردماكس سوراني",
   "descriptionEn": "Kurdmax Show" ,

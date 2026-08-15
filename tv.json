@@ -408,7 +408,7 @@
     {
   "id": "kurdmaxshow",
   "name" : "Kurdmax Show",
-  "streamUrl" : "http://167.233.166.131:8080/kurdmax-proxy/app/kurdmax-sorani1/ts:playlist.m3u8" , 
+  "streamUrl" : "https://live.kurdtips.uno/proxy.php?stream=aHR0cDovLzEyM3R2LnByby9saXZlL2FTS3B4blNqL2hoZXdZY2IvMjQ3NzAubTN1OA&ext=.m3u8" , 
   "descriptionKu": "کەناڵی کوردماکس شۆو",
   "descriptionAr": "كوردماكس سوراني",
   "descriptionEn": "Kurdmax Show" ,

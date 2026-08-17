@@ -123,18 +123,7 @@
   "views": 18000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kirkuk.png"
 },
-    {
-  "id": "speda",
-  "name": "Speda TV",
-  "streamUrl": "http://89.37.117.227:8080/live/18885076681336/14648237268240/601416.ts?token=Hycdfb.yUXccUf.X.fzbXz.yHXXazdHaf.X.y.IQ.ts.9e2b48ddc7ddf03fb3dbde5d6e618ee71e29728c7893bcdd358991a812ebb76d...bWF4LXByby52aXA=",
-  "descriptionKu": "کەناڵی سپێدە",
-  "descriptionAr": "قناة سبيدة",
-  "descriptionEn": "Speda TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/speda.png"
-}, 
+
 {
   "id": "payam",
   "name": "Payam TV",
@@ -369,18 +358,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spedadrama.png"
 }, 
-   {
-  "id": "nrt2",
-  "name": "nrt2",
-  "streamUrl": "https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL2xpbmUuMTI3LWNsb3VkZnJvbnQueHl6L2xpdmUvYWViNGRmMjUyMi9kY2VlMzliNTUxLzMyNDU3OS5tM3U4&ext=.m3u8",
-  "descriptionKu": "کەناڵی ئێن ئاڕتی ٢",
-  "descriptionAr": "قناة إن آر تي 2",
-  "descriptionEn": "NRT 2",
-  "category": "all",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt2.png"
-},
+   
     {
   "id": "kurdmax",
   "name" : "Kurdmax TV",

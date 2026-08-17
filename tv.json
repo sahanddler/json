@@ -126,7 +126,7 @@
     {
   "id": "speda",
   "name": "Speda TV", 
-  "streamUrl", "http://185.243.7.47/live/play/WTBGd00xaHZURlF5YVdsYWN6ZDVkbWxhSzBwb09EaExWbHB5Wnk5aFFqSmhZMk5zWkZCT01uZ3dSVDA9/324587", 
+  "streamUrl" : "http://185.243.7.47/live/play/WTBGd00xaHZURlF5YVdsYWN6ZDVkbWxhSzBwb09EaExWbHB5Wnk5aFFqSmhZMk5zWkZCT01uZ3dSVDA9/324587", 
   "descriptionKu": "کەناڵی سپێدە",
   "descriptionAr": "قناة سبيدة",
   "descriptionEn": "Speda TV",

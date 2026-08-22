@@ -283,16 +283,16 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/astera.png"
 },
 {
-  "id": "kurdish SPORT",
-  "name": "Kurdish SPORT",
-  "streamUrl": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/EY4kej-qHspAl9VF-wUuFXx4_tk5574cG8CZmTBJoSm5I_asThW1UnAo11o6TpoaVbjylO6xPd2Qu1OyVFVRxw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live",
-  "descriptionKu": "کوردش سپۆڕت",
-  "descriptionAr": "كردش سبورت",
-  "descriptionEn": "Kurdish Sport",
+  "id": "bien SPORT",
+  "name": "Bien SPORT",
+  "streamUrl": "https://yara-proxy.maroduhoki6.workers.dev/?url=https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+  "descriptionKu": "بین سپۆڕت",
+  "descriptionAr": "بین سبورت",
+  "descriptionEn": "bien Sport",
   "category": "sport",
   "language": "sorani",
   "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/.png"
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/bien.png"
 },
 
 

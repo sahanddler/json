@@ -1,4 +1,13 @@
 [
+   {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/darunrash.png",
+    "author": "د.محمد عبدالعال",
+    "link": "https://drive.google.com/file/d/19Qv8rOndOnimTS5tNyzXorQsurOa9bDA/view?usp=sharing",
+    "name": "دەروونناسیی رەش",
+    "category": "دەرونناسی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/_%E2%81%A8%D8%AF%DB%95%D8%B1%D9%88%D9%88%D9%86%D9%86%D8%A7%D8%B3%DB%8C%20%DA%95%DB%95%D8%B4%E2%81%A9.PDF"
+  },
   {
     "aboutpdf": "کورتەی کتێب​لە قووڵایی سەرمای زستان و لە ناو تەمومژی بێدەنگی شاری داگیرساودا، کاتێک بارگرانیی ئازارەکان هیوا لە ناخی مرۆڤدا دەکوژێننەوە، هەستکردن بە تەنیایی دەبێتە تاقیکردنەوەیەکی سەخت.​پاش تاریکی» ڕوانینێکی قووڵ و ژێنەرانەیە بۆ ئەو ساتانەی ژیان کە تێیاندا مرۆڤ لەسەر لێواری بێهیوایی دەوەستێت، بەڵام لە هەمان کاتدا پەیامێکی گەشە بۆ دۆزینەوەی ئەو ڕووناکییەی لە دوای سێبەرە قورسەکانەوە چاوەڕێمان دەکات. چیرۆکی گەڕانەوەیە بۆ ناو ئومێد، خەباتکردن لەگەڵ ئازارە ناوەکییەکان، و سەلماندنی ئەوەی کە لە دوای درێژترین و تاریکترین شەوەکانیش، بەربەیانێک بە ڕێوەیە.",
     "image": "https://github.com/sahanddler/pdf/raw/main/pasht.png",
@@ -350,32 +359,5 @@
     "name": "تاوان و سزا بەرگی دووەم",
     "category": "ڕۆمان",
     "url": "https://github.com/sahanddler/tweshwy-safar/raw/main/576822.PDF"
-  },
-            {
-    "aboutpdf": "جەلالەددین مەولانای ڕۆمی ناسراو بە مەولانای ڕۆمی",
-    "image": "https://github.com/sahanddler/pdf/raw/main/masnawe.png",
-    "author": "وەرگێڕانی عەبدولسەلام مودەڕێسی (خانی)",
-    "link": "https://drive.google.com/file/d/1MdE5-XqmOQ86jbyVzSkRwJ5KyRyLCOuw/view?usp=drivesdk",
-    "name": "مەسنەوی مەعنەوی ١",
-    "category": "ئایینی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/152049.PDF" 
-            },
-       {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor1.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1r69sq6D9dZ7GosB-CyzhpZ86AJ5Y_f9p/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-وتەکان",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/1-%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C%20%D9%86%D9%88%D9%88%D8%B1-%D9%88%D8%AA%D9%87%E2%80%8C%D9%83%D8%A7%D9%86.pdf"
-  },
-    {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/noor2.png",
-    "author": "سەعیدی نوورسی",
-    "link": "https://drive.google.com/file/d/1Z2pFh2cjy6taENyuy96uzCNeZbuyzOvz/view?usp=drivesdk",
-    "name": "پەیامەکانی نوور-مەکتووبات",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/warzshe/raw/main/2-%D9%BE%D9%87%E2%80%8C%DB%8C%D8%A7%D9%85%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%DB%8C%20%D9%86%D9%88%D9%88%D8%B1-%D9%85%D9%87%E2%80%8C%D9%83%D8%AA%D9%88%D9%88%D8%A8%D8%A7%D8%AA.pdf"
-    }
+  }
 ] 

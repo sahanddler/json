@@ -294,10 +294,10 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
 },
-{
+    {
   "id": "bien SPORT 2",
   "name": "Bien SPORT 2",
-  "streamUrl": "https://halowapp.store/stream1/watch.php?id=314&exp=1787501304&token=701b3de86c06a2c738e74c91118e4c0fa78a14577bfe4bd81760e6e4a9a4da99",
+  "streamUrl": "https://yara-proxy.maroduhoki6.workers.dev/?url=https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "descriptionKu": "بین سپۆڕت 2",
   "descriptionAr": "بین سبورت 2",
   "descriptionEn": "bien Sport 2",
@@ -306,7 +306,30 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
 },
-
+{
+  "id": "bien SPORT 3",
+  "name": "Bien SPORT 3",
+  "streamUrl": "https://halowapp.store/stream1/watch.php?id=314&exp=1787501304&token=701b3de86c06a2c738e74c91118e4c0fa78a14577bfe4bd81760e6e4a9a4da99",
+  "descriptionKu": "بین سپۆڕت 3",
+  "descriptionAr": "بین سبورت 3",
+  "descriptionEn": "bien Sport 3",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
+},
+{
+  "id": "bien SPORT 4",
+  "name": "Bien SPORT 4",
+  "streamUrl": "https://halowapp.store/stream1/watch.php?id=315&exp=1787501304&token=058ea3e59e8aa0a25e1aadaa02d084024e1e3eacb212a4b54ab46a206ad595c8",
+  "descriptionKu": "بین سپۆڕت 4",
+  "descriptionAr": "بین سبورت 4",
+  "descriptionEn": "bien Sport 4",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
+},
     {
   "id": "Alwan Sport 1",
   "name": "Alwan Sport 1",

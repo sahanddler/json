@@ -1332,5 +1332,14 @@
     "name": "یەڵدا",
     "category": "ڕۆمان",
     "url": "https://github.com/sahanddler/PDF/raw/main/%DB%8C%DB%95%DA%B5%D8%AF%D8%A7%20%D9%85%D9%88%D8%A6%DB%95%D8%AF%DB%95%D8%A8%D9%BE%D9%88%D9%88%D8%B1_compressed.pdf"
-      }    
+      }, 
+         {
+    "aboutpdf": "ئەم ڕۆمانە لە ئەنجامی گەشتێکی ڕاستەوخۆ و درێژخایەنی نووسەر بۆ ڕۆژئاوای کوردستان نووسراوە.ڕۆمانەکە بەشێکی تایبەتی باس لە ژیانی نووسەر دەکات  لەبەرەکانی پێشەوەی جەنگ لە ڕۆژئاوای کوردستان. بەشی دووەمی ڕۆمانەکە  باس لە ژیانی کچە شەڕڤانێکی ڕۆژئاوای کوردستان دەکات بەناوی شلێر",
+    "image": "https://github.com/sahanddler/pdf/raw/main/beran.png",
+    "author": "ئەحمەد کامەران",
+    "link": "https://drive.google.com/file/d/1yhWJnxSvs3oFk42QaewLIP8GMXWoaA-K/view?usp=drivesdk",
+    "name": "بیرانی شەڕڤانێک",
+    "category": "ڕۆمان",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%20%D8%B4%DB%95%DA%95%DA%A4%D8%A7%D9%86%DB%8E%DA%A9.pdf"
+      }
 ]

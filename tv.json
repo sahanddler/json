@@ -647,16 +647,16 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/soran.png"
 },
     {
-  "id": "kurdtv",
-  "name": "Kurd tv",
+  "id": "Tvnews",
+  "name": "TV News",
   "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8",
-  "descriptionKu": "کەناڵی کورد",
-  "descriptionAr": "قناة الأكراد",
-  "descriptionEn": "Kurd TV",
+  "descriptionKu": "کەناڵی نیوس",
+  "descriptionAr": "قناة نیوز",
+  "descriptionEn": "TV News",
   "category": "all",
   "language": "sorani",
   "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdtv.png"
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/tvnews.png"
 },
 {
   "id": "dunya",

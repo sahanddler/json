@@ -1,12 +1,13 @@
 [
   {
-  "enabled": false,
-  "title": "وەشانی نوێ",
-  "message": "ئێستا وەشانی نوێی ئەپەکە بەردەستە", 
-  "buttonText": "ئەپدەیت کردن بۆ مۆبایل",
-  "link": "https://play.google.com/store/apps/details?id=com.kurdishtv",
-  "buttonText1": "ئەپدەیت کردن بۆ تەلەفیزیۆن",
-  "link1": "https://pub-40767ab13c6e4fc6bf6a8832d3a3fd56.r2.dev/app-release.apk",
-  "minHoursBetween": 24
+  "enabled": true,
+  "title": "گۆڕینەوەی باڵانس و دراو",
+  "message" : "ئێستا دەتوانن لە رێگەی کەی ئاڕ دی باڵانس باڵانسەکانتان بگۆڕنەوە بە کەمترین کرێی خزمەتگوزاری لە نێوان کۆڕەک،ئاسیاسێڵ،ئاسیاپەی،فاستپەی،ئێف ئای بی",
+  "buttonText": "لابردن",
+  "link": "",
+  "buttonText1": "بینین",
+  "link1": "https://www.krdbalance.online",
+  "minHoursBetween": 1
 }
+
 ] 

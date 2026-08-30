@@ -1331,7 +1331,7 @@
 {
   "id": "mbc 1",
   "name": "MBC 1",
-  "streamUrl": "http://154.58.202.18:8080/mbc1/tracks-v1a1/mono.m3u8",
+  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/4725.m3u8",
   "descriptionKu": "MBC 1",
   "descriptionAr": "إم بي سي 1",
   "descriptionEn": "MBC 1",
@@ -1343,7 +1343,7 @@
 {
   "id": "mbc 2",
   "name": "MBC 2",
-  "streamUrl": "http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8",
+  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/5591.m3u8",
   "descriptionKu": "MBC 2",
   "descriptionAr": "إم بي سي 2",
   "descriptionEn": "MBC 2",
@@ -1379,7 +1379,7 @@
 {
   "id": "mbc_iraq",
   "name": "MBC Iraq",
-  "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/4726.m3u8",
   "descriptionKu": "MBC Iraq - عێراق",
   "descriptionAr": "إم بي سي العراق",
   "descriptionEn": "MBC Iraq",

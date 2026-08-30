@@ -404,17 +404,7 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline.png"
 },
     {
-  "id": "newline1",
-  "name": "Newline 1",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/112.m3u8",
-  "descriptionKu": "کەناڵی نیوڵاین 1 ",
-  "descriptionAr":"قناة نیولاین",
-  "descriptionEn": "Newline 1",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline.png"
-},
+
     {
   "id": "newline2",
   "name": "Newline 2",
@@ -425,7 +415,7 @@
   "category": "all",
   "language": "sorani",
   "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline.png"
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline2.png"
 },
         {
   "id": "zed",
@@ -437,7 +427,7 @@
   "category": "all",
   "language": "sorani",
   "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline.png"
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zed.png"
 },
 
     {

@@ -477,6 +477,18 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/niga.png"
 },
     {
+  "id": "niga",
+  "name": "Niga Family",
+  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/110.m3u8?token=GkRZU0dfQAsUW1cABwsHAVsPB1IOXVIFUgkBCQ1UAVMEAlBQAwAEAFRBSURETRRSA1VqWVwbCwIFCR4bQUUARz4PVRAOFVADAEFJRENQC1JAAgUcGklYVxYDEA8AAVcNQ0oTV0xDB0NYAgk5U1wQXgFdFwpWTF1fGBtdV2tSAFgACFUQDhVSExpBDBVHG1xZF1RZHBpbWEdGWEZcFgxHBFBTCRAYFQFeQw0RFE4bXBUraRccGlxJR1FXQVBbWEcPQwsCRwwVThNfEDoUUkoSRQdZWFVKGwsRBBseG1lXHWoCCV9cUVQWWFkNFkQNG1cVThpYX1ZQRVxGZkJQUBRfF1VSAgIWSg==",
+  "descriptionKu": "کەناڵی نیگا خێزانی",
+  "descriptionAr":"قناة نیکا",
+  "descriptionEn": "Niga Movies",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/niga.png"
+},
+    {
   "id": "eurokurd",
   "name": "Euro Kurd tv",
   "streamUrl": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",

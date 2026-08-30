@@ -236,7 +236,7 @@
     {
   "id": "NRT Sport",
   "name": "NRT SPORT",
-  "streamUrl": "http://109.71.252.138/Nrt8ksitw/index.m3u8",
+  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/167.m3u8",
   "descriptionKu": "ئێن ئاڕتی سپۆڕت",
   "descriptionAr": "إن آر تي سبورت",
   "descriptionEn": "NRT Sport",
@@ -245,23 +245,11 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
 },   
-    {
-  "id": "NRT Sportt",
-  "name": "NRT SPORT V2",
-  "streamUrl": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qK3_hUXduFJUYbC65LDxxGWiXB3yPbej5s1_OfbhH8oauCyJSaGVGNUlbrVMkAoI-nd68fe_nop9apT31x-nIA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live",
-  "descriptionKu": "ئێن ئاڕتی سپۆڕت",
-  "descriptionAr": "إن آر تي سبورت",
-  "descriptionEn": "NRT Sport",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrtsport.png"
-},
          
 {
   "id": "Ava Sport",
   "name": "Ava Sport",
-  "streamUrl": "http://217.60.15.177:8080/live/3066352466250691/3161029985970656/358221.m3u8?token=yyUdXda.UHbff.X.fUaXX.yczHbdcU.X.y.IQ.m3u8.a2c3b692e4a46650f3e9f56aa779fbcec3f7a4ba6caf27b8b6144ec4e7ef51ef.206206.TzMtVGVsZWNvbQ==.eGxpb24ubmV0",
+  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/4690.m3u8",
   "descriptionKu": "ئاڤا سپۆڕت",
   "descriptionAr": "آفا سبورت",
   "descriptionEn": "Ava Sport",

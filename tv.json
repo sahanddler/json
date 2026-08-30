@@ -197,18 +197,7 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/WAAR.png"
 },
 
-    {
-  "id": "duhoktv",
-  "name": "Duhok TV",
-  "streamUrl": "http://fastrunner.live:8080/live/WcMp8SiRyB/FotkPhvA4Y/124446.ts",
-  "descriptionKu": "کەناڵی دهۆک تیڤی",
-  "descriptionAr": "دهوك تيفي",
-  "descriptionEn": "Duhok TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/dhok.png"
-},
+
         {
   "id": "komaltv",
   "name": "Komal TV",
@@ -343,18 +332,7 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
 },
     
-    {
-  "id": "LD SPORT",
-  "name": "LD SPORT",
-  "streamUrl": "https://vsd123.okcdn.ru/dash/stream_18026345269818/stream.manifest/sig/eaknemY37cM/expires/1784574377744/srcIp/185.24.61.128/urls/178.237.23.63/clientType/0/srcAg/CHROME_ANDROID/mid/15792313081402/frag-high-14091248.dash",
-  "descriptionKu": "ئێڵ دی سپۆڕت",
-  "descriptionAr": "إل دي سبورت",
-  "descriptionEn": "LD Sport",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ld.png"
-},
+
 {
   "id": "Gewher SPORT",
   "name": "Gewher SPORT",

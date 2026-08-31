@@ -736,6 +736,30 @@
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/hormzyar.png"
 },
     {
+  "id": "infinity",
+  "name": "Infinity tv",
+  "streamUrl": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
+  "descriptionKu": "کەناڵی ئیفینیتی",
+  "descriptionAr": "قناة infinity",
+  "descriptionEn": "Infinity TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 19000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/infinity.png"
+},
+    {
+  "id": "soz",
+  "name": "Soz tv",
+  "streamUrl": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
+  "descriptionKu": "کەناڵی سۆز",
+  "descriptionAr": "قناة سوز",
+  "descriptionEn": "Soz TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 19000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/soz.png"
+},
+    {
   "id": "mahabad tv",
   "name": "Mahabad tv",
   "streamUrl": "https://live-aburayhan1108.telewebion.ir/ek/mahabad/live/1080p/index.m3u8",
@@ -1073,6 +1097,18 @@
   "language": "sorani",
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt3.png"
+},
+     {
+  "id": "kidco",
+  "name": "Kidco",
+  "streamUrl": "http://avrstream.com:1935/live/kidcohd/playlist.m3u8",
+  "descriptionKu": "کەناڵی کیدکۆ",
+  "descriptionAr": "کیدکو",
+  "descriptionEn": "Kidco",
+  "category": "kids",
+  "language": "sorani",
+  "views": 19000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kidco.png"
 },
  {
   "id": "znar",

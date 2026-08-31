@@ -507,7 +507,7 @@
 },
     {
   "id": "eurokurd",
-  "name": "Euro Kurd tv",
+  "name": "Euro kurd tv",
   "streamUrl": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
   "descriptionKu": "کەناڵی euro kurd",
   "descriptionAr": "يورو كرد",
@@ -516,6 +516,18 @@
   "language": "sorani",
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/euro.png"
+},
+        {
+  "id": "kelga",
+  "name": "Kelga tv",
+  "streamUrl": "https://lbgo.bozztv.com/ssh101/live/Kelga/playlist.m3u8",
+  "descriptionKu": "قەناتی کێڵگە",
+  "descriptionAr": "قناة kelga",
+  "descriptionEn": "Kelga tv",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kelga.png"
 },
     {
   "id": "kanal21",

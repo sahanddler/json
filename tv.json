@@ -690,7 +690,7 @@
     {
   "id": "Tvnews",
   "name": "TV News",
-  "streamUrl": "https://ais-pre-dcdxo75di2bfth4cokp6az-167083655366.europe-west2.run.app/api/stream-proxy?url=http%3A%2F%2Fcdn10.live-tv.od.ua%3A8081%2Fleonovtv%2Ftest1%2Fchunks.m3u8%3Fnimblesessionid%3D11969442",
+  "streamUrl": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
   "descriptionKu": "کەناڵی نیوس",
   "descriptionAr": "قناة نیوز",
   "descriptionEn": "TV News",

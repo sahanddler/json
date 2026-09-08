@@ -331,8 +331,30 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
 },
-    
-
+      {
+  "id": "Alwan Sport 2",
+  "name": "Alwan Sport 2",
+  "streamUrl": "https://vsd123.okcdn.ru/hls/21792456313509.m3u8/sig/1XbyOuFXArk/expires/1788984906558/srcIp/185.24.61.3/urls/95.163.35.97/clientType/0/srcAg/CHROME/mid/17696528670373/21792456313509_high/index.m3u8",
+  "descriptionKu": "ئەڵوەن سپۆڕت2 ",
+  "descriptionAr": "ألوان سبورت2 ",
+  "descriptionEn": "Alwan Sport 2",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
+},  
+    {
+  "id": "Alwan Sport 3",
+  "name": "Alwan Sport 3",
+  "streamUrl": "https://vsd115.okcdn.ru/hls/19822957627933.m3u8/sig/aWDVwWE3fP4/expires/1788985012845/srcIp/185.24.61.3/urls/185.180.203.65/clientType/0/srcAg/CHROME/mid/17667317833245/19822957627933_high/index.m3u8",
+  "descriptionKu": "ئەڵوەن سپۆڕت3",
+  "descriptionAr": "ألوان سبورت3",
+  "descriptionEn": "Alwan Sport 3",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
+},
 {
   "id": "Gewher SPORT",
   "name": "Gewher SPORT",

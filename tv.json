@@ -225,7 +225,7 @@
     {
   "id": "NRT Sport",
   "name": "NRT SPORT",
-  "streamUrl": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/F0ULknr2KlZ6GaAmqD6luuRP5g1HGn0u96BZKXZz72AocuHI4fqJnPV2ZQmzSiB24a7y6h7yCVfAi4HZa6_aIA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live",
+  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/167.m3u8?token=GkRZU0dfQAsUAFwAUw9XVVIPAFUJXQUADV8AWw0BUwFQBwVTBAFaVwJBSURETRRSA1VqWVwbCwICDh4bQUUARz4PVRAOFVADAEFJRENQC1JAAgUcGklYVxYDEA0EBFMCQ0oTV0xDB0NYAgk5U1wQXgFdFwpWTF1fGBtdV2tSAFgACFUQDhVSExpBDBVHG1xZF1RZHBpbWEdGWEZcFgxHBFZRBRAYFQFeQw0RFE4bXBUraRccGlxJR1FXQVBbWEcPQwsCRwwVThNfEDoUUkoSRQdZWFVKGwsRBBseG1lXHWoCCV9cUVQWWFkNFkQNG1cVThpYX1ZQRVxGZkJQUBRfF1VeBAsWSg==",
   "descriptionKu": "ئێن ئاڕتی سپۆڕت",
   "descriptionAr": "إن آر تي سبورت",
   "descriptionEn": "NRT Sport",

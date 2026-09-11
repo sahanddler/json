@@ -628,7 +628,7 @@
     {
   "id": "zhintv",
   "name": "Zhin tv",
-  "streamUrl": "https://183.bozztv.com/giatv/giatv-zhinfilm/zhinfilm/playlist.m3u8",
+  "streamUrl": "https://183.bozztv.com/giatv/giatv-zhinfilm/zhinfilm/chunks.m3u8",
   "descriptionKu": "کەناڵی ژین",
   "descriptionAr": "قناة زين",
   "descriptionEn": "Zhin TV",
@@ -736,7 +736,7 @@
 {
   "id": "spi",
   "name": "Spi tv",
-  "streamUrl": "https://183.bozztv.com/giatv/giatv-spitv_HD/spitv_HD/playlist.m3u8",
+  "streamUrl": "https://183.bozztv.com/giatv/giatv-spihd_2022/spihd_2022/chunks.m3u8",
   "descriptionKu": "کەناڵی سپی", 
   "descriptionAr": "قناة سبي",
   "descriptionEn": "Spi TV",

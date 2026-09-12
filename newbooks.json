@@ -1,4 +1,13 @@
 [
+            {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/shaman.png",
+    "author": "جەنگیز چاندار",
+    "link": "https://drive.google.com/file/d/1LQHHlaf0dwpH8sbZvADJkz_hiczVu6Vo/view?usp=drivesdk",
+    "name": "شەمەندۆفێری میزۆپۆتامیا",
+    "category": "مێژوویی",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%D8%B4%DB%95%D9%85%DB%95%D9%86%D8%AF%DB%95%D9%81%DB%95%D8%B1%DB%8C_%D9%85%DB%8C%D8%B2%DB%86%D9%BE%DB%86%D8%AA%D8%A7%D9%85%DB%8C%D8%A7_%D8%AC%DB%95%D9%86%DA%AF%DB%8C%D8%B2_%DA%86%D8%A7%D9%86%D8%AF%D8%A7%D8%B1.pdf" 
+         },
               {
     "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/pdf/raw/main/tareke.png",
@@ -359,24 +368,5 @@
     "name": "مەزرای ئاژەڵان",
     "category": "ڕۆمان",
     "url": "https://github.com/sahanddler/PDF/raw/main/%D9%85%DB%95%D8%B2%D8%B1%D8%A7%DB%8C%20%D8%A6%D8%A7%DA%98%DB%95%DA%B5%D8%A7%D9%86.pdf"
-   }, 
-   {
-    "aboutpdf": "پەخشانە هۆنراوە بە شێوەی (  مەنەلۆگ  / دەروون ناسی / دراما )",
-    "image": "https://github.com/sahanddler/pdf/raw/main/jaza.png",
-    "author": "١٩٨٧",
-    "link": "https://drive.google.com/file/d/11-FrIP2NQsMnPHr0GDwB5z9QswcI1tdx/view?usp=sharing",
-    "name": "جەزای چاو",
-    "category": "هونەری",
-    "url": "https://github.com/sahanddler/PDF/raw/main/2ad4424b-ab62-41a7-8bbd-6ac7c9518c42.pdf"
-  },
-
-            {
-    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
-    "image": "https://github.com/sahanddler/pdf/raw/main/wafaye.png",
-    "author": "میرزا عبدالرحیمی سابڵاغی",
-    "link": "https://drive.google.com/file/d/1oSs-Wrmx4Ns8wc30e5iQDcxwoKff3cQO/view?usp=drivesdk",
-    "name": "دیوانی وەفایی",
-    "category": "ئەدەبی",
-    "url": "https://github.com/sahanddler/PDF/raw/main/68149.PDF"
-            }
+      }
 ] 

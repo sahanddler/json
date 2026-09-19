@@ -225,7 +225,7 @@
     {
   "id": "NRT Sport",
   "name": "NRT SPORT",
-  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/167.m3u8?token=GkRZU0dfQAsUAFwAUw9XVVIPAFUJXQUADV8AWw0BUwFQBwVTBAFaVwJBSURETRRSA1VqWVwbCwICDh4bQUUARz4PVRAOFVADAEFJRENQC1JAAgUcGklYVxYDEA0EBFMCQ0oTV0xDB0NYAgk5U1wQXgFdFwpWTF1fGBtdV2tSAFgACFUQDhVSExpBDBVHG1xZF1RZHBpbWEdGWEZcFgxHBFZRBRAYFQFeQw0RFE4bXBUraRccGlxJR1FXQVBbWEcPQwsCRwwVThNfEDoUUkoSRQdZWFVKGwsRBBseG1lXHWoCCV9cUVQWWFkNFkQNG1cVThpYX1ZQRVxGZkJQUBRfF1VeBAsWSg==",
+  "streamUrl": "https://kurdtv.org/api/public/hls?u=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FkA3e91YvQqDuRhKY7wFL_POIs1JFWAmAq78A2B8s2M-6m9AybVnm8u0BOnRGvAR4Gz-7sPXzSV0_nLBU335odA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4%2Fdynamic_delta.m3u8%3Ftype%3Dlive&_HLS_skip=YES",
   "descriptionKu": "ئێن ئاڕتی سپۆڕت",
   "descriptionAr": "إن آر تي سبورت",
   "descriptionEn": "NRT Sport",

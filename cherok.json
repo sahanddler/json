@@ -709,5 +709,14 @@
     "name":  "نامەیەک لە زیندانەوە",
     "category": "چیرۆک",
     "url": "https://github.com/sahanddler/PDF/raw/main/%D9%86%D8%A7%D9%85%DB%95%DB%8C%DB%95%DA%A9%20%D9%84%DB%95%20%D8%B2%DB%8C%D9%86%D8%AF%D8%A7%D9%86%DB%95%D9%88%DB%95.pdf"
-      }    
+      }, 
+                {
+    "aboutpdf": "ئەم کتێبە هیچ کورتەیەکی بەردەست نییە",
+    "image": "https://github.com/sahanddler/pdf/raw/main/parzhen.png",
+    "author": "پەرژین ئازاد",
+    "link": "https://drive.google.com/file/d/1vwFgl1CACuBGorkSIl5yv7mzTnrhj69z/view?usp=drivesdk",
+    "name":  "چیرۆکی پەرژین",
+    "category": "چیرۆک",
+    "url": "https://github.com/sahanddler/PDF/raw/main/%DA%86%DB%8C%D8%B1%DB%86%DA%A9%DB%8C%20%D9%BE%DB%95%D8%B1%DA%98%DB%8C%D9%86_20260920_213917_0000.pdf"
+      }
 ]

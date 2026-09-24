@@ -394,118 +394,9 @@
   "views": 27000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aliraqis.png"
 }, 
-            {
-  "id": "Azadi",
-  "name": "Azadi",
-  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/4694.m3u8?token=GkRZU0dfQAsUBlJSBw5TU1oLBQgNDAIHBlhWDQMABgZQBVBWBgIBAlNBSURETRRSA1VqWVwbCwcCAAYVFkMWUBM5WFYWDUADBFVHShVND1oHGg8AFBtBWlAbCBsGA1QMWUQdEFFPFlREDQQKaF0DQQtbUBICV0RfWBUQVlppAVAMB19WFg1AARRPRw9ESUQNDE1ZXBQbU1pAS1NNURRfF1BTAQIWG0BSWRYLEkVARA1AcWQSFBtUS0BcXEpdWQsXW0RcAUEPQB0UChY5RVwVQxBdVF1dSxMJFgkQFRZbBE0+BV5cWlIBRV8MCxUVA0QGQBQXXVdXWEdbS21JXVJHD0NTBwEHFR8=",
-  "descriptionKu": "کەناڵی ئازادی",
-  "descriptionAr": "قناة ازادي",
-  "descriptionEn": "Azadi",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/azadi.png"
-}, 
-    {
-  "id": "newline1",
-  "name": "Newline 1",
-  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/112.m3u8?token=GkRZU0dfQAsUAV1QVQFfB1sPDFIMAQJSDFoKAAcCXAVSXgQBDVUABwNBSURETRRSA1VqWVwbCwIFCx4bQUUARz4PVRAOFVADAEFJRENQC1JAAgUcGklYVxYDEAoFD1EMQ0oTV0xDB0NYAgk5U1wQXgFdFwpWTF1fGBtdV2tSAFgACFUQDhVSExpBDBVHG1xZF1RZHBpbWEdGWEZcFgxHBFNRBhAYFQFeQw0RFE4bXBUraRccGlxJR1FXQVBbWEcPQwsCRwwVThNfEDoUUkoSRQdZWFVKGwsRBBseG1lXHWoCCV9cUVQWWFkNFkQNG1cVThpYX1ZQRVxGZkJQUBRfF1VSBAQWSg==",
-  "descriptionKu": "کەناڵی نیوڵاین 1 ",
-  "descriptionAr":"قناة نیولاین",
-  "descriptionEn": "Newline",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline.png"
-},
+        
     
 
-    {
-  "id": "newline2",
-  "name": "Newline 2",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/113.m3u8",
-  "descriptionKu": "2 کەناڵی نیوڵاین" ,
-  "descriptionAr":"قناة نیولاین",
-  "descriptionEn": "Newline 2",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/newline2.png"
-},
-        {
-  "id": "zed",
-  "name": "Zed ",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/89.m3u8",
-  "descriptionKu": "کەناڵی زێد" ,
-  "descriptionAr":"قناة زید",
-  "descriptionEn": "Zed tv",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zed.png"
-},
-
-    {
-  "id": "nrt2",
-  "name": "nrt2",
-  "streamUrl" : "http://185.95.184.33:25461/live/120541/20364/152.m3u8",
-  "descriptionKu": "کەناڵی ئێن ئاڕتی ٢",
-  "descriptionAr": "قناة إن آر تي 2",
-  "descriptionEn": "NRT 2",
-  "category": "all",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt2.png"
-},
-        {
-  "id": "speda drama",
-  "name": "Speda Drama",
-  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/201.m3u8?token=GkRZU0dfQAsUWlUCBAsEAVtZAgFaWFUFUV8LXwxVUAEDVAhWB1JRAlRBSURETRRSA1VqWVwbCwEECB4bQUUARz4PVRAOFVADAEFJRENQC1JAAgUcGklYVxYDEA0EAVQBQ0oTV0xDB0NYAgk5U1wQXgFdFwpWTF1fGBtdV2tSAFgACFUQDhVSExpBDBVHG1xZF1RZHBpbWEdGWEZcFgxHBFNWAhAYFQFeQw0RFE4bXBUraRccGlxJR1FXQVBbWEcPQwsCRwwVThNfEDoUUkoSRQdZWFVKGwsRBBseG1lXHWoCCV9cUVQWWFkNFkQNG1cVThpYX1ZQRVxGZkJQUBRfF1RXCAcWSg==",
-  "descriptionKu": "کەناڵی سپێدە دراما",
-  "descriptionAr": "قناة سبيدة دراما",
-  "descriptionEn": "Speda Drama",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/spedadrama.png"
-}, 
-   
-    {
-  "id": "kurdmax",
-  "name" : "Kurdmax TV",
-  "streamUrl" : "http://167.233.166.131:8080/kurdmax-proxy/app/kurdmax-sorani1/ts:playlist.m3u8", 
-  "descriptionKu": "کەناڵی کوردماکس سۆرانی",
-  "descriptionAr": "كوردماكس سوراني",
-  "descriptionEn": "Kurdmax Sorani TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmax.png"
-}, 
-{
-  "id": "kurdmax kurmancî",
-  "name" : "Kurdmax TV",
-    "streamUrl" : "https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL2ZpbmE0LmNvbS9saXZlL2txbWJ0Zmg3eGcvMXVlY2diamRnNC8zMTI2MzMubTN1OA&ext=.m3u8",
-  "descriptionKu": "کەناڵی کوردماکس کرمانجی",
-  "descriptionAr": "كوردماكس کرمانجي",
-  "descriptionEn": "Kurdmax Kurmancî TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmax.png"
-}, 
-    {
-  "id": "kurdmaxshow",
-  "name" : "Kurdmax Show",
-  "streamUrl" : "https://live.kurdtips.uno/proxy.php?stream=aHR0cDovLzEyM3R2LnByby9saXZlL2FTS3B4blNqL2hoZXdZY2IvMjQ3NzAubTN1OA&ext=.m3u8" , 
-  "descriptionKu": "کەناڵی کوردماکس شۆو",
-  "descriptionAr": "كوردماكس سوراني",
-  "descriptionEn": "Kurdmax Show" ,
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/kurdmaxshow.png"
-}, 
 {
   "id": "khak",
   "name": "Khak tv",
@@ -518,30 +409,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/khak.png"
 },
-        {
-  "id": "niga",
-  "name": "Niga Moveis",
-  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/96.m3u8?token=GkRZU0dfQAsUAl1eAQBRVgYIVgUIWFVRVwlTXwwDVAYHA1VUB1QGVVNBSURETRRSA1VqWVwbCwoCFRBMR1MXaggCEwgWBVAHFE9HEl5UAxVYCBkSSFBVEQ4bBA0DAl0XTURUSkBSEF9XDzoCUk8PVAcaD15NVV0fFlZcZlBTCFQPAhMIFgdAHRQKFhYVAwhCDlQZElpQRUFVTVcbDhRUBlVREx4WVA1EWBcXHxUDRH4zGhkSXUFFVlpKW1ZaFF8XDFVEChYbQFhFPBcDRE0UUgNVUEIaAxMDFhUQVFVOOlYOCF9XV0MLXlgQR1wVCEQbQFVaXlFNXkFrSVtdFgxHAVNeCRBJ",
-  "descriptionKu": "کەناڵی نیگا فیلم",
-  "descriptionAr":"قناة نیکا موفیس",
-  "descriptionEn": "Niga Movies",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/niga.png"
-},
-    {
-  "id": "niga",
-  "name": "Niga Family",
-  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/110.m3u8?token=GkRZU0dfQAsUW1cABwsHAVsPB1IOXVIFUgkBCQ1UAVMEAlBQAwAEAFRBSURETRRSA1VqWVwbCwIFCR4bQUUARz4PVRAOFVADAEFJRENQC1JAAgUcGklYVxYDEA8AAVcNQ0oTV0xDB0NYAgk5U1wQXgFdFwpWTF1fGBtdV2tSAFgACFUQDhVSExpBDBVHG1xZF1RZHBpbWEdGWEZcFgxHBFBTCRAYFQFeQw0RFE4bXBUraRccGlxJR1FXQVBbWEcPQwsCRwwVThNfEDoUUkoSRQdZWFVKGwsRBBseG1lXHWoCCV9cUVQWWFkNFkQNG1cVThpYX1ZQRVxGZkJQUBRfF1VSAgIWSg==",
-  "descriptionKu": "کەناڵی نیگا خێزانی",
-  "descriptionAr":"قناة نیکا",
-  "descriptionEn": "Niga Movies",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nigafamily.png"
-},
+     
     {
   "id": "eurokurd",
   "name": "Euro kurd tv",
@@ -618,18 +486,6 @@
 },
 
     {
-  "id": "ranyatv",
-  "name": "Ranya TV",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/163.m3u8",
-  "descriptionKu": "کەناڵی ڕانییە تیڤی",
-  "descriptionAr": "قناة رانیة",
-  "descriptionEn": "Ranya TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ranya.png"
-},
-    {
   "id": "zhintv",
   "name": "Zhin tv",
   "streamUrl": "https://183.bozztv.com/giatv/giatv-zhinfilm/zhinfilm/chunks.m3u8",
@@ -677,18 +533,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/shna.png"
 },
-{
-  "id": "Qallat",
-  "name": "Qallat tv",
-  "streamUrl": "http://185.95.184.26:25461/live/120541/20364/4075.m3u8?token=GkRZU0dfQAsUBwEABAhWAQABDQULCAYCDFpRX1ACAwRWXgNRAQBRVAZBSURETRRSA1VqWVwbCwcEDgcVFkMWUBM5WFYWDUADBFVHShVND1oHGg8AFBtBWlAbCBsABFMFVEQdEFFPFlREDQQKaF0DQQtbUBICV0RfWBUQVlppAVAMB19WFg1AARRPRw9ESUQNDE1ZXBQbU1pAS1NNURRfF1BUCQUWG0BSWRYLEkVARA1AcWQSFBtUS0BcXEpdWQsXW0RcAUEPQB0UChY5RVwVQxBdVF1dSxMJFgkQFRZbBE0+BV5cWlIBRV8MCxUVA0QGQBQXXVdXWEdbS21JXVJHD0NTAgsBFR8=",
-  "descriptionKu": "کەناڵی قەڵات",
-  "descriptionAr": "قناة قلات",
-  "descriptionEn": "Qallat TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/qallat.png"
-},
+
 {
   "id": "ala",
   "name": "Ala tv",
@@ -980,18 +825,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mihrab.png"
 },
-{
-  "id": "NRT4",
-  "name": "NRT 4",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/156.m3u8",
-  "descriptionKu": "کەناڵی ئێن ئاڕتی ئایینی",
-  "descriptionAr": "إن آر تي 4 الدينية",
-  "descriptionEn": "NRT 4",
-  "category": "ayne",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt4.png"
-},
+
 {
   "id": "one plus",
   "name": "One Plus",
@@ -1379,66 +1213,6 @@
   "language": "arabic",
   "views": 34000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/aljazeera.png"
-},
-{
-  "id": "mbc 1",
-  "name": "MBC 1",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/4725.m3u8",
-  "descriptionKu": "MBC 1",
-  "descriptionAr": "إم بي سي 1",
-  "descriptionEn": "MBC 1",
-  "category": "iraq",
-  "language": "arabic",
-  "views": 46000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc1.png"
-},
-{
-  "id": "mbc 2",
-  "name": "MBC 2",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/5591.m3u8",
-  "descriptionKu": "MBC 2",
-  "descriptionAr": "إم بي سي 2",
-  "descriptionEn": "MBC 2",
-  "category": "iraq",
-  "language": "arabic",
-  "views": 46000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc2.png"
-},
-    {
-  "id": "mbc3",
-  "name": "MBC 3",
-  "streamUrl": "https://live.kurdtips.uno/proxy.php?url=https%3A%2F%2Flive.kurdtips.uno%2Fproxy.php%3Furl%3Dhttp%253A%252F%252F22941-argued.dn-4kott.com%252Flive%252F2d80d2e615%252F27a38d346b0d%252F924908.m3u8%26ext%3D.m3u8&ext=.m3u8",
-  "descriptionKu": "MBC 3",
-  "descriptionAr": "ام بي سي ٣",
-  "descriptionEn": "MBC 3",
-  "category": "kids",
-  "language": "arabic",
-  "views": 22000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc3.png"
-},
-{
-  "id": "mbc 4",
-  "name": "MBC 4",
-  "streamUrl": "http://154.58.202.18:8080/mbc4/tracks-v1a1/mono.m3u8",
-  "descriptionKu": "MBC 4",
-  "descriptionAr": "إم بي سي 4",
-  "descriptionEn": "MBC 4",
-  "category": "iraq",
-  "language": "arabic",
-  "views": 46000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc4.png"
-},
-{
-  "id": "mbc_iraq",
-  "name": "MBC Iraq",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/4726.m3u8",
-  "descriptionKu": "MBC Iraq - عێراق",
-  "descriptionAr": "إم بي سي العراق",
-  "descriptionEn": "MBC Iraq",
-  "category": "iraq",
-  "language": "arabic",
-  "views": 46000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mbc.png"
 }
 
 ]

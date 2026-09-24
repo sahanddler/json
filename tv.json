@@ -283,10 +283,10 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/qallam.png"
 },
-    {
+     {
   "id": "bien SPORT 1",
   "name": "Bien SPORT 1",
-  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein2%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274766772",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fpr.footballii.ir%2Fhls2%2Fbein1.m3u8&_cb=1790275053627",
   "descriptionKu": " بین سپۆڕت 1",
   "descriptionAr": "بین سبورت 1",
   "descriptionEn": "bien Sport 1",
@@ -295,14 +295,13 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
 },
-    
     {
-  "id": "bien SPORT 1",
-  "name": "Bien SPORT 1",
-  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein3%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274709495",
-  "descriptionKu": " بین سپۆڕت 1",
-  "descriptionAr": "بین سبورت 1",
-  "descriptionEn": "bien Sport 1",
+  "id": "bien SPORT 2",
+  "name": "Bien SPORT 2",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein2%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274766772",
+  "descriptionKu": " بین سپۆڕت 2",
+  "descriptionAr": "بین سبورت 2",
+  "descriptionEn": "bien Sport 2",
   "category": "sport",
   "language": "sorani",
   "views": 50000,
@@ -311,8 +310,8 @@
     
     {
   "id": "bien SPORT 3",
-  "name": "Bien SPORT 1",
-  "streamUrl": "",
+  "name": "Bien SPORT 3",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein3%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274709495",
   "descriptionKu": " بین سپۆڕت 3",
   "descriptionAr": "بین سبورت 3",
   "descriptionEn": "bien Sport 3",
@@ -321,6 +320,7 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
 },
+    
 {
   "id": "bien SPORT turkey",
   "name": "Bien SPORT Turkey",

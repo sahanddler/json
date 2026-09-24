@@ -259,18 +259,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/buner.png"
 },
-{
-  "id": "Astera sport",
-  "name": "Astera Sport",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/149.m3u8",
-  "descriptionKu": "ئەستێرە سپۆڕت",
-  "descriptionAr": "استيرة سبورت",
-  "descriptionEn": "Astera Sport",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/astera.png"
-},
+
     {
   "id": "Qallam sport",
   "name": "Qallam Sport",

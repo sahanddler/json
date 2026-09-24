@@ -247,6 +247,18 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/avas.png"
 },
+     {
+  "id": "BINER TV",
+  "name": "BINER TV",
+  "streamUrl": "https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8",
+  "descriptionKu": "کەناڵی بینەر",
+  "descriptionAr": "قناة بینر",
+  "descriptionEn": "BINER TV",
+  "category": "sport",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/buner.png"
+},
 {
   "id": "Astera sport",
   "name": "Astera Sport",
@@ -271,6 +283,44 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/qallam.png"
 },
+    {
+  "id": "bien SPORT 1",
+  "name": "Bien SPORT 1",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein2%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274766772",
+  "descriptionKu": " بین سپۆڕت 1",
+  "descriptionAr": "بین سبورت 1",
+  "descriptionEn": "bien Sport 1",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
+},
+    
+    {
+  "id": "bien SPORT 1",
+  "name": "Bien SPORT 1",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein3%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274709495",
+  "descriptionKu": " بین سپۆڕت 1",
+  "descriptionAr": "بین سبورت 1",
+  "descriptionEn": "bien Sport 1",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
+},
+    
+    {
+  "id": "bien SPORT 3",
+  "name": "Bien SPORT 1",
+  "streamUrl": "",
+  "descriptionKu": " بین سپۆڕت 3",
+  "descriptionAr": "بین سبورت 3",
+  "descriptionEn": "bien Sport 3",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/biensport.png"
+},
 {
   "id": "bien SPORT turkey",
   "name": "Bien SPORT Turkey",
@@ -287,7 +337,7 @@
     {
   "id": "Alwan Sport 1",
   "name": "Alwan Sport 1",
-  "streamUrl": "https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1on_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_playlist.m3u8?type=live",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fprod-fastly-us-west-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FC_YZ4LkNeYnxcDUTCLdzJJg1HgznTyXiwlPTw6NXkppWlI2IIxpKHd4gE-TkWcm3cn70Vt9ZuYp5mI4AOe6omg%2Ftranscode%2Fus-west-1%2Fperiscope-replay-direct-prod-us-west-1-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive&_cb=1790274416382",
   "descriptionKu": "ئەڵوەن سپۆڕت١ SD",
   "descriptionAr": "ألوان سبورت١ SD",
   "descriptionEn": "Alwan Sport 1",
@@ -296,34 +346,34 @@
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
 },
-      {
-  "id": "Alwan Sport 2",
-  "name": "Alwan Sport 2",
-  "streamUrl": "https://vsd123.okcdn.ru/hls/21792456313509.m3u8/sig/1XbyOuFXArk/expires/1788984906558/srcIp/185.24.61.3/urls/95.163.35.97/clientType/0/srcAg/CHROME/mid/17696528670373/21792456313509_high/index.m3u8",
-  "descriptionKu": "ئەڵوەن سپۆڕت2 ",
-  "descriptionAr": "ألوان سبورت2 ",
-  "descriptionEn": "Alwan Sport 2",
-  "category": "sport",
-  "language": "sorani",
-  "views": 50000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
-},  
-    {
+  {
   "id": "Alwan Sport 3",
   "name": "Alwan Sport 3",
-  "streamUrl": "https://vsd115.okcdn.ru/hls/19822957627933.m3u8/sig/aWDVwWE3fP4/expires/1788985012845/srcIp/185.24.61.3/urls/185.180.203.65/clientType/0/srcAg/CHROME/mid/17667317833245/19822957627933_high/index.m3u8",
-  "descriptionKu": "ئەڵوەن سپۆڕت3",
-  "descriptionAr": "ألوان سبورت3",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Ffra-prod-catalyst-0.lp-playback.studio%2Fhls%2Fvideo%2Bee8ecy097svzuirw%2F13_1%2Findex.m3u8&_cb=1790274493879",
+  "descriptionKu": "ئەڵوەن سپۆڕت3 ",
+  "descriptionAr": "ألوان سبورت3 ",
   "descriptionEn": "Alwan Sport 3",
   "category": "sport",
   "language": "sorani",
   "views": 50000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
-},
+},   
+    {
+  "id": "Alwan Sport 4",
+  "name": "Alwan Sport 4",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fprod-fastly-ap-northeast-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FJKSnG2KYJ8cf3whjoC-wXBh9uaMj1ZaIwtEeCH4IbA2Q2y5UYwsPEv9912YvYm1_ubCrUJchWKgkEPkjfmrOSQ%2Ftranscode%2Fap-northeast-1%2Fperiscope-replay-direct-prod-ap-northeast-1-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive&_cb=1790274555855&_HLS_skip=YES",
+  "descriptionKu": "ئەڵوەن سپۆڕت4 ",
+  "descriptionAr": "ألوان سبورت4 ",
+  "descriptionEn": "Alwan Sport 4",
+  "category": "sport",
+  "language": "sorani",
+  "views": 50000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/alwan.png"
+},   
 {
   "id": "Gewher SPORT",
   "name": "Gewher SPORT",
-  "streamUrl": "https://iptv-link.short.gy/Gewher_Sport.m3u8",
+  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fcdn.karwan.tv%2Fgewher-sport%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274337826",
   "descriptionKu": "گەوهەر سپۆڕت",
   "descriptionAr": "گوهر سبورت",
   "descriptionEn": "Gewher Sport",
@@ -552,18 +602,7 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/zagros24.png"
 },
-    {
-  "id": "BINER TV",
-  "name": "BINER TV",
-  "streamUrl": "https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8",
-  "descriptionKu": "کەناڵی بینەر",
-  "descriptionAr": "قناة بینر",
-  "descriptionEn": "BINER TV",
-  "category": "all",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/buner.png"
-},
+   
 
     {
   "id": "mirna",

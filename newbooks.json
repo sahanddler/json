@@ -1,5 +1,14 @@
 [
   {
+    "category": "چیرۆک",
+    "author": "ئەحمەد گۆڤان",
+    "name": "کاتێک خۆشەویستی دەبێتە تاوان",
+    "link": "https://drive.google.com/file/d/1g1rRTvdcS_6ou1oK2X9tTw_9-NPCTN6r/view?usp=drivesdk",
+    "image": "https://github.com/sahanddler/json/raw/main/images/img_1790353742675.jpg",
+    "url": "https://github.com/sahanddler/json/raw/main/pdfs/%DA%A9%D8%A7%D8%AA%DB%8E%DA%A9_%D8%AE%DB%86%D8%B4%DB%95%D9%88%DB%8C%D8%B3%D8%AA%DB%8C_%D8%AF%DB%95%D8%A8%DB%8E%D8%AA%DB%95_%D8%AA%D8%A7%D9%88%D8%A7%D9%86_20260925_115908_0000.pdf",
+    "aboutpdf": "وامزانی خۆشەویستی هەموو شتێک جوان دەکات بەڵام کاتێک دەگاتە تاوان هەموو شتێک ناشرین دەبێت، خۆشەویستییەکە دەشکێت و لەناودەچێت، بۆم دەرکەوت هەڵە تێگەیشتبووم لەخۆشەویستی هەموو کەس وەک یەک نییە تاوەکو وەکو تۆ خۆشەویستی بکەن، کۆمەڵگەش رۆڵی خۆی دەبینێت لە کوشتن و ناشتنت دوای خۆشەویستییەکی تاوان"
+  }, 
+  {
     "category": "ئابووری",
     "author": "ڕۆبێرت کیۆساکی",
     "name": "بازرگانی لە سەدەی بیست و یەکدا",
@@ -366,14 +375,5 @@
     "name": "جەساسە",
     "category": "ڕۆمان",
     "url": "https://github.com/sahanddler/PDF/raw/main/626939.PDF"
-  },
-  {
-    "category": "چیرۆک",
-    "author": "ئەحمەد گۆڤان",
-    "name": "کاتێک خۆشەویستی دەبێتە تاوان",
-    "link": "https://drive.google.com/file/d/1g1rRTvdcS_6ou1oK2X9tTw_9-NPCTN6r/view?usp=drivesdk",
-    "image": "https://github.com/sahanddler/json/raw/main/images/img_1790353742675.jpg",
-    "url": "https://github.com/sahanddler/json/raw/main/pdfs/%DA%A9%D8%A7%D8%AA%DB%8E%DA%A9_%D8%AE%DB%86%D8%B4%DB%95%D9%88%DB%8C%D8%B3%D8%AA%DB%8C_%D8%AF%DB%95%D8%A8%DB%8E%D8%AA%DB%95_%D8%AA%D8%A7%D9%88%D8%A7%D9%86_20260925_115908_0000.pdf",
-    "aboutpdf": "وامزانی خۆشەویستی هەموو شتێک جوان دەکات بەڵام کاتێک دەگاتە تاوان هەموو شتێک ناشرین دەبێت، خۆشەویستییەکە دەشکێت و لەناودەچێت، بۆم دەرکەوت هەڵە تێگەیشتبووم لەخۆشەویستی هەموو کەس وەک یەک نییە تاوەکو وەکو تۆ خۆشەویستی بکەن، کۆمەڵگەش رۆڵی خۆی دەبینێت لە کوشتن و ناشتنت دوای خۆشەویستییەکی تاوان"
   }
 ]

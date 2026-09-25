@@ -1,14 +1,5 @@
 [
   {
-    "aboutpdf": "effe",
-    "image": "https://github.com/sahanddler/json/raw/main/images/img_1790349337980.png",
-    "author": "ef",
-    "link": "https://drive.google.com/file/d/1kGzkoX8tu0KDSf9AjJFdLe17pCZ0icmg/view?usp=drivesdk",
-    "name": "feef",
-    "category": "زانستی",
-    "url": "https://github.com/sahanddler/json/raw/main/pdfs/3rd Lecture-Carboxylic Acids-2025-2026 (2).pdf"
-  },
-  {
     "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_6.png",
     "author": "حەکیم کاکە وەیس",
@@ -88,5 +79,14 @@
     "name": "بازرگانی لە سەدەی بیست و یەکدا",
     "category": "ئابووری",
     "url": "https://github.com/sahanddler/PDF/raw/main/%E2%80%8E%E2%81%A8%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%20%D8%B3%DB%95%D8%AF%DB%95%DB%8C%20%D9%A2%D9%A1%E2%81%A9.PDF"
+  },
+  {
+    "aboutpdf": "Test",
+    "image": "https://github.com/sahanddler/json/raw/main/images/img_1790351271247.jpg",
+    "author": "test",
+    "link": "",
+    "name": "jdjdj",
+    "category": "ئابوری",
+    "url": "https://github.com/sahanddler/json/raw/main/pdfs/‎⁨بازرگانی سەدەی ٢١⁩.PDF"
   }
 ]

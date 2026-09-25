@@ -1,66 +1,83 @@
 [
   {
-    "category": "ئابfووری",
-    "author": "حەکیم کاکە وەیس",
-    "name": "کاری کرێگرتە و سەرمایە",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_6.png",
+    "author": "حەکیم کاکە وەیس",
+    "link": "",
+    "name": "کاری کرێگرتە و سەرمایە",
+    "category": "ئابfووریhh",
     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624720068.pdf"
   },
   {
-    "category": "ئابووری",
-    "author": "کیهان نیا",
-    "name": "نهینی سەرکەوتون لە بازاڕەکانی کاردا",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_5.png",
+    "author": "کیهان نیا",
+    "link": "",
+    "name": "نهینی سەرکەوتون لە بازاڕەکانی کاردا",
+    "category": "ئابووری",
     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624719985.pdf"
   },
   {
-    "category": "ئابووری",
-    "author": "ڕۆبێرت سی ئالن",
-    "name": "کاری کرێگرتە و سەرمایە",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_8_2.png",
+    "author": "ڕۆبێرت سی ئالن",
+    "link": "",
+    "name": "کاری کرێگرتە و سەرمایە",
+    "category": "ئابووری",
     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624719814.pdf"
   },
   {
-    "category": "ئابووری",
-    "author": "د. نەهرۆ عەلی",
-    "name": "مارکێتینگ",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_8_1.png",
+    "author": "د. نەهرۆ عەلی",
+    "link": "",
+    "name": "مارکێتینگ",
+    "category": "ئابووری",
     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624719909.pdf"
   },
   {
-    "category": "ئابووری",
-    "author": "د. نەهرۆ عەلی",
-    "name": "زانستی ئابووری",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_4.png",
+    "author": "د. نەهرۆ عەلی",
+    "link": "",
+    "name": "زانستی ئابووری",
+    "category": "ئابووری",
     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624719621.pdf"
   },
   {
-    "category": "ئابووری",
-    "author": "ئیحسان بورهانەدین",
-    "name": "زەکاتی ماڵی بازرگانی",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_7.png",
+    "author": "ئیحسان بورهانەدین",
+    "link": "",
+    "name": "زەکاتی ماڵی بازرگانی",
+    "category": "ئابووری",
     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624719656.pdf"
   },
   {
-    "category": "ئابووری",
-    "author": "شێرزاد هەینی",
-    "name": "دۆلار لە ئەمریکا",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_3.png",
+    "author": "شێرزاد هەینی",
+    "link": "",
+    "name": "دۆلار لە ئەمریکا",
+    "category": "ئابووری",
     "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624719408.pdf"
   },
   {
-    "category": "ئابووری",
-    "author": "جەیمس گۆورتی ، ڕیچارد سترۆپ، دوایت لی",
-    "name": "ئابووری بە زمانی سادە",
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/rsm/raw/main/aburi_1.png",
-    "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624718627.pdf"
-  }, 
-    {
+    "author": "جەیمس گۆورتی ، ڕیچارد سترۆپ، دوایت لی",
+    "link": "",
+    "name": "ئابووری بە زمانی سادە",
     "category": "ئابووری",
-    "author": "ڕۆبێرت کیۆساکی",
-    "name": "بازرگانی لە سەدەی بیست و یەکدا",
-    "link" : "https://drive.google.com/file/d/1hdZJ8fn-ow22bIHvlhk7tgQBm8Ih6Vju/view?usp=drivesdk", 
+    "url": "https://wise-library.com/librarywise/public/uploads/uploads/pdf/1624718627.pdf"
+  },
+  {
+    "aboutpdf": "",
     "image": "https://github.com/sahanddler/pdf/raw/main/bazrg21.png",
+    "author": "ڕۆبێرت کیۆساکی",
+    "link": "https://drive.google.com/file/d/1hdZJ8fn-ow22bIHvlhk7tgQBm8Ih6Vju/view?usp=drivesdk",
+    "name": "بازرگانی لە سەدەی بیست و یەکدا",
+    "category": "ئابووری",
     "url": "https://github.com/sahanddler/PDF/raw/main/%E2%80%8E%E2%81%A8%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%20%D8%B3%DB%95%D8%AF%DB%95%DB%8C%20%D9%A2%D9%A1%E2%81%A9.PDF"
-  } 
+  }
 ]

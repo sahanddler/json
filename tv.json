@@ -411,7 +411,56 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/euro.png"
 },
+    {
+  "id": "mmn show",
+  "name": "Mmn Show" ,
+  "streamUrl": "http://mmn.mypsx.net:1935//live//mmnhddshow//playlist.m3u8",
+  "descriptionKu": "mmn show",
+  "descriptionAr": "قناة mmn show",
+  "descriptionEn": "mmn show",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mmn.png"
+},
         {
+  "id": "mmn Movies",
+  "name": "Mmn Movies" ,
+  "streamUrl": "http://mmn.mypsx.net:1935//live//mmnhdmovies//playlist.m3u8",
+  "descriptionKu": "mmn Movies",
+  "descriptionAr": "قناة mmn Movies",
+  "descriptionEn": "mmn Movies",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mmnmovies.png"
+},
+
+        {
+  "id": "mmn docuumentary",
+  "name": "Mmn documentary" ,
+  "streamUrl": "http://mmn.mypsx.net:1935//live//mmnhddocumentary//playlist.m3u8",
+  "descriptionKu": "mmn documentary",
+  "descriptionAr": "قناة mmn documentary",
+  "descriptionEn": "mmn documentary",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mmndocumentary.png"
+},
+
+    {
+  "id": "deren tv",
+  "name": "deren tv" ,
+  "streamUrl": "http://baskhd.ddns.net:40/live/Derin/tracks-v1a1/mono.m3u8",
+  "descriptionKu": "کەناڵی دێرین",
+  "descriptionAr": "قناة دیرین",
+  "descriptionEn": "deren tv",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/.png"
+},    {
   "id": "kelga",
   "name": "Kelga tv",
   "streamUrl": "https://lbgo.bozztv.com/ssh101/live/Kelga/playlist.m3u8",

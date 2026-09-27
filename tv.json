@@ -900,42 +900,7 @@
   "views": 5000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/saudi.png"
 },
-{
-  "id": "parwarda_hawler",
-  "name": "Parwarday Hawler",
-  "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8",
-  "descriptionKu": "کەناڵی پەروەردەیی هەولێر",
-  "descriptionAr": "التربية أربيل",
-  "descriptionEn": "Parwarday Hawler",
-  "category": "all",
-  "language": "sorani",
-  "views": 29000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
-},
-{
-  "id": "Parwarda_slimane",
-  "name": "Parwarday Slimane",
-  "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8",
-  "descriptionKu": "کەناڵی پەروەردەیی سلێمانی",
-  "descriptionAr": "التربية السليمانية",
-  "descriptionEn": "Parwarday Slimane",
-  "category": "all",
-  "language": "sorani",
-  "views": 29000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
-},
-{
-  "id": "Parwarda_duhok",
-  "name": "Parwarday Duhok",
-  "streamUrl": "https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8",
-  "descriptionKu": "کەناڵی پەروەردەیی دهۆك",
-  "descriptionAr": "التربية دهوك",
-  "descriptionEn": "Parwarday Duhok",
-  "category": "all",
-  "language": "sorani",
-  "views": 29000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/parwarda.png"
-},
+
 {
   "id": "mixkurdy",
   "name": "Mixkurdy",
@@ -984,30 +949,8 @@
   "views": 19000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/baxcha.png"
 },
-    {
-  "id": "nigakids",
-  "name": "Niga Kids",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/193.m3u8",
-  "descriptionKu": "کەناڵی نیگا منداڵان",
-  "descriptionAr":"قناة نیکا کیدس",
-  "descriptionEn": "Niga Kids",
-  "category": "kids",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nigakids.png"
-},
-    {
-  "id": "NRT3",
-  "name": "NRT 3",
-  "streamUrl": "http://185.95.184.33:25461/live/120541/20364/194.m3u8",
-  "descriptionKu": "کەناڵی ئێن ئاڕتی 3",
-  "descriptionAr": "إن آر تي 3 الدينية",
-  "descriptionEn": "NRT 3",
-  "category": "kids",
-  "language": "sorani",
-  "views": 9000,
-  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/nrt3.png"
-},
+
+
      {
   "id": "kidco",
   "name": "Kidco",

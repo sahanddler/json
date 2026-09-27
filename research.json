@@ -1,5 +1,4 @@
 [
-  
   {
     "aboutpdf": "ئەم توێژینەوە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/pdf/raw/main/oqya.png",
@@ -35,14 +34,23 @@
     "name": "بنەماکانی توێژینەوەی زانستی",
     "category": "توێژینەوە",
     "url": "https://github.com/sahanddler/pdf1/raw/main/385014.pdf"
-  }, 
-    {
-    "aboutpdf" : "ئەم توێژینەوە هیچ کورتەیەکی بەردەست نییە",
+  },
+  {
+    "aboutpdf": "ئەم توێژینەوە هیچ کورتەیەکی بەردەست نییە",
     "image": "https://github.com/sahanddler/pdf/raw/main/hokarr.png",
     "author": "عبدالکریم مصطفى",
     "link": "https://drive.google.com/file/d/1BvTmtUVVv46E_KfYn97yfshfhG-d84jH/view?usp=drivesdk",
     "name": "هۆکارە کۆمەڵایەتییەکانی تەڵاق لە سەردەمی نوێدا",
     "category": "توێژینەوە",
     "url": "https://github.com/sahanddler/PDF/raw/main/635990.PDF"
-  } 
-] 
+  },
+  {
+    "aboutpdf": "ئەم توێژینەوە هیچ کورتەیەکی بەردەست نییە",
+    "image": "",
+    "author": "د.مهاباد کامل عبداللە",
+    "link": "https://drive.google.com/file/d/1fDLy0zTZCaDHVpc0Ftk6map8E3bXGSKn/view?usp=drivesdk",
+    "name": "زمانی دایک لە سیستەمی پەروەردەدا",
+    "category": "توێژینەوە",
+    "url": "https://github.com/sahanddler/json/raw/main/pdfs/زمانی دایک لە سیستەمی پەروەردەدا.pdf"
+  }
+]

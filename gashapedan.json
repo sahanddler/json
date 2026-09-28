@@ -358,42 +358,41 @@
     "name": "تێگەیشتوو پێگەیشتوو بە",
     "category": "گەشەپێدان",
     "url": "https://github.com/sahanddler/dang/raw/main/718.pdf"
-  }, 
+  },
   {
-    "aboutpdf" : "کوورتە گێڕانەوەیەکی پۆلی دوازدە و یەکەم ساڵی زانکۆی نووسەرە، باسکردنی چەند بابەتێکی تری گرنگ",
+    "aboutpdf": "کوورتە گێڕانەوەیەکی پۆلی دوازدە و یەکەم ساڵی زانکۆی نووسەرە، باسکردنی چەند بابەتێکی تری گرنگ",
     "image": "https://github.com/sahanddler/pdf/raw/main/yakamm.png",
-    "author": "عبدالکریم مصطفى",
+    "author": "عبدالکریم مصطفى گەردی",
     "link": "https://drive.google.com/file/d/1i6d9VU9oyPpXm8x8_RIUb3O75wH1-9Vs/view?usp=drivesdk",
     "name": "یەکەم ساڵی زانکۆم چۆن تێپەڕی؟",
     "category": "گەشەپێدان",
     "url": "https://github.com/sahanddler/PDF/raw/main/427872.PDF"
-  }, 
-    {
-    "aboutpdf" : "چەند نموونەیەک لە ژیاننامەی پێغەمبەری مەزن دروودی خوای لەسەر بێت",
+  },
+  {
+    "aboutpdf": "چەند نموونەیەک لە ژیاننامەی پێغەمبەری مەزن دروودی خوای لەسەر بێت",
     "image": "https://github.com/sahanddler/pdf/raw/main/hunarg.png",
     "author": "أ.سلیمان بن عوض قیمان",
     "link": "https://drive.google.com/file/d/1CkfbCpTMhtUFvOzbiID3WzWdy9Mx2-Kh/view?usp=drivesdk",
     "name": "هونەری گفتوگۆکردن",
     "category": "گەشەپێدان",
     "url": "https://github.com/sahanddler/PDF/raw/main/%E2%80%8E%E2%81%A8%D9%87%D9%88%D9%86%DB%95%D8%B1%DB%8C%20%DA%AF%D9%81%D8%AA%D9%88%DA%AF%DB%86%DA%A9%D8%B1%D8%AF%D9%86%20%E2%81%A9.pdf"
-    }, 
+  },
   {
-    "aboutpdf" :"کتێبی «تەلارسازی ڕۆح»  کتێبێکی پەند و ئامۆژگاریی ئاینییە، باس لە بنیاتنانی ڕۆحێکی ئاسوودە و بەها ئەخلاقییەکان لەناو کۆمەڵگا و خێزاندا دەکات بە سوودوەرگرتن لە ڕەوشتی هاوەڵانی پێغەمبەر (ص)",
+    "aboutpdf": "کتێبی «تەلارسازی ڕۆح»  کتێبێکی پەند و ئامۆژگاریی ئاینییە، باس لە بنیاتنانی ڕۆحێکی ئاسوودە و بەها ئەخلاقییەکان لەناو کۆمەڵگا و خێزاندا دەکات بە سوودوەرگرتن لە ڕەوشتی هاوەڵانی پێغەمبەر (ص)",
     "image": "https://github.com/sahanddler/pdf/raw/main/pshkoii.png",
     "author": "ابراهيم علی",
     "link": "https://drive.google.com/file/d/128nYUSxVnzCtF28BeODPfmJ8FLthztWp/view?usp=drivesdk",
     "name": "تەلارسازی ڕۆح",
     "category": "گەشەپێدان",
     "url": "https://github.com/sahanddler/PDF/raw/main/Notes_260831_145332.pdf.PDF_compressed.pdf"
-                 }, 
-    {
-    "aboutpdf" :"کتێبی «چاکەیەک لەگەڵ خۆت بکە... لێخۆشبە» جەخت لەسەر ئەوە دەکاتەوە کە لێخۆشبوون دیارییەک نییە بۆ کەسی بەرامبەر یان پەسەندکردنی هەڵەکانی، بەڵکو بڕیارێکی ئاگادارانەیە بۆ رزگارکردنی دەروونی خۆت لە زیندانی ڕق، کینە و تاڵیی ژیان؛ جۆیس مایەر ڕوونی دەکاتەوە کە هەڵگرتنی تووڕەیی وەک ژەهرێک وایە کە ڕۆژانە خۆت دەخۆیتەوە و ئازاری جەستەیی و ڕۆحیت پێدەگەیەنێت، بۆیە تاکە ڕێگە بۆ بەدەستهێنانی ئارامیی راستەقینە و دەستپێکردنەوەی ژیانێکی تەندروست، لێخۆشبوونە لە خەڵک و لە هەڵەکانی ڕابردووی خۆت بەبێ ئەوەی ناچاربیت متمانەی پێشوو بۆ کەسانی زیانبەخش بگەڕێنیتەوە",
+  },
+  {
+    "aboutpdf": "کتێبی «چاکەیەک لەگەڵ خۆت بکە... لێخۆشبە» جەخت لەسەر ئەوە دەکاتەوە کە لێخۆشبوون دیارییەک نییە بۆ کەسی بەرامبەر یان پەسەندکردنی هەڵەکانی، بەڵکو بڕیارێکی ئاگادارانەیە بۆ رزگارکردنی دەروونی خۆت لە زیندانی ڕق، کینە و تاڵیی ژیان؛ جۆیس مایەر ڕوونی دەکاتەوە کە هەڵگرتنی تووڕەیی وەک ژەهرێک وایە کە ڕۆژانە خۆت دەخۆیتەوە و ئازاری جەستەیی و ڕۆحیت پێدەگەیەنێت، بۆیە تاکە ڕێگە بۆ بەدەستهێنانی ئارامیی راستەقینە و دەستپێکردنەوەی ژیانێکی تەندروست، لێخۆشبوونە لە خەڵک و لە هەڵەکانی ڕابردووی خۆت بەبێ ئەوەی ناچاربیت متمانەی پێشوو بۆ کەسانی زیانبەخش بگەڕێنیتەوە",
     "image": "https://github.com/sahanddler/pdf/raw/main/chakal.png",
-    "author": "جۆییس مایەر", 
-    "link" : "https://drive.google.com/file/d/15MQaydCPRfzgahPLmBdYHOx0YGbN9Jjp/view?usp=drivesdk",
+    "author": "جۆییس مایەر",
+    "link": "https://drive.google.com/file/d/15MQaydCPRfzgahPLmBdYHOx0YGbN9Jjp/view?usp=drivesdk",
     "name": "چاکەیەک لەگەڵ خۆت بکە...لێخۆشبە",
     "category": "گەشەپێدان",
     "url": "https://github.com/sahanddler/PDF/raw/main/Kurdish-Sorani-Do-Yourself-A-Favor-Forgive-%D8%B6%D8%A7%D9%83%D8%A9%D9%8A%D8%A9%D9%83-%D9%84%D8%A9-%D8%B7%D8%A9%D9%84%D9%8E-%D8%AE%D8%A4%D8%AA-%D8%A8%D9%83%D8%A9-%D9%84%D9%8E%D9%8A%D8%AE%D8%A4%D8%B4%D8%A8%D8%A9.pdf"
-    } 
-  
+  }
 ]

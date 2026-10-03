@@ -275,7 +275,7 @@
      {
   "id": "bien SPORT 1",
   "name": "Bien SPORT 1",
-  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fpr.footballii.ir%2Fhls2%2Fbein1.m3u8&_cb=1790275053627",
+  "streamUrl": "https://balance.footballii.ir/hls2/bein1.m3u8",
   "descriptionKu": " بین سپۆڕت 1",
   "descriptionAr": "بین سبورت 1",
   "descriptionEn": "bien Sport 1",
@@ -287,7 +287,7 @@
     {
   "id": "bien SPORT 2",
   "name": "Bien SPORT 2",
-  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein2%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274766772",
+  "streamUrl": "https://balance.footballii.ir/hls2/bein2.m3u8",
   "descriptionKu": " بین سپۆڕت 2",
   "descriptionAr": "بین سبورت 2",
   "descriptionEn": "bien Sport 2",
@@ -300,7 +300,7 @@
     {
   "id": "bien SPORT 3",
   "name": "Bien SPORT 3",
-  "streamUrl": "https://footfytv.pro/proxy/direct?url=https%3A%2F%2Fladyboy.yedektv.cfd%2F%2Fbein3%2Ftracks-v1a1%2Fmono.m3u8&_cb=1790274709495",
+  "streamUrl": "https://balance.footballii.ir/hls2/bein3.m3u8",
   "descriptionKu": " بین سپۆڕت 3",
   "descriptionAr": "بین سبورت 3",
   "descriptionEn": "bien Sport 3",
@@ -583,6 +583,30 @@
   "language": "sorani",
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ala.png"
+},
+    {
+  "id": "qallat",
+  "name": "qallat tv",
+  "streamUrl": "http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8",
+  "descriptionKu": "کەناڵی قەڵات",
+  "descriptionAr": "قناة قلات",
+  "descriptionEn": "qallat TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/qallat.png"
+},
+    {
+  "id": "Ranya city",
+  "name": "Ranya city",
+  "streamUrl": "http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8",
+  "descriptionKu": "کەناڵی ڕانیە ستی",
+  "descriptionAr": "قناة رانية",
+  "descriptionEn": "Ranya city TV",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ranyacity.png"
 },
 {
   "id": "soran",

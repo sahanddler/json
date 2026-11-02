@@ -423,6 +423,18 @@
   "views": 9000,
   "imageUrl": "https://github.com/sahanddler/pdf/raw/main/mmn.png"
 },
+    {
+  "id": "Ranya tv",
+  "name": "Ranya tv" ,
+  "streamUrl": "https://ranyatv.avrstream.com/RanyaTV/playlist.m3u8",
+  "descriptionKu": "رانییە تیڤی",
+  "descriptionAr": "قناة رانیة",
+  "descriptionEn": "Ranya tv",
+  "category": "all",
+  "language": "sorani",
+  "views": 9000,
+  "imageUrl": "https://github.com/sahanddler/pdf/raw/main/ranya1.png"
+},
         {
   "id": "mmn Movies",
   "name": "Mmn Movies" ,

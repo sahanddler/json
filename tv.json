@@ -16,7 +16,7 @@
   {
     "id": "Ava Media",
     "name": "Ava Media",
-    "streamUrl": "https://ava001.xyz/upload/images/1080.m3u8",
+    "streamUrl": "http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8",
     "descriptionKu":  "ئاڤا میدیا",
     "descriptionAr": "افا میدیا",
     "descriptionEn": "Ava Media",

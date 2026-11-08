@@ -300,7 +300,7 @@
     {
   "id": "bien SPORT 3",
   "name": "Bien SPORT 3",
-  "streamUrl": "https://balance.footballii.ir/hls2/bein3.m3u8",
+  "streamUrl": "http://86.192.195.47:9034/stream/4/index.m3u8",
   "descriptionKu": " بین سپۆڕت 3",
   "descriptionAr": "بین سبورت 3",
   "descriptionEn": "bien Sport 3",
@@ -311,12 +311,12 @@
 },
     
 {
-  "id": "bien SPORT turkey",
-  "name": "Bien SPORT Turkey",
-  "streamUrl": "https://ladyboy.yedektv.cfd//hls/bein1.m3u8",
-  "descriptionKu": " بین سپۆڕت تورکی",
-  "descriptionAr": "بین سبورت ترکي",
-  "descriptionEn": "bien Sport Turkey",
+  "id": "bien SPORT 4",
+  "name": "Bien SPORT 4",
+  "streamUrl": "http://86.192.195.47:9034/stream/5/index.m3u8",
+  "descriptionKu": " بین سپۆڕت 4",
+  "descriptionAr": "بین سبورت 4",
+  "descriptionEn": "bien Sport 4",
   "category": "sport",
   "language": "sorani",
   "views": 50000,

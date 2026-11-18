@@ -201,7 +201,7 @@
         {
   "id": "komaltv",
   "name": "Komal TV",
-  "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8",
+  "streamUrl": "https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8",
   "descriptionKu": "کەناڵی کۆمەڵ",
   "descriptionAr": "کومل تيفي",
   "descriptionEn": "Komal TV",
@@ -903,7 +903,7 @@
 {
   "id": "one plus",
   "name": "One Plus",
-  "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8",
+  "streamUrl": "https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8",
   "descriptionKu": "وەن پڵەس",
   "descriptionAr": "ون بلس",
   "descriptionEn": "One Plus",

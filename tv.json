@@ -1198,7 +1198,7 @@
     {
   "id": "aljazera2",
   "name": "Al Jazeera 2",
-  "streamUrl": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/03.m3u8",
+  "streamUrl" : "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
   "descriptionKu": "ئەل جەزیرە ٢",
   "descriptionAr": "قناة الجزيرة ٢",
   "descriptionEn": "Al Jazeera 2",
